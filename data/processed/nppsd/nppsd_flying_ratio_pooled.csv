@@ -1,0 +1,351 @@
+species,birds_fly,birds_water,birds_total,records,flying_ratio,common_name,scientific_name,passes_min,land_time_group
+ALTE,743,415,1158,472,0.6416234887737479,Aleutian Tern,Onychoprion aleuticus,TRUE,TRUE
+AMAV,1,180,181,4,0.0055248618784530384,American Avocet,Recurvirostra americana,TRUE,FALSE
+AMBD,0,1,1,1,0,American Black Duck,Anas rubripes,FALSE,FALSE
+AMCO,1,201,202,22,0.0049504950495049506,American Coot,Fulica americana,TRUE,FALSE
+AMGP,12,0,12,4,1,American Golden Plover,Pluvialis dominica,FALSE,FALSE
+AMWI,4648,9337,13985,119,0.33235609581694675,American Wigeon,Mareca americana,TRUE,FALSE
+ANMU,16181,50272,66453,8921,0.2434954027658646,Ancient Murrelet,Synthliboramphus antiquus,TRUE,FALSE
+ARLO,3,209,212,20,0.014150943396226415,Arctic Loon,Gavia arctica,TRUE,FALSE
+ARTE,38421,29439,67860,6031,0.5661803713527851,Arctic Tern,Sterna paradisaea,TRUE,TRUE
+ASSP,1340,134,1474,309,0.9090909090909091,Ashy Storm-Petrel,Hydrobates homochroa,TRUE,FALSE
+AUSH,5,2,7,6,0.7142857142857143,Audubon's Shearwater,Puffinus lherminieri,FALSE,FALSE
+AWPE,1,0,1,1,1,American White Pelican,Pelecanus erythrorhynchos,FALSE,FALSE
+BAEA,6171,6536,12707,5905,0.4856378374124498,Bald Eagle,Haliaeetus leucocephalus,TRUE,FALSE
+BAGO,4939,57472,62411,3176,0.07913669064748201,Barrow's Goldeneye,Bucephala islandica,TRUE,FALSE
+BASP,117,61,178,94,0.6573033707865169,Baird's Sandpiper,Calidris bairdii,TRUE,FALSE
+BBKW,0,217,217,35,0,Baird's Beaked Whale,Berardius bairdii,TRUE,FALSE
+BBMA,18,0,18,13,1,Black-billed Magpie,Pica hudsonia,FALSE,FALSE
+BBPL,65,894,959,34,0.06777893639207508,Black-bellied Plover,Pluvialis squatarola,TRUE,FALSE
+BBSA,4,0,4,2,1,Buff-breasted Sandpiper,Calidris subruficollis,FALSE,FALSE
+BCNH,1,6,7,7,0.14285714285714285,Black-crowned Night-Heron,Nycticorax nycticorax,FALSE,FALSE
+BEKI,212,229,441,307,0.48072562358276644,Belted Kingfisher,Megaceryle alcyon,TRUE,FALSE
+BESE,0,1476,1476,799,0,Bearded Seal,Erignathus barbatus,TRUE,FALSE
+BEWH,1,130,131,32,0.007633587786259542,Beluga Whale,Delphinapterus leucas,TRUE,FALSE
+BFAL,18590,10377,28967,15626,0.6417647668036041,Black-footed Albatross,Phoebastria nigripes,TRUE,FALSE
+BGNO,4,0,4,2,1,Blue-gray Noddy,Anous ceruleus,FALSE,TRUE
+BHGU,6,5,11,10,0.5454545454545454,Black-headed Gull,Chroicocephalus ridibundus,FALSE,FALSE
+BLGU,1444,1711,3155,1038,0.4576862123613312,Black Guillemot,Cepphus grylle,TRUE,FALSE
+BLKI,332078,351142,683220,88390,0.4860484177863646,Black-legged Kittiwake,Rissa tridactyla,TRUE,FALSE
+BLNO,536,165,701,10,0.7646219686162625,Black Noddy,Anous minutus,TRUE,TRUE
+BLOY,2004,3940,5944,1285,0.33714670255720053,Black Oystercatcher,Haematopus bachmani,TRUE,FALSE
+BLSC,5570,58741,64311,2954,0.08661037769588406,Black Scoter,Melanitta americana,TRUE,FALSE
+BLSK,2,0,2,1,1,Black Skimmer,Rynchops niger,FALSE,FALSE
+BLSP,1578,168,1746,706,0.9037800687285223,Black Storm-Petrel,Hydrobates melania,TRUE,FALSE
+BLTE,3,0,3,3,1,Black Tern,Chlidonias niger,FALSE,TRUE
+BLTU,1166,329,1495,241,0.7799331103678929,Black Turnstone,Arenaria melanocephala,TRUE,FALSE
+BLWH,0,484,484,261,0,Blue Whale,Balaenoptera musculus,TRUE,FALSE
+BNDO,0,1302,1302,91,0,Bottlenose Dolphin,Tursiops truncatus,TRUE,FALSE
+BOGU,5430,12110,17540,1610,0.30957810718358036,Bonaparte's Gull,Chroicocephalus philadelphia,TRUE,FALSE
+BOPE,444,177,621,335,0.714975845410628,Bonin Petrel,Pterodroma hypoleuca,TRUE,FALSE
+BOWH,0,187,187,110,0,Bowhead Whale,Balaena mysticetus,TRUE,FALSE
+BRAN,13883,4034,17917,603,0.7748507004520846,Brant,Branta bernicla,TRUE,FALSE
+BRBO,99,343,442,74,0.2239819004524887,Brown Booby,Sula leucogaster,TRUE,FALSE
+BRCO,5108,18536,23644,5056,0.21603789544916258,Brandt's Cormorant,Urile penicillatus,TRUE,TRUE
+BRMU,11670,44644,56314,8742,0.20723088397201406,Brachyramphus Murrelet,Brachyramphus (Genus),TRUE,FALSE
+BRNO,1133,1911,3044,63,0.37220762155059134,Brown Noddy,Anous stolidus,TRUE,TRUE
+BRPE,19084,12143,31227,7983,0.6111377974189003,Brown Pelican,Pelecanus occidentalis,TRUE,FALSE
+BRSP,190,76,266,92,0.7142857142857143,Band-rumped Storm-Petrel,Hydrobates castro,TRUE,FALSE
+BTGO,37,3,40,10,0.925,Bar-tailed Godwit,Limosa lapponica,FALSE,FALSE
+BTGU,21,11,32,19,0.65625,Black-tailed Gull,Larus crassirostris,FALSE,FALSE
+BUFF,1430,15676,17106,1226,0.08359639892435403,Bufflehead,Bucephala albeola,TRUE,FALSE
+BULS,4504,5070,9574,1913,0.4704407771046584,Buller's Shearwater,Ardenna bulleri,TRUE,FALSE
+BUPE,143,5,148,116,0.9662162162162162,Bulwer's Petrel,Bulweria bulwerii,TRUE,FALSE
+BVSH,9804,17667,27471,1927,0.3568854428306214,Black-vented Shearwater,Puffinus opisthomelas,TRUE,FALSE
+BWPE,97,8,105,75,0.9238095238095239,Black-winged Petrel,Pterodroma nigripennis,TRUE,FALSE
+BWTE,0,3,3,2,0,Blue-winged Teal,Spatula discors,FALSE,FALSE
+CAAU,21503,53688,75191,11412,0.2859783750714846,Cassin's Auklet,Ptychoramphus aleuticus,TRUE,FALSE
+CACG,9,5,14,5,0.6428571428571429,Cackling Goose,Branta hutchinsii,FALSE,FALSE
+CAGO,4235,15700,19935,358,0.21244043140205668,Canada Goose,Branta canadensis,TRUE,FALSE
+CAGU,23375,23074,46449,9110,0.5032401128119012,California Gull,Larus californicus,TRUE,FALSE
+CANV,0,8,8,1,0,Canvasback,Aythya valisineria,FALSE,FALSE
+CASL,1,13368,13369,4151,7.479991024010771e-5,California Sea Lion,Zalophus californianus,TRUE,FALSE
+CATE,1178,296,1474,797,0.7991858887381276,Caspian Tern,Hydroprogne caspia,TRUE,TRUE
+CBKH,0,81,81,27,0,Cuvier's Beaked Whale,Ziphius cavirostris,FALSE,FALSE
+CHSH,5,1,6,3,0.8333333333333334,Christmas Shearwater,Puffinus nativitatis,FALSE,FALSE
+CLGR,0,252,252,78,0,Clark's Grebe,Aechmophorus clarkii,TRUE,FALSE
+CODO,0,81775,81775,1438,0,Common Dolphin,Delphinus delphis,TRUE,FALSE
+COEI,13934,9776,23710,967,0.5876845212990299,Common Eider,Somateria mollissima,TRUE,FALSE
+COGO,352,2260,2612,403,0.13476263399693722,Common Goldeneye,Bucephala clangula,TRUE,FALSE
+COLO,1393,7855,9248,4298,0.15062716262975778,Common Loon,Gavia immer,TRUE,FALSE
+COME,7177,30823,38000,2792,0.18886842105263157,Common Merganser,Mergus merganser,TRUE,FALSE
+COMU,142796,1105303,1248099,89229,0.11441079593846322,Common Murre,Uria aalge,TRUE,FALSE
+COPE,3192,1139,4331,2160,0.7370122373585777,Cook's Petrel,Pterodroma cookii,TRUE,FALSE
+CORA,5,0,5,5,1,Common Raven,Corvus corax,FALSE,FALSE
+CORV,9002,1634,10636,2588,0.8463708160962768,Crow; Raven; Magpie,Corvidae (Family),TRUE,FALSE
+COSN,3,0,3,2,1,Common Snipe,Gallinago gallinago,FALSE,FALSE
+COTE,308,219,527,183,0.5844402277039848,Common Tern,Sterna hirundo,TRUE,TRUE
+CRAU,294611,259173,553784,18059,0.5319962295768748,Crested Auklet,Aethia cristatella,TRUE,FALSE
+CRMU,27,105,132,65,0.20454545454545456,Craveri's Murrelet,Synthliboramphus craveri,TRUE,FALSE
+DAPO,9,21270,21279,4646,4.229522064006767e-4,Dall's Porpoise,Phocoenoides dalli,TRUE,FALSE
+DCCO,2901,6371,9272,2264,0.31287748058671266,Double-crested Cormorant,Nannopterum auritum,TRUE,TRUE
+DOVE,79,56,135,70,0.5851851851851851,Dovekie,Alle alle,TRUE,FALSE
+DOWI,174,4,178,16,0.9775280898876404,Unidentified Dowitcher,Limnodromus (Genus),TRUE,FALSE
+DUNL,942,1144,2086,300,0.45158197507190795,Dunlin,Calidris alpina,TRUE,FALSE
+EAGR,18,260,278,133,0.06474820143884892,Eared Grebe,Podiceps nigricollis,TRUE,FALSE
+ELTE,3924,1881,5805,1584,0.6759689922480621,Elegant Tern,Thalasseus elegans,TRUE,TRUE
+EMGO,304,5148,5452,48,0.05575935436537051,Emperor Goose,Anser canagicus,TRUE,FALSE
+EUWI,1,3,4,2,0.25,Eurasian Wigeon,Mareca penelope,FALSE,FALSE
+FFSH,116,52,168,119,0.6904761904761905,Flesh-footed Shearwater,Ardenna carneipes,TRUE,FALSE
+FIWH,9,2076,2085,1076,0.004316546762589928,Fin Whale,Balaenoptera physalus,TRUE,FALSE
+FKWH,0,122,122,7,0,False Killer Whale,Pseudorca crassidens,TRUE,FALSE
+FOTE,114,172,286,89,0.3986013986013986,Forster's Tern,Sterna forsteri,TRUE,TRUE
+FRGU,9,3,12,9,0.75,Franklin's Gull,Leucophaeus pipixcan,FALSE,FALSE
+FTSP,208953,126074,335027,45964,0.6236900309527292,Fork-tailed Storm-Petrel,Hydrobates furcatus,TRUE,FALSE
+GADW,588,481,1069,60,0.5500467726847521,Gadwall,Mareca strepera,TRUE,FALSE
+GARG,5,1,6,2,0.8333333333333334,Garganey,Spatula querquedula,FALSE,FALSE
+GBGU,3,0,3,1,1,Great Black-backed Gull,Larus marinus,FALSE,FALSE
+GBHE,195,152,347,207,0.5619596541786743,Great Blue Heron,Ardea herodias,TRUE,FALSE
+GBTE,31,0,31,8,1,Gray-backed Tern,Onychoprion lunatus,FALSE,TRUE
+GLGU,53676,27756,81432,11797,0.6591511936339522,Glaucous Gull,Larus hyperboreus,TRUE,FALSE
+GODW,19,51,70,7,0.2714285714285714,Unidentified Godwit,Limosa (Genus),FALSE,FALSE
+GOEA,4,1,5,4,0.8,Golden Eagle,Aquila chrysaetos,FALSE,FALSE
+GOPE,12,0,12,9,1,Gould's Petrel,Pterodroma leucoptera,FALSE,FALSE
+GRCO,0,2,2,2,0,Great Cormorant,Phalacrocorax carbo,FALSE,TRUE
+GREG,36,118,154,46,0.23376623376623376,Great Egret,Ardea alba,TRUE,FALSE
+GRFB,13,32,45,13,0.28888888888888886,Great Frigatebird,Fregata minor,FALSE,FALSE
+GRHE,1,0,1,1,1,Green Heron,Butorides virescens,FALSE,FALSE
+GRSC,460,5066,5526,253,0.08324285197249366,Greater Scaup,Aythya marila,TRUE,FALSE
+GRWH,36,3206,3242,1192,0.011104256631708822,Gray Whale,Eschrichtius robustus,TRUE,FALSE
+GRYE,18,3,21,11,0.8571428571428571,Greater Yellowlegs,Tringa melanoleuca,FALSE,FALSE
+GTTA,1,0,1,1,1,Gray-tailed Tattler,Tringa brevipes,FALSE,FALSE
+GUFS,0,37,37,22,0,Guadalupe Fur Seal,Arctocephalus townsendi,FALSE,FALSE
+GUMU,17,112,129,69,0.13178294573643412,Guadalupe Murrelet,Synthliboramphus hypoleucus,TRUE,FALSE
+GWFG,1905,718,2623,179,0.726267632481891,Greater White-fronted Goose,Anser albifrons,TRUE,FALSE
+GWGU,137869,200788,338657,51941,0.40710512406358057,Glaucous-winged Gull,Larus glaucescens,TRUE,FALSE
+GWHG,48,40,88,61,0.5454545454545454,Glaucous-winged x Herring Gull,Larus (Genus),FALSE,FALSE
+GWTE,418,519,937,125,0.44610458911419426,Green-winged Teal,Anas crecca,TRUE,FALSE
+GYRF,11,0,11,10,1,Gyrfalcon,Falco rusticolus,FALSE,FALSE
+HADU,15623,103005,118628,8542,0.13169740702026503,Harlequin Duck,Histrionicus histrionicus,TRUE,FALSE
+HAPE,82,34,116,74,0.7068965517241379,Hawaiian Petrel,Pterodroma sandwichensis,TRUE,FALSE
+HAPO,1,16316,16317,6222,6.128577557148986e-5,Harbor Porpoise,Phocoena phocoena,TRUE,FALSE
+HASE,3,22823,22826,5420,1.314290721107509e-4,Harbor Seal,Phoca vitulina,TRUE,FALSE
+HBWH,7,6165,6172,2824,0.001134154244977317,Humpback Whale,Megaptera novaeangliae,TRUE,FALSE
+HEEG,925,6751,7676,1931,0.12050547159979155,Heermann's Gull,Larus heermanni,TRUE,FALSE
+HEPE,13,0,13,13,1,Herald Petrel,Pterodroma heraldica,FALSE,FALSE
+HERG,8885,6084,14969,7123,0.5935600240497028,Herring gull,Larus argentatus,TRUE,FALSE
+HOGR,514,9349,9863,2300,0.05211396126939065,Horned Grebe,Podiceps auritus,TRUE,FALSE
+HOME,2,80,82,4,0.024390243902439025,Hooded Merganser,Lophodytes cucullatus,FALSE,FALSE
+HOPU,31400,63763,95163,19535,0.3299601735968811,Horned Puffin,Fratercula corniculata,TRUE,FALSE
+HUGO,5,0,5,2,1,Hudsonian Godwit,Limosa haemastica,FALSE,FALSE
+IVGU,934,218,1152,371,0.8107638888888888,Ivory Gull,Pagophila eburnea,TRUE,FALSE
+JAMU,1,25,26,6,0.038461538461538464,Japanese Murrelet,Synthliboramphus wumizusume,FALSE,FALSE
+JFPE,16,6,22,18,0.7272727272727273,Juan Fernandez Petrel,Pterodroma externa,FALSE,FALSE
+KEGU,1,0,1,1,1,Kelp Gull,Larus dominicanus,FALSE,FALSE
+KEPE,26,1,27,26,0.9629629629629629,Kermadec Petrel,Pterodroma neglecta,FALSE,FALSE
+KIEI,69162,24221,93383,1178,0.7406273090391184,King Eider,Somateria spectabilis,TRUE,FALSE
+KIMU,1276,10030,11306,2626,0.11286042809127897,Kittlitz's Murrelet,Brachyramphus brevirostris,TRUE,FALSE
+KIWH,1,2105,2106,500,4.748338081671415e-4,Killer Whale,Orcinus orca,TRUE,FALSE
+LAAL,13822,7363,21185,12289,0.6524427661080954,Laysan Albatross,Phoebastria immutabilis,TRUE,FALSE
+LAGU,16,7,23,13,0.6956521739130435,Laughing Gull,Leucophaeus atricilla,FALSE,FALSE
+LBCD,0,5674,5674,130,0,Long-beaked Common Dolphin,Delphinus capensis,TRUE,FALSE
+LBCU,24,22,46,14,0.5217391304347826,Long-billed Curlew,Numenius americanus,FALSE,FALSE
+LBDO,252,420,672,61,0.375,Long-billed Dowitcher,Limnodromus scolopaceus,TRUE,FALSE
+LBMU,0,207,207,28,0,Long-billed Murrelet,Brachyramphus perdix,TRUE,FALSE
+LEAU,390118,518715,908833,20587,0.4292515786728695,Least Auklet,Aethia pusilla,TRUE,FALSE
+LEFR,4,0,4,2,1,Lesser Frigatebird,Fregata ariel,FALSE,FALSE
+LEOW,1,0,1,1,1,Long-eared Owl,Asio otus,FALSE,FALSE
+LESA,312,107,419,19,0.7446300715990454,Least Sandpiper,Calidris minutilla,TRUE,FALSE
+LESC,6,49,55,11,0.10909090909090909,Lesser Scaup,Aythya affinis,FALSE,FALSE
+LESP,57449,12504,69953,25388,0.821251411662116,Leach's Storm-Petrel,Hydrobates leucorhous,TRUE,FALSE
+LETE,66,43,109,51,0.6055045871559633,Least Tern,Sternula antillarum,TRUE,TRUE
+LEYE,3,1,4,3,0.75,Lesser Yellowlegs,Tringa flavipes,FALSE,FALSE
+LTDU,104001,555517,659518,7500,0.15769243599113292,Long-tailed Duck,Clangula hyemalis,TRUE,FALSE
+LTJA,2280,418,2698,1773,0.8450704225352113,Long-tailed Jaeger,Stercorarius longicaudus,TRUE,FALSE
+LTSP,270,109,379,135,0.712401055408971,Least Storm-Petrel,Hydrobates microsoma,TRUE,FALSE
+MABO,47,5,52,18,0.9038461538461539,Masked Booby,Sula dactylatra,FALSE,FALSE
+MAGO,555,6189,6744,79,0.08229537366548043,Marbled Godwit,Limosa fedoa,TRUE,FALSE
+MALL,5324,8566,13890,782,0.38329733621310297,Mallard,Anas platyrhynchos,TRUE,FALSE
+MAMU,19020,217442,236462,33602,0.08043575711953718,Marbled Murrelet,Brachyramphus marmoratus,TRUE,FALSE
+MASH,9,4,13,12,0.6923076923076923,Manx Shearwater,Puffinus puffinus,FALSE,FALSE
+MERL,13,11,24,22,0.5416666666666666,Merlin,Falco columbarius,FALSE,FALSE
+MIWH,2,560,562,455,0.0035587188612099642,Minke Whale,Balaenoptera acutorostrata,TRUE,FALSE
+MOPE,6307,2591,8898,3810,0.7088109687570241,Mottled Petrel,Pterodroma inexpectata,TRUE,FALSE
+MOPL,80,0,80,1,1,Mongolian Plover,Charadrius mongolus,FALSE,FALSE
+MUPE,404,35,439,380,0.9202733485193622,Murphy's Petrel,Pterodroma ultima,TRUE,FALSE
+MUSW,0,20,20,6,0,Mute Swan,Cygnus olor,FALSE,FALSE
+NABO,11,0,11,11,1,Nazca Booby,Sula granti,FALSE,FALSE
+NESE,0,153,153,150,0,Northern Elephant Seal,Mirounga angustirostris,TRUE,FALSE
+NESH,41,3,44,21,0.9318181818181818,Newell's Shearwater,Puffinus newelli,FALSE,FALSE
+NOFS,4,5950,5954,3741,6.718172657037286e-4,Northern Fur Seal,Callorhinus ursinus,TRUE,FALSE
+NOFU,546364,467519,1013883,120517,0.5388826915926197,Northern Fulmar,Fulmarus glacialis,TRUE,FALSE
+NOGO,11,3,14,14,0.7857142857142857,Northern Goshawk,Accipiter gentilis,FALSE,FALSE
+NOHA,25,0,25,16,1,Northern Harrier,Circus hudsonius,FALSE,FALSE
+NOPI,3578,6162,9740,451,0.3673511293634497,Northern Pintail,Anas acuta,TRUE,FALSE
+NRWD,0,9801,9801,146,0,Northern Right Whale Dolphin,Lissodelphis borealis,TRUE,FALSE
+NSHO,433,188,621,75,0.6972624798711755,Northern Shoveler,Spatula clypeata,TRUE,FALSE
+OSPR,279,83,362,326,0.7707182320441989,Osprey,Pandion haliaetus,TRUE,FALSE
+PAAU,31210,38998,70208,13737,0.4445362351868733,Parakeet Auklet,Aethia psittacula,TRUE,FALSE
+PAGP,392,312,704,139,0.5568181818181818,Pacific Golden Plover,Pluvialis fulva,TRUE,FALSE
+PAJA,3275,1192,4467,3404,0.7331542422207298,Parasitic Jaeger,Stercorarius parasiticus,TRUE,FALSE
+PALO,9837,13626,23463,7076,0.4192558496355965,Pacific Loon,Gavia pacifica,TRUE,FALSE
+PAPE,16,1,17,17,0.9411764705882353,Parkinson's Petrel,Procellaria parkinsoni,FALSE,FALSE
+PBGR,0,23,23,18,0,Pied-billed Grebe,Podilymbus podiceps,FALSE,FALSE
+PECO,13896,26383,40279,11437,0.3449936691576256,Pelagic Cormorant,Urile pelagicus,TRUE,TRUE
+PEFA,210,26,236,187,0.8898305084745762,Peregrine Falcon,Falco peregrinus,TRUE,FALSE
+PESA,549,154,703,180,0.7809388335704125,Pectoral Sandpiper,Calidris melanotos,TRUE,FALSE
+PFSH,11827,16555,28382,7246,0.4167077725318864,Pink-footed Shearwater,Ardenna creatopus,TRUE,FALSE
+PHPE,8,0,8,7,1,Phoenix Petrel,Pterodroma alba,FALSE,FALSE
+PIGU,10434,83242,93676,20310,0.11138391904009565,Pigeon Guillemot,Cepphus columba,TRUE,FALSE
+POBE,0,118,118,85,0,Polar Bear,Ursus maritimus,TRUE,FALSE
+POJA,9629,3080,12709,8178,0.7576520575969785,Pomarine Jaeger,Stercorarius pomarinus,TRUE,FALSE
+PSWH,0,3,3,3,0,Pygmy Sperm Whale,Kogia breviceps,FALSE,FALSE
+PWSD,33,15775,15808,873,0.0020875506072874496,Pacific White-sided Dolphin,Lagenorhynchus obliquidens,TRUE,FALSE
+PYPE,113,34,147,100,0.7687074829931972,Pycroft's Petrel,Pterodroma pycrofti,TRUE,FALSE
+RAPT,2,1,3,3,0.6666666666666666,Unidentified Raptor,Accipitridae or  Falconidae (Family),FALSE,FALSE
+RBGU,259,594,853,366,0.30363423212192264,Ring-billed Gull,Larus delawarensis,TRUE,FALSE
+RBME,3665,13748,17413,2573,0.2104749325216792,Red-breasted Merganser,Mergus serrator,TRUE,FALSE
+RBSE,0,349,349,224,0,Ribbon Seal,Histriophoca fasciata,TRUE,FALSE
+RBTR,91,75,166,152,0.5481927710843374,Red-Billed Tropicbird,Phaethon aethereus,TRUE,FALSE
+REDH,8,0,8,3,1,Redhead,Aythya americana,FALSE,FALSE
+REKN,22,1,23,6,0.9565217391304348,Red Knot,Calidris canutus,FALSE,FALSE
+REPH,61635,92849,154484,11035,0.3989733564640998,Red Phalarope,Phalaropus fulicarius,TRUE,FALSE
+RFBO,109,92,201,61,0.5422885572139303,Red-Footed Booby,Sula sula,TRUE,FALSE
+RFCO,4401,10239,14640,1876,0.30061475409836064,Red-faced Cormorant,Urile urile,TRUE,TRUE
+RHAU,16069,34528,50597,10755,0.31758799928849535,Rhinoceros Auklet,Cerorhinca monocerata,TRUE,FALSE
+RIDO,0,4918,4918,307,0,Risso's Dolphin,Grampus griseus,TRUE,FALSE
+RIOT,0,397,397,213,0,River Otter,Lontra canadensis,TRUE,FALSE
+RISE,0,850,850,505,0,Ringed Seal,Pusa hispida,TRUE,FALSE
+RIWH,0,2,2,1,0,Right Whale,Eubalaena japonica,FALSE,FALSE
+RLHA,9,11,20,15,0.45,Rough-legged Hawk,Buteo lagopus,FALSE,FALSE
+RLKI,23040,3069,26109,6588,0.8824543260944502,Red-legged Kittiwake,Rissa brevirostris,TRUE,FALSE
+RNGR,310,7522,7832,2680,0.03958120531154239,Red-necked Grebe,Podiceps grisegena,TRUE,FALSE
+RNPH,38177,115667,153844,8245,0.24815397415563817,Red-necked Phalarope,Phalaropus lobatus,TRUE,FALSE
+ROGU,6894,3750,10644,599,0.6476888387824127,Ross's Gull,Rhodostethia rosea,TRUE,FALSE
+ROSA,1463,1308,2771,70,0.5279682425117286,Rock Sandpiper,Calidris ptilocnemis,TRUE,FALSE
+ROYT,241,72,313,147,0.7699680511182109,Royal Tern,Thalasseus maximus,TRUE,TRUE
+RTHA,5,0,5,5,1,Red-tailed Hawk,Buteo jamaicensis,FALSE,FALSE
+RTLO,968,1713,2681,1274,0.36105930622901905,Red-throated Loon,Gavia stellata,TRUE,FALSE
+RTTR,96,29,125,93,0.768,Red-tailed Tropicbird,Phaethon rubricauda,TRUE,FALSE
+RUDU,0,18,18,6,0,Ruddy Duck,Oxyura jamaicensis,FALSE,FALSE
+RUTU,553,248,801,296,0.6903870162297129,Ruddy Turnstone,Arenaria interpres,TRUE,FALSE
+SACR,3213,1,3214,21,0.9996888612321095,Sandhill Crane,Antigone canadensis,TRUE,FALSE
+SAGU,10018,5337,15355,2697,0.6524259198957995,Sabine's Gull,Xema sabini,TRUE,FALSE
+SAND,129,2,131,45,0.9847328244274809,Sanderling,Calidris alba,TRUE,FALSE
+SBDO,12,1,13,4,0.9230769230769231,Short-billed Dowitcher,Limnodromus griseus,FALSE,FALSE
+SBGU,1088,589,1677,894,0.6487775790101371,Slaty-backed Gull,Larus schistisagus,TRUE,FALSE
+SBIG,19466,39392,58858,10864,0.33072819327873865,Short-billed Gull,Larus brachyrhynchus,TRUE,FALSE
+SCMU,18,144,162,81,0.1111111111111111,Scripps's Murrelet,Synthliboramphus scrippsi,TRUE,FALSE
+SEOT,9,54556,54565,9726,1.6494089617886924e-4,Sea Otter,Enhydra lutris,TRUE,FALSE
+SEOW,5,0,5,5,1,Short-eared Owl,Asio flammeus,FALSE,FALSE
+SEPL,70,2,72,23,0.9722222222222222,Semipalmated Plover,Charadrius semipalmatus,FALSE,FALSE
+SESA,877,427,1304,194,0.6725460122699386,Semipalmated Sandpiper,Calidris pusilla,TRUE,FALSE
+SEWH,0,47,47,31,0,Sei Whale,Balaenoptera borealis,FALSE,FALSE
+SFPW,0,212,212,15,0,Short-finned Pilot Whale,Globicephala macrorhynchus,TRUE,FALSE
+SKIM,10,0,10,4,1,Unidentified Skimmer,Rynchops (Genus),FALSE,FALSE
+SNEG,5,22,27,19,0.18518518518518517,Snowy Egret,Egretta thula,FALSE,FALSE
+SNGO,6620,4253,10873,52,0.6088476041570864,Snow Goose,Anser caerulescens,TRUE,FALSE
+SNOW,14,4,18,17,0.7777777777777778,Snowy Owl,Bubo scandiacus,FALSE,FALSE
+SNPL,2,73,75,23,0.02666666666666667,Snowy Plover,Charadrius nivosus,FALSE,FALSE
+SOPE,560,77,637,350,0.8791208791208791,Solander's Petrel,Pterodroma solandri,TRUE,FALSE
+SOSA,4,4,8,5,0.5,Solitary Sandpiper,Tringa solitaria,FALSE,FALSE
+SOSH,374236,1083063,1457299,34498,0.25680110944974227,Sooty Shearwater,Ardenna grisea,TRUE,FALSE
+SOTE,1202,64,1266,92,0.9494470774091627,Sooty Tern,Onychoprion fuscatus,TRUE,TRUE
+SPDO,0,82,82,3,0,Spinner Dolphin,Stenella longirostris,FALSE,FALSE
+SPEI,46957,116962,163919,264,0.2864646563241601,Spectacled Eider,Somateria fischeri,TRUE,FALSE
+SPGU,2,2226,2228,21,8.976660682226212e-4,Spectacled Guillemot,Cepphus carbo,TRUE,FALSE
+SPSA,111,31,142,95,0.7816901408450704,Spotted Sandpiper,Actitis macularius,TRUE,FALSE
+SPSE,0,1895,1895,630,0,Spotted Seal,Phoca largha,TRUE,FALSE
+SPSK,295,189,484,380,0.609504132231405,South Polar Skua,Stercorarius maccormicki,TRUE,FALSE
+SPWH,0,625,625,255,0,Sperm Whale,Physeter macrocephalus,TRUE,FALSE
+SSHA,15,9,24,15,0.625,Sharp-shinned Hawk,Accipiter striatus,FALSE,FALSE
+SSTP,24,0,24,19,1,Swinhoe's Storm-Petrel,Hydrobates monorhis,FALSE,FALSE
+STAL,199,57,256,228,0.77734375,Short-tailed Albatross,Phoebastria albatrus,TRUE,FALSE
+STBW,0,7,7,1,0,Stejneger's Beaked Whale,Mesoplodon stejnegeri,FALSE,FALSE
+STDO,0,89,89,6,0,Striped Dolphin,Stenella coeruleoalba,FALSE,FALSE
+STEI,300,5914,6214,237,0.0482780817508851,Steller's Eider,Polysticta stelleri,TRUE,FALSE
+STPE,239,146,385,190,0.6207792207792208,Stejneger's Petrel,Pterodroma longirostris,TRUE,FALSE
+STRS,59135,30760,89895,1257,0.6578230157405862,Streaked Shearwater,Calonectris leucomelas,TRUE,FALSE
+STSA,8,10,18,14,0.4444444444444444,Stilt Sandpiper,Calidris himantopus,FALSE,FALSE
+STSE,4,6,10,7,0.4,Steller's Sea Eagle,Haliaeetus pelagicus,FALSE,FALSE
+STSH,1013311,1499364,2512675,34624,0.40327977155819994,Short-tailed Shearwater,Ardenna tenuirostris,TRUE,FALSE
+STSL,0,15637,15637,2092,0,Steller Sea Lion,Eumetopias jubatus,TRUE,FALSE
+SURF,518,542,1060,49,0.48867924528301887,Surfbird,Calidris virgata,TRUE,FALSE
+SUSC,14836,152489,167325,5929,0.08866577020767967,Surf Scoter,Melanitta perspicillata,TRUE,FALSE
+SWAN,1313,11,1324,26,0.9916918429003021,Unidentified Swan,Cygnus (Genus),TRUE,FALSE
+SYMU,18,176,194,92,0.09278350515463918,Synthliboramphus Murrelet,Synthliboramphus (Genus),TRUE,FALSE
+TBMU,79481,92202,171683,36451,0.4629520686381296,Thick-billed Murre,Uria lomvia,TRUE,FALSE
+THGU,298,373,671,348,0.44411326378539495,Thayer's Gull,Larus glaucoides thayeri,TRUE,FALSE
+TOSP,64,2,66,58,0.9696969696969697,Townsend's Storm-Petrel,Hydrobates socorroensis,FALSE,FALSE
+TRSP,143,61,204,128,0.7009803921568627,Tristram's Storm-Petrel,Hydrobates tristrami,TRUE,FALSE
+TRTE,1,0,1,1,1,Trudeau's Tern,Sterna trudeaui,FALSE,TRUE
+TRUS,38,4,42,18,0.9047619047619048,Trumpeter Swan,Cygnus buccinator,FALSE,FALSE
+TUPU,152045,250595,402640,52363,0.37762020663620105,Tufted Puffin,Fratercula cirrhata,TRUE,FALSE
+TUSW,76,2144,2220,119,0.03423423423423423,Tundra Swan,Cygnus columbianus,TRUE,FALSE
+UALB,60,125,185,74,0.32432432432432434,Unidentified Albatross,Diomedeidae (Family),TRUE,FALSE
+UBKW,0,57,57,32,0,Unidentified Beaked Whale,Mesoplodon (Genus),FALSE,FALSE
+UFWH,0,3,3,2,0,Unidentified Balaenoptera,Balaenoptera (Genus),FALSE,FALSE
+UNAL,52040,64743,116783,11639,0.44561280323334734,Unidentified Alcid,Alcidae (Family),TRUE,FALSE
+UNAU,39739,11839,51578,2691,0.7704641513823723,Unidentified Auklet,Aethia or Ptychoramphus (Genus),TRUE,FALSE
+UNBI,5249,3857,9106,1452,0.5764331210191083,Unidentified Bird,Aves (Class),TRUE,FALSE
+UNBO,62,63,125,21,0.496,Unidentified Booby,Sula (Genus),TRUE,FALSE
+UNBW,0,227,227,155,0,Unidentified Baleen Whale,Mysticeti (Suborder),TRUE,FALSE
+UNCE,0,3,3,1,0,Unidentified Cetacean,Cetacea (Order),FALSE,FALSE
+UNCO,10915,69545,80460,14201,0.135657469550087,Unidentified Cormorant,Phalacrocorax (Genus),TRUE,TRUE
+UNDO,0,14871,14871,305,0,Unidentified Dolphin,Delphinidae (Family),TRUE,FALSE
+UNDS,11445,44414,55859,1302,0.204890885980773,Unidentified Dark Shearwater,Ardenna grisea or Ardenna tenuirostris,TRUE,FALSE
+UNDU,5911,4086,9997,849,0.5912773832149645,Unidentified Duck,Anatinae (Subfamily),TRUE,FALSE
+UNEI,98088,32316,130404,1417,0.7521855157817244,Unidentified Eider,Somateria or Polysticta (Genus),TRUE,FALSE
+UNFA,4,1,5,5,0.8,Unidentified Falcon,Falco (Genus),FALSE,FALSE
+UNFB,10,0,10,5,1,Unidentified Frigatebird,Fregata (Genus),FALSE,FALSE
+UNGI,282,729,1011,277,0.2789317507418398,Unidentified Guillemot,Cepphus (Genus),TRUE,FALSE
+UNGO,4890,14124,19014,1054,0.25717892079520355,Unidentified Goldeneye,Bucephala (Genus),TRUE,FALSE
+UNGR,505,2681,3186,851,0.15850596359070934,Unidentified Grebe,Podicipedidae (Family),TRUE,FALSE
+UNGU,29476,88136,117612,17454,0.2506206849641193,Unidentified Gull,Larus (Genus),TRUE,FALSE
+UNIB,1,0,1,1,1,Unidentified Ibis,Plegadis (Genus),FALSE,FALSE
+UNJS,2116,1476,3592,2280,0.589086859688196,Unidentified Jaegar/Skua,Stercorarius (Genus),TRUE,FALSE
+UNKI,14235,32101,46336,5566,0.3072125345303867,Unidentified Kittiwake,Rissa (Genus),TRUE,FALSE
+UNLO,7119,14578,21697,6782,0.32810987694151267,Unidentified Loon,Gavia (Genus),TRUE,FALSE
+UNME,3250,3397,6647,658,0.4889423800210621,Unidentified Merganser,Mergus (Genus),TRUE,FALSE
+UNML,3134,1652,4786,676,0.6548265775177602,Unidentified Murrelet,Brachyramphus or Synthliboramphus (Genus),TRUE,FALSE
+UNMM,0,238,238,32,0,Unidentified Marine Mammal,Mammalia (Class),TRUE,FALSE
+UNMU,513477,526874,1040351,44398,0.4935613076740446,Unidentified Murre,Uria (Genus),TRUE,FALSE
+UNNO,2275,169,2444,17,0.9308510638297872,Unidentified Noddy,Anous or Procelsterna (Genus),TRUE,TRUE
+UNOT,0,25,25,16,0,Unidentified Otter,Lutrinae (Subfamily),FALSE,FALSE
+UNPH,69380,52366,121746,6155,0.5698749856258111,Unidentified Phalarope,Phalaropus (Genus),TRUE,FALSE
+UNPI,0,36,36,30,0,Unidentified Pinniped,Caniformia (Suborder),FALSE,FALSE
+UNPL,30,1,31,7,0.967741935483871,Unidentified Plover,Pluvialus or Charadrius (Genus),FALSE,FALSE
+UNPO,0,903,903,229,0,Unidentified Porpoise,Phocoenidae (Family),TRUE,FALSE
+UNPR,20580,5940,26520,881,0.7760180995475113,Unidentified Procellariidae,Procellariidae (Family),TRUE,FALSE
+UNPT,835,922,1757,663,0.4752418895845191,Unidentified Pterodroma,Pterodroma (Genus),TRUE,FALSE
+UNPU,400,263,663,308,0.6033182503770739,Unidentified Puffin,Fratercula (Genus),TRUE,FALSE
+UNSA,1682,528,2210,230,0.7610859728506787,Unidentified Sandpiper,Scolopacidae (family),TRUE,FALSE
+UNSB,13597,55171,68768,1172,0.19772277803629595,Unidentified Shorebird,Charadii (Suborder),TRUE,FALSE
+UNSC,5558,176449,182007,4176,0.030537287027422023,Unidentified Scoter,Melanitta (Genus),TRUE,FALSE
+UNSE,3,4202,4205,2387,7.13436385255648e-4,Unidentified Seal,Phocidae (Family),TRUE,FALSE
+UNSH,1093926,2198465,3292391,35177,0.3322588356000244,Unidentified Shearwater,Puffinus (Genus),TRUE,FALSE
+UNSL,0,805,805,437,0,Unidentified Sea Lion,Eumetopias (Genus),TRUE,FALSE
+UNSP,12408,6349,18757,3156,0.6615130351335501,Unidentified Storm-Petrel,Hydrobatidae (Family),TRUE,FALSE
+UNTE,3921,1994,5915,2046,0.6628909551986475,Unidentified Tern,Sterninae (Family),TRUE,TRUE
+UNTR,8,9,17,15,0.47058823529411764,Unidentified Tropicbird,Phaethon (Genus),FALSE,FALSE
+UNTU,196,29,225,25,0.8711111111111111,Unidentified Turnstone,Arenaria (Genus),TRUE,FALSE
+UNWF,17038,150856,167894,924,0.10148069615352544,Unidentified Duck; Goose; or Swan,Anatidae (Family),TRUE,FALSE
+UNWH,9,2943,2952,1779,0.003048780487804878,Unidentified Whale,Mysticeti or Odontoceti (Suborder),TRUE,FALSE
+USCA,372,2657,3029,129,0.12281280950808848,Unidentified Scaup,Aythya (Genus),TRUE,FALSE
+USTI,642,38,680,100,0.9441176470588235,Unidentified Stint,Calidris (Genus),TRUE,FALSE
+WALR,25,32214,32239,1360,7.754582958528491e-4,Walrus,Odobenus rosmarus,TRUE,FALSE
+WATA,63,76,139,79,0.45323741007194246,Wandering Tattler,Tringa incana,TRUE,FALSE
+WCGR,0,877,877,80,0,Western/Clark's Grebe,Aechmophorus (Genus),TRUE,TRUE
+WEGR,139,31051,31190,2661,0.004456556588650208,Western Grebe,Aechmophorus occidentalis,TRUE,TRUE
+WEGU,31012,29665,60677,23634,0.5110997577335729,Western Gull,Larus occidentalis,TRUE,TRUE
+WESA,487,416,903,91,0.5393133997785161,Western Sandpiper,Calidris mauri,TRUE,TRUE
+WGWH,136,60,196,133,0.6938775510204082,Western x Glaucous-winged Gull,Larus (Genus),TRUE,TRUE
+WHAU,13136,61278,74414,1361,0.17652592254145724,Whiskered Auklet,Aethia pygmaea,TRUE,FALSE
+WHIM,412,144,556,65,0.7410071942446043,Whimbrel,Numenius phaeopus,TRUE,FALSE
+WHOS,5,8,13,3,0.38461538461538464,Whooper Swan,Cygnus cygnus,FALSE,FALSE
+WHTE,833,131,964,61,0.8641078838174274,White Tern,Gygis alba,TRUE,TRUE
+WILL,21,1580,1601,36,0.01311680199875078,Willet,Tringa semipalmata,TRUE,FALSE
+WIPH,27,4,31,4,0.8709677419354839,Wilsons Phalarope,Phalaropus tricolor,FALSE,FALSE
+WISN,3,0,3,3,1,Wilson's Snipe,Gallinago delicata,FALSE,FALSE
+WISP,9,0,9,8,1,Wilson's Storm-Petrel,Oceanites oceanicus,FALSE,FALSE
+WNPE,1,0,1,1,1,White-necked Petrel,Pterodroma cervicalis,FALSE,FALSE
+WODU,1,0,1,1,1,Wood Duck,Aix sponsa,FALSE,FALSE
+WOSP,0,2,2,2,0,Wood Sandpiper,Tringa glareola,FALSE,FALSE
+WRSA,4,0,4,3,1,White-rumped Sandpiper,Calidris fuscicollis,FALSE,FALSE
+WRSP,16,1,17,16,0.9411764705882353,Wedge-rumped Storm-Petrel,Hydrobates tethys,FALSE,FALSE
+WTSH,945,495,1440,239,0.65625,Wedge-tailed Shearwater,Ardenna pacifica,TRUE,FALSE
+WTTR,36,12,48,42,0.75,White-tailed Tropicbird,Phaethon lepturus,FALSE,FALSE
+WWSC,12797,118002,130799,7543,0.09783713942767147,White-winged Scoter,Melanitta deglandi,TRUE,FALSE
+XAMU,90,462,552,284,0.16304347826086957,Xantus's Murrelet,Synthliboramphus hypoleucus,TRUE,FALSE
+YBLO,400,604,1004,682,0.398406374501992,Yellow-billed Loon,Gavia adamsii,TRUE,FALSE
+YELL,35,0,35,7,1,Unidentified Yellowlegs,Tringa (Genus),FALSE,FALSE

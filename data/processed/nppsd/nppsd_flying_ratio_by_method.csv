@@ -1,0 +1,709 @@
+species,fly_bird_method,birds_fly,birds_water,birds_total,records,flying_ratio,common_name,scientific_name
+ALTE,Continuous,424,177,601,239,0.7054908485856906,Aleutian Tern,Onychoprion aleuticus
+ALTE,Snapshot,319,238,557,233,0.5727109515260324,Aleutian Tern,Onychoprion aleuticus
+AMAV,Continuous,1,180,181,4,0.0055248618784530384,American Avocet,Recurvirostra americana
+AMBD,Snapshot,0,1,1,1,0,American Black Duck,Anas rubripes
+AMCO,Continuous,1,201,202,22,0.0049504950495049506,American Coot,Fulica americana
+AMGP,Snapshot,12,0,12,4,1,American Golden Plover,Pluvialis dominica
+AMWI,Continuous,4477,7831,12308,75,0.36374715632109195,American Wigeon,Mareca americana
+AMWI,Snapshot,171,1506,1677,44,0.10196779964221825,American Wigeon,Mareca americana
+ANMU,Continuous,5753,22484,28237,3702,0.20373977405531749,Ancient Murrelet,Synthliboramphus antiquus
+ANMU,Not Specified,4,3,7,6,0.5714285714285714,Ancient Murrelet,Synthliboramphus antiquus
+ANMU,Snapshot,10424,27785,38209,5213,0.2728153052945641,Ancient Murrelet,Synthliboramphus antiquus
+ARLO,Continuous,0,2,2,2,0,Arctic Loon,Gavia arctica
+ARLO,Snapshot,3,207,210,18,0.014285714285714285,Arctic Loon,Gavia arctica
+ARTE,Continuous,9189,3274,12463,2332,0.7373024151488405,Arctic Tern,Sterna paradisaea
+ARTE,Not Specified,33,22,55,29,0.6,Arctic Tern,Sterna paradisaea
+ARTE,Snapshot,29199,26143,55342,3670,0.5276101333526074,Arctic Tern,Sterna paradisaea
+ASSP,Continuous,693,66,759,178,0.9130434782608695,Ashy Storm-Petrel,Hydrobates homochroa
+ASSP,Not Specified,3,0,3,1,1,Ashy Storm-Petrel,Hydrobates homochroa
+ASSP,Snapshot,644,68,712,130,0.9044943820224719,Ashy Storm-Petrel,Hydrobates homochroa
+AUSH,Snapshot,5,2,7,6,0.7142857142857143,Audubon's Shearwater,Puffinus lherminieri
+AWPE,Continuous,1,0,1,1,1,American White Pelican,Pelecanus erythrorhynchos
+BAEA,Continuous,5208,3276,8484,4077,0.6138613861386139,Bald Eagle,Haliaeetus leucocephalus
+BAEA,Snapshot,963,3260,4223,1828,0.2280369405635804,Bald Eagle,Haliaeetus leucocephalus
+BAGO,Continuous,4541,40339,44880,1917,0.10118092691622103,Barrow's Goldeneye,Bucephala islandica
+BAGO,Snapshot,398,17133,17531,1259,0.0227026410358793,Barrow's Goldeneye,Bucephala islandica
+BASP,Snapshot,117,61,178,94,0.6573033707865169,Baird's Sandpiper,Calidris bairdii
+BBKW,Continuous,0,59,59,10,0,Baird's Beaked Whale,Berardius bairdii
+BBKW,Not Specified,0,7,7,3,0,Baird's Beaked Whale,Berardius bairdii
+BBKW,Snapshot,0,151,151,22,0,Baird's Beaked Whale,Berardius bairdii
+BBMA,Continuous,18,0,18,13,1,Black-billed Magpie,Pica hudsonia
+BBPL,Continuous,60,894,954,30,0.06289308176100629,Black-bellied Plover,Pluvialis squatarola
+BBPL,Snapshot,5,0,5,4,1,Black-bellied Plover,Pluvialis squatarola
+BBSA,Snapshot,4,0,4,2,1,Buff-breasted Sandpiper,Calidris subruficollis
+BCNH,Continuous,1,6,7,7,0.14285714285714285,Black-crowned Night-Heron,Nycticorax nycticorax
+BEKI,Continuous,210,229,439,305,0.4783599088838269,Belted Kingfisher,Megaceryle alcyon
+BEKI,Snapshot,2,0,2,2,1,Belted Kingfisher,Megaceryle alcyon
+BESE,Continuous,0,15,15,13,0,Bearded Seal,Erignathus barbatus
+BESE,Snapshot,0,1461,1461,786,0,Bearded Seal,Erignathus barbatus
+BEWH,Continuous,0,1,1,1,0,Beluga Whale,Delphinapterus leucas
+BEWH,Snapshot,1,129,130,31,0.007692307692307693,Beluga Whale,Delphinapterus leucas
+BFAL,Continuous,7005,2936,9941,6116,0.7046574791268484,Black-footed Albatross,Phoebastria nigripes
+BFAL,Not Specified,486,339,825,379,0.5890909090909091,Black-footed Albatross,Phoebastria nigripes
+BFAL,Snapshot,11099,7102,18201,9131,0.6098016592494918,Black-footed Albatross,Phoebastria nigripes
+BGNO,Snapshot,4,0,4,2,1,Blue-gray Noddy,Anous ceruleus
+BHGU,Continuous,1,0,1,1,1,Black-headed Gull,Chroicocephalus ridibundus
+BHGU,Snapshot,5,5,10,9,0.5,Black-headed Gull,Chroicocephalus ridibundus
+BLGU,Continuous,14,10,24,18,0.5833333333333334,Black Guillemot,Cepphus grylle
+BLGU,Snapshot,1430,1701,3131,1020,0.4567230916640051,Black Guillemot,Cepphus grylle
+BLKI,Continuous,162464,166637,329101,38148,0.49366000103311747,Black-legged Kittiwake,Rissa tridactyla
+BLKI,Not Specified,552,232,784,306,0.7040816326530612,Black-legged Kittiwake,Rissa tridactyla
+BLKI,Snapshot,169062,184273,353335,49936,0.4784751015325399,Black-legged Kittiwake,Rissa tridactyla
+BLNO,Snapshot,536,165,701,10,0.7646219686162625,Black Noddy,Anous minutus
+BLOY,Continuous,1538,2413,3951,1077,0.3892685396102253,Black Oystercatcher,Haematopus bachmani
+BLOY,Snapshot,466,1527,1993,208,0.23381836427496236,Black Oystercatcher,Haematopus bachmani
+BLSC,Continuous,2259,9257,11516,856,0.1961618617575547,Black Scoter,Melanitta americana
+BLSC,Not Specified,0,140,140,20,0,Black Scoter,Melanitta americana
+BLSC,Snapshot,3311,49344,52655,2078,0.06288101794701358,Black Scoter,Melanitta americana
+BLSK,Snapshot,2,0,2,1,1,Black Skimmer,Rynchops niger
+BLSP,Continuous,1279,65,1344,551,0.9516369047619048,Black Storm-Petrel,Hydrobates melania
+BLSP,Snapshot,299,103,402,155,0.7437810945273632,Black Storm-Petrel,Hydrobates melania
+BLTE,Continuous,2,0,2,2,1,Black Tern,Chlidonias niger
+BLTE,Snapshot,1,0,1,1,1,Black Tern,Chlidonias niger
+BLTU,Continuous,431,294,725,101,0.5944827586206897,Black Turnstone,Arenaria melanocephala
+BLTU,Snapshot,735,35,770,140,0.9545454545454546,Black Turnstone,Arenaria melanocephala
+BLWH,Continuous,0,291,291,160,0,Blue Whale,Balaenoptera musculus
+BLWH,Snapshot,0,193,193,101,0,Blue Whale,Balaenoptera musculus
+BNDO,Continuous,0,877,877,61,0,Bottlenose Dolphin,Tursiops truncatus
+BNDO,Snapshot,0,425,425,30,0,Bottlenose Dolphin,Tursiops truncatus
+BOGU,Continuous,2944,6299,9243,1202,0.318511305853078,Bonaparte's Gull,Chroicocephalus philadelphia
+BOGU,Not Specified,119,5,124,24,0.9596774193548387,Bonaparte's Gull,Chroicocephalus philadelphia
+BOGU,Snapshot,2367,5806,8173,384,0.28961213752600024,Bonaparte's Gull,Chroicocephalus philadelphia
+BOPE,Continuous,13,2,15,14,0.8666666666666667,Bonin Petrel,Pterodroma hypoleuca
+BOPE,Snapshot,431,175,606,321,0.7112211221122112,Bonin Petrel,Pterodroma hypoleuca
+BOWH,Continuous,0,17,17,13,0,Bowhead Whale,Balaena mysticetus
+BOWH,Snapshot,0,170,170,97,0,Bowhead Whale,Balaena mysticetus
+BRAN,Continuous,2609,345,2954,115,0.8832092078537577,Brant,Branta bernicla
+BRAN,Snapshot,11274,3689,14963,488,0.75345853104324,Brant,Branta bernicla
+BRBO,Continuous,13,3,16,16,0.8125,Brown Booby,Sula leucogaster
+BRBO,Snapshot,86,340,426,58,0.20187793427230047,Brown Booby,Sula leucogaster
+BRCO,Continuous,3395,14396,17791,4408,0.1908268225507279,Brandt's Cormorant,Urile penicillatus
+BRCO,Not Specified,18,10,28,19,0.6428571428571429,Brandt's Cormorant,Urile penicillatus
+BRCO,Snapshot,1695,4130,5825,629,0.2909871244635193,Brandt's Cormorant,Urile penicillatus
+BRMU,Continuous,9896,37492,47388,6583,0.208829239469908,Brachyramphus Murrelet,Brachyramphus (Genus)
+BRMU,Snapshot,1774,7152,8926,2159,0.19874523862872506,Brachyramphus Murrelet,Brachyramphus (Genus)
+BRNO,Continuous,5,0,5,2,1,Brown Noddy,Anous stolidus
+BRNO,Snapshot,1128,1911,3039,61,0.3711747285291214,Brown Noddy,Anous stolidus
+BRPE,Continuous,17976,11426,29402,7426,0.6113869804775185,Brown Pelican,Pelecanus occidentalis
+BRPE,Not Specified,0,3,3,2,0,Brown Pelican,Pelecanus occidentalis
+BRPE,Snapshot,1108,714,1822,555,0.6081229418221734,Brown Pelican,Pelecanus occidentalis
+BRSP,Continuous,70,1,71,22,0.9859154929577465,Band-rumped Storm-Petrel,Hydrobates castro
+BRSP,Snapshot,120,75,195,70,0.6153846153846154,Band-rumped Storm-Petrel,Hydrobates castro
+BTGO,Continuous,7,0,7,1,1,Bar-tailed Godwit,Limosa lapponica
+BTGO,Snapshot,30,3,33,9,0.9090909090909091,Bar-tailed Godwit,Limosa lapponica
+BTGU,Snapshot,21,11,32,19,0.65625,Black-tailed Gull,Larus crassirostris
+BUFF,Continuous,1379,13810,15189,959,0.09078938705642241,Bufflehead,Bucephala albeola
+BUFF,Snapshot,51,1866,1917,267,0.026604068857589983,Bufflehead,Bucephala albeola
+BULS,Continuous,1466,1192,2658,726,0.5515425131677953,Buller's Shearwater,Ardenna bulleri
+BULS,Not Specified,15,99,114,21,0.13157894736842105,Buller's Shearwater,Ardenna bulleri
+BULS,Snapshot,3023,3779,6802,1166,0.44442810937959426,Buller's Shearwater,Ardenna bulleri
+BUPE,Continuous,3,0,3,3,1,Bulwer's Petrel,Bulweria bulwerii
+BUPE,Snapshot,140,5,145,113,0.9655172413793104,Bulwer's Petrel,Bulweria bulwerii
+BVSH,Continuous,7256,9640,16896,1422,0.42945075757575757,Black-vented Shearwater,Puffinus opisthomelas
+BVSH,Snapshot,2548,8027,10575,505,0.24094562647754136,Black-vented Shearwater,Puffinus opisthomelas
+BWPE,Continuous,7,0,7,6,1,Black-winged Petrel,Pterodroma nigripennis
+BWPE,Snapshot,90,8,98,69,0.9183673469387755,Black-winged Petrel,Pterodroma nigripennis
+BWTE,Continuous,0,3,3,2,0,Blue-winged Teal,Spatula discors
+CAAU,Continuous,13271,28886,42157,6301,0.31479944018786915,Cassin's Auklet,Ptychoramphus aleuticus
+CAAU,Not Specified,1720,7249,8969,1191,0.19177165793287992,Cassin's Auklet,Ptychoramphus aleuticus
+CAAU,Snapshot,6512,17553,24065,3920,0.27060045709536673,Cassin's Auklet,Ptychoramphus aleuticus
+CACG,Snapshot,9,5,14,5,0.6428571428571429,Cackling Goose,Branta hutchinsii
+CAGO,Continuous,1414,1137,2551,177,0.5542924343394747,Canada Goose,Branta canadensis
+CAGO,Snapshot,2821,14563,17384,181,0.1622756557754257,Canada Goose,Branta canadensis
+CAGU,Continuous,9921,15654,25575,6930,0.3879178885630499,California Gull,Larus californicus
+CAGU,Not Specified,1398,3434,4832,501,0.2893211920529801,California Gull,Larus californicus
+CAGU,Snapshot,12056,3986,16042,1679,0.751527240992395,California Gull,Larus californicus
+CANV,Continuous,0,8,8,1,0,Canvasback,Aythya valisineria
+CASL,Continuous,1,9871,9872,3476,1.012965964343598e-4,California Sea Lion,Zalophus californianus
+CASL,Not Specified,0,5,5,3,0,California Sea Lion,Zalophus californianus
+CASL,Snapshot,0,3492,3492,672,0,California Sea Lion,Zalophus californianus
+CATE,Continuous,1125,289,1414,755,0.7956152758132956,Caspian Tern,Hydroprogne caspia
+CATE,Not Specified,23,0,23,13,1,Caspian Tern,Hydroprogne caspia
+CATE,Snapshot,30,7,37,29,0.8108108108108109,Caspian Tern,Hydroprogne caspia
+CBKH,Continuous,0,61,61,19,0,Cuvier's Beaked Whale,Ziphius cavirostris
+CBKH,Snapshot,0,20,20,8,0,Cuvier's Beaked Whale,Ziphius cavirostris
+CHSH,Snapshot,5,1,6,3,0.8333333333333334,Christmas Shearwater,Puffinus nativitatis
+CLGR,Continuous,0,220,220,68,0,Clark's Grebe,Aechmophorus clarkii
+CLGR,Snapshot,0,32,32,10,0,Clark's Grebe,Aechmophorus clarkii
+CODO,Continuous,0,66673,66673,1104,0,Common Dolphin,Delphinus delphis
+CODO,Snapshot,0,15102,15102,334,0,Common Dolphin,Delphinus delphis
+COEI,Continuous,949,1968,2917,234,0.32533424751456974,Common Eider,Somateria mollissima
+COEI,Snapshot,12985,7808,20793,733,0.6244890107247631,Common Eider,Somateria mollissima
+COGO,Continuous,309,1831,2140,364,0.144392523364486,Common Goldeneye,Bucephala clangula
+COGO,Snapshot,43,429,472,39,0.09110169491525423,Common Goldeneye,Bucephala clangula
+COLO,Continuous,966,7117,8083,3674,0.11951008289001608,Common Loon,Gavia immer
+COLO,Not Specified,4,7,11,9,0.36363636363636365,Common Loon,Gavia immer
+COLO,Snapshot,423,731,1154,615,0.3665511265164645,Common Loon,Gavia immer
+COME,Continuous,6876,24992,31868,2364,0.21576503075185138,Common Merganser,Mergus merganser
+COME,Snapshot,301,5831,6132,428,0.04908675799086758,Common Merganser,Mergus merganser
+COMU,Continuous,57112,775691,832803,50082,0.06857804306660759,Common Murre,Uria aalge
+COMU,Not Specified,1418,11876,13294,1570,0.10666466074921017,Common Murre,Uria aalge
+COMU,Snapshot,84266,317736,402002,37577,0.20961587255784797,Common Murre,Uria aalge
+COPE,Continuous,2152,512,2664,1395,0.8078078078078078,Cook's Petrel,Pterodroma cookii
+COPE,Snapshot,1040,627,1667,765,0.623875224955009,Cook's Petrel,Pterodroma cookii
+CORA,Continuous,5,0,5,5,1,Common Raven,Corvus corax
+CORV,Continuous,8337,471,8808,2426,0.9465258855585831,Crow; Raven; Magpie,Corvidae (Family)
+CORV,Snapshot,665,1163,1828,162,0.3637855579868709,Crow; Raven; Magpie,Corvidae (Family)
+COSN,Snapshot,3,0,3,2,1,Common Snipe,Gallinago gallinago
+COTE,Continuous,259,154,413,150,0.6271186440677966,Common Tern,Sterna hirundo
+COTE,Not Specified,4,1,5,3,0.8,Common Tern,Sterna hirundo
+COTE,Snapshot,45,64,109,30,0.41284403669724773,Common Tern,Sterna hirundo
+CRAU,Continuous,177303,100275,277578,5956,0.6387501891360267,Crested Auklet,Aethia cristatella
+CRAU,Snapshot,117308,158898,276206,12103,0.424711990326061,Crested Auklet,Aethia cristatella
+CRMU,Continuous,27,94,121,58,0.2231404958677686,Craveri's Murrelet,Synthliboramphus craveri
+CRMU,Snapshot,0,11,11,7,0,Craveri's Murrelet,Synthliboramphus craveri
+DAPO,Continuous,8,10750,10758,2197,7.436326454731362e-4,Dall's Porpoise,Phocoenoides dalli
+DAPO,Not Specified,0,105,105,40,0,Dall's Porpoise,Phocoenoides dalli
+DAPO,Snapshot,1,10415,10416,2409,9.600614439324117e-5,Dall's Porpoise,Phocoenoides dalli
+DCCO,Continuous,1911,6169,8080,1894,0.236509900990099,Double-crested Cormorant,Nannopterum auritum
+DCCO,Snapshot,990,202,1192,370,0.8305369127516778,Double-crested Cormorant,Nannopterum auritum
+DOVE,Continuous,0,3,3,3,0,Dovekie,Alle alle
+DOVE,Snapshot,79,53,132,67,0.5984848484848485,Dovekie,Alle alle
+DOWI,Continuous,40,1,41,2,0.975609756097561,Unidentified Dowitcher,Limnodromus (Genus)
+DOWI,Snapshot,134,3,137,14,0.9781021897810219,Unidentified Dowitcher,Limnodromus (Genus)
+DUNL,Continuous,154,842,996,18,0.15461847389558234,Dunlin,Calidris alpina
+DUNL,Snapshot,788,302,1090,282,0.7229357798165138,Dunlin,Calidris alpina
+EAGR,Continuous,18,233,251,112,0.07171314741035857,Eared Grebe,Podiceps nigricollis
+EAGR,Snapshot,0,27,27,21,0,Eared Grebe,Podiceps nigricollis
+ELTE,Continuous,2238,760,2998,954,0.7464976651100734,Elegant Tern,Thalasseus elegans
+ELTE,Snapshot,1686,1121,2807,630,0.6006412540078375,Elegant Tern,Thalasseus elegans
+EMGO,Continuous,144,46,190,16,0.7578947368421053,Emperor Goose,Anser canagicus
+EMGO,Snapshot,160,5102,5262,32,0.03040668947168377,Emperor Goose,Anser canagicus
+EUWI,Snapshot,1,3,4,2,0.25,Eurasian Wigeon,Mareca penelope
+FFSH,Continuous,80,25,105,87,0.7619047619047619,Flesh-footed Shearwater,Ardenna carneipes
+FFSH,Snapshot,36,27,63,32,0.5714285714285714,Flesh-footed Shearwater,Ardenna carneipes
+FIWH,Continuous,0,495,495,276,0,Fin Whale,Balaenoptera physalus
+FIWH,Snapshot,9,1581,1590,800,0.005660377358490566,Fin Whale,Balaenoptera physalus
+FKWH,Continuous,0,121,121,6,0,False Killer Whale,Pseudorca crassidens
+FKWH,Snapshot,0,1,1,1,0,False Killer Whale,Pseudorca crassidens
+FOTE,Continuous,85,149,234,73,0.36324786324786323,Forster's Tern,Sterna forsteri
+FOTE,Snapshot,29,23,52,16,0.5576923076923077,Forster's Tern,Sterna forsteri
+FRGU,Continuous,8,3,11,8,0.7272727272727273,Franklin's Gull,Leucophaeus pipixcan
+FRGU,Snapshot,1,0,1,1,1,Franklin's Gull,Leucophaeus pipixcan
+FTSP,Continuous,90050,36480,126530,17626,0.7116889275270687,Fork-tailed Storm-Petrel,Hydrobates furcatus
+FTSP,Not Specified,2783,1065,3848,788,0.7232328482328483,Fork-tailed Storm-Petrel,Hydrobates furcatus
+FTSP,Snapshot,116120,88529,204649,27550,0.5674105419523183,Fork-tailed Storm-Petrel,Hydrobates furcatus
+GADW,Continuous,580,395,975,51,0.5948717948717949,Gadwall,Mareca strepera
+GADW,Snapshot,8,86,94,9,0.0851063829787234,Gadwall,Mareca strepera
+GARG,Continuous,5,1,6,2,0.8333333333333334,Garganey,Spatula querquedula
+GBGU,Snapshot,3,0,3,1,1,Great Black-backed Gull,Larus marinus
+GBHE,Continuous,192,149,341,202,0.5630498533724341,Great Blue Heron,Ardea herodias
+GBHE,Snapshot,3,3,6,5,0.5,Great Blue Heron,Ardea herodias
+GBTE,Snapshot,31,0,31,8,1,Gray-backed Tern,Onychoprion lunatus
+GLGU,Continuous,2186,567,2753,1206,0.7940428623320015,Glaucous Gull,Larus hyperboreus
+GLGU,Snapshot,51490,27189,78679,10591,0.6544312967882154,Glaucous Gull,Larus hyperboreus
+GODW,Snapshot,19,51,70,7,0.2714285714285714,Unidentified Godwit,Limosa (Genus)
+GOEA,Continuous,4,1,5,4,0.8,Golden Eagle,Aquila chrysaetos
+GOPE,Continuous,5,0,5,4,1,Gould's Petrel,Pterodroma leucoptera
+GOPE,Snapshot,7,0,7,5,1,Gould's Petrel,Pterodroma leucoptera
+GRCO,Snapshot,0,2,2,2,0,Great Cormorant,Phalacrocorax carbo
+GREG,Continuous,33,118,151,45,0.2185430463576159,Great Egret,Ardea alba
+GREG,Snapshot,3,0,3,1,1,Great Egret,Ardea alba
+GRFB,Continuous,2,0,2,1,1,Great Frigatebird,Fregata minor
+GRFB,Snapshot,11,32,43,12,0.2558139534883721,Great Frigatebird,Fregata minor
+GRHE,Continuous,1,0,1,1,1,Green Heron,Butorides virescens
+GRSC,Continuous,148,1470,1618,120,0.09147095179233622,Greater Scaup,Aythya marila
+GRSC,Snapshot,312,3596,3908,133,0.07983623336745138,Greater Scaup,Aythya marila
+GRWH,Continuous,0,899,899,522,0,Gray Whale,Eschrichtius robustus
+GRWH,Not Specified,0,4,4,4,0,Gray Whale,Eschrichtius robustus
+GRWH,Snapshot,36,2303,2339,666,0.015391192817443352,Gray Whale,Eschrichtius robustus
+GRYE,Continuous,16,3,19,9,0.8421052631578947,Greater Yellowlegs,Tringa melanoleuca
+GRYE,Snapshot,2,0,2,2,1,Greater Yellowlegs,Tringa melanoleuca
+GTTA,Snapshot,1,0,1,1,1,Gray-tailed Tattler,Tringa brevipes
+GUFS,Continuous,0,5,5,5,0,Guadalupe Fur Seal,Arctocephalus townsendi
+GUFS,Snapshot,0,32,32,17,0,Guadalupe Fur Seal,Arctocephalus townsendi
+GUMU,Continuous,0,11,11,8,0,Guadalupe Murrelet,Synthliboramphus hypoleucus
+GUMU,Snapshot,17,101,118,61,0.1440677966101695,Guadalupe Murrelet,Synthliboramphus hypoleucus
+GWFG,Continuous,0,50,50,4,0,Greater White-fronted Goose,Anser albifrons
+GWFG,Snapshot,1905,668,2573,175,0.7403808783521182,Greater White-fronted Goose,Anser albifrons
+GWGU,Continuous,73672,94966,168638,26134,0.4368647635764181,Glaucous-winged Gull,Larus glaucescens
+GWGU,Not Specified,529,260,789,367,0.670468948035488,Glaucous-winged Gull,Larus glaucescens
+GWGU,Snapshot,63668,105562,169230,25440,0.37622171009868227,Glaucous-winged Gull,Larus glaucescens
+GWHG,Continuous,21,26,47,31,0.44680851063829785,Glaucous-winged x Herring Gull,Larus (Genus)
+GWHG,Snapshot,27,14,41,30,0.6585365853658537,Glaucous-winged x Herring Gull,Larus (Genus)
+GWTE,Continuous,232,272,504,79,0.4603174603174603,Green-winged Teal,Anas crecca
+GWTE,Snapshot,186,247,433,46,0.4295612009237875,Green-winged Teal,Anas crecca
+GYRF,Snapshot,11,0,11,10,1,Gyrfalcon,Falco rusticolus
+HADU,Continuous,13975,70828,84803,5556,0.16479369833614377,Harlequin Duck,Histrionicus histrionicus
+HADU,Snapshot,1648,32177,33825,2986,0.048721359940872136,Harlequin Duck,Histrionicus histrionicus
+HAPE,Continuous,41,0,41,40,1,Hawaiian Petrel,Pterodroma sandwichensis
+HAPE,Snapshot,41,34,75,34,0.5466666666666666,Hawaiian Petrel,Pterodroma sandwichensis
+HAPO,Continuous,0,14990,14990,5703,0,Harbor Porpoise,Phocoena phocoena
+HAPO,Not Specified,0,82,82,47,0,Harbor Porpoise,Phocoena phocoena
+HAPO,Snapshot,1,1244,1245,472,8.032128514056225e-4,Harbor Porpoise,Phocoena phocoena
+HASE,Continuous,2,19475,19477,4813,0.00010268521846280227,Harbor Seal,Phoca vitulina
+HASE,Not Specified,0,8,8,8,0,Harbor Seal,Phoca vitulina
+HASE,Snapshot,1,3340,3341,599,2.99311583358276e-4,Harbor Seal,Phoca vitulina
+HBWH,Continuous,0,2750,2750,1380,0,Humpback Whale,Megaptera novaeangliae
+HBWH,Not Specified,0,9,9,3,0,Humpback Whale,Megaptera novaeangliae
+HBWH,Snapshot,7,3406,3413,1441,0.0020509815411661296,Humpback Whale,Megaptera novaeangliae
+HEEG,Continuous,541,6285,6826,1599,0.07925578669791972,Heermann's Gull,Larus heermanni
+HEEG,Not Specified,25,6,31,20,0.8064516129032258,Heermann's Gull,Larus heermanni
+HEEG,Snapshot,359,460,819,312,0.43833943833943834,Heermann's Gull,Larus heermanni
+HEPE,Continuous,2,0,2,2,1,Herald Petrel,Pterodroma heraldica
+HEPE,Snapshot,11,0,11,11,1,Herald Petrel,Pterodroma heraldica
+HERG,Continuous,4367,3233,7600,3763,0.5746052631578947,Herring gull,Larus argentatus
+HERG,Not Specified,517,144,661,274,0.7821482602118003,Herring gull,Larus argentatus
+HERG,Snapshot,4001,2707,6708,3086,0.5964519976147883,Herring gull,Larus argentatus
+HOGR,Continuous,460,4550,5010,1145,0.09181636726546906,Horned Grebe,Podiceps auritus
+HOGR,Snapshot,54,4799,4853,1155,0.011127137852874511,Horned Grebe,Podiceps auritus
+HOME,Continuous,2,21,23,2,0.08695652173913043,Hooded Merganser,Lophodytes cucullatus
+HOME,Snapshot,0,59,59,2,0,Hooded Merganser,Lophodytes cucullatus
+HOPU,Continuous,17288,31150,48438,8787,0.356909864156241,Horned Puffin,Fratercula corniculata
+HOPU,Not Specified,0,6,6,4,0,Horned Puffin,Fratercula corniculata
+HOPU,Snapshot,14112,32607,46719,10744,0.30206125987285687,Horned Puffin,Fratercula corniculata
+HUGO,Snapshot,5,0,5,2,1,Hudsonian Godwit,Limosa haemastica
+IVGU,Continuous,2,2,4,4,0.5,Ivory Gull,Pagophila eburnea
+IVGU,Snapshot,932,216,1148,367,0.8118466898954704,Ivory Gull,Pagophila eburnea
+JAMU,Continuous,1,20,21,4,0.047619047619047616,Japanese Murrelet,Synthliboramphus wumizusume
+JAMU,Snapshot,0,5,5,2,0,Japanese Murrelet,Synthliboramphus wumizusume
+JFPE,Continuous,5,0,5,5,1,Juan Fernandez Petrel,Pterodroma externa
+JFPE,Snapshot,11,6,17,13,0.6470588235294118,Juan Fernandez Petrel,Pterodroma externa
+KEGU,Continuous,1,0,1,1,1,Kelp Gull,Larus dominicanus
+KEPE,Continuous,7,0,7,7,1,Kermadec Petrel,Pterodroma neglecta
+KEPE,Snapshot,19,1,20,19,0.95,Kermadec Petrel,Pterodroma neglecta
+KIEI,Continuous,469,554,1023,55,0.458455522971652,King Eider,Somateria spectabilis
+KIEI,Snapshot,68693,23667,92360,1123,0.7437527067994802,King Eider,Somateria spectabilis
+KIMU,Continuous,992,8172,9164,1836,0.10824967263203841,Kittlitz's Murrelet,Brachyramphus brevirostris
+KIMU,Snapshot,284,1858,2142,790,0.13258636788048553,Kittlitz's Murrelet,Brachyramphus brevirostris
+KIWH,Continuous,0,808,808,147,0,Killer Whale,Orcinus orca
+KIWH,Not Specified,0,4,4,1,0,Killer Whale,Orcinus orca
+KIWH,Snapshot,1,1293,1294,352,7.727975270479134e-4,Killer Whale,Orcinus orca
+LAAL,Continuous,5727,3729,9456,5385,0.6056472081218274,Laysan Albatross,Phoebastria immutabilis
+LAAL,Not Specified,11,0,11,10,1,Laysan Albatross,Phoebastria immutabilis
+LAAL,Snapshot,8084,3634,11718,6894,0.6898788189110769,Laysan Albatross,Phoebastria immutabilis
+LAGU,Continuous,15,7,22,12,0.6818181818181818,Laughing Gull,Leucophaeus atricilla
+LAGU,Snapshot,1,0,1,1,1,Laughing Gull,Leucophaeus atricilla
+LBCD,Continuous,0,778,778,25,0,Long-beaked Common Dolphin,Delphinus capensis
+LBCD,Snapshot,0,4896,4896,105,0,Long-beaked Common Dolphin,Delphinus capensis
+LBCU,Continuous,24,22,46,14,0.5217391304347826,Long-billed Curlew,Numenius americanus
+LBDO,Continuous,8,0,8,4,1,Long-billed Dowitcher,Limnodromus scolopaceus
+LBDO,Snapshot,244,420,664,57,0.3674698795180723,Long-billed Dowitcher,Limnodromus scolopaceus
+LBMU,Continuous,0,21,21,19,0,Long-billed Murrelet,Brachyramphus perdix
+LBMU,Snapshot,0,186,186,9,0,Long-billed Murrelet,Brachyramphus perdix
+LEAU,Continuous,306609,410098,716707,10332,0.4278024353048038,Least Auklet,Aethia pusilla
+LEAU,Snapshot,83509,108617,192126,10255,0.434657464372339,Least Auklet,Aethia pusilla
+LEFR,Snapshot,4,0,4,2,1,Lesser Frigatebird,Fregata ariel
+LEOW,Snapshot,1,0,1,1,1,Long-eared Owl,Asio otus
+LESA,Continuous,297,102,399,10,0.7443609022556391,Least Sandpiper,Calidris minutilla
+LESA,Snapshot,15,5,20,9,0.75,Least Sandpiper,Calidris minutilla
+LESC,Continuous,4,28,32,6,0.125,Lesser Scaup,Aythya affinis
+LESC,Snapshot,2,21,23,5,0.08695652173913043,Lesser Scaup,Aythya affinis
+LESP,Continuous,39334,3936,43270,18664,0.9090362837993992,Leach's Storm-Petrel,Hydrobates leucorhous
+LESP,Not Specified,766,49,815,322,0.939877300613497,Leach's Storm-Petrel,Hydrobates leucorhous
+LESP,Snapshot,17349,8519,25868,6402,0.6706741920519561,Leach's Storm-Petrel,Hydrobates leucorhous
+LETE,Continuous,45,20,65,25,0.6923076923076923,Least Tern,Sternula antillarum
+LETE,Snapshot,21,23,44,26,0.4772727272727273,Least Tern,Sternula antillarum
+LEYE,Continuous,3,1,4,3,0.75,Lesser Yellowlegs,Tringa flavipes
+LTDU,Continuous,1866,10566,12432,1048,0.1500965250965251,Long-tailed Duck,Clangula hyemalis
+LTDU,Snapshot,102135,544951,647086,6452,0.15783837078842688,Long-tailed Duck,Clangula hyemalis
+LTJA,Continuous,541,50,591,472,0.9153976311336718,Long-tailed Jaeger,Stercorarius longicaudus
+LTJA,Not Specified,16,3,19,14,0.8421052631578947,Long-tailed Jaeger,Stercorarius longicaudus
+LTJA,Snapshot,1723,365,2088,1287,0.8251915708812261,Long-tailed Jaeger,Stercorarius longicaudus
+LTSP,Continuous,264,109,373,129,0.707774798927614,Least Storm-Petrel,Hydrobates microsoma
+LTSP,Snapshot,6,0,6,6,1,Least Storm-Petrel,Hydrobates microsoma
+MABO,Snapshot,47,5,52,18,0.9038461538461539,Masked Booby,Sula dactylatra
+MAGO,Continuous,549,6189,6738,76,0.08147818343722173,Marbled Godwit,Limosa fedoa
+MAGO,Snapshot,6,0,6,3,1,Marbled Godwit,Limosa fedoa
+MALL,Continuous,4334,3396,7730,577,0.560672703751617,Mallard,Anas platyrhynchos
+MALL,Snapshot,990,5170,6160,205,0.16071428571428573,Mallard,Anas platyrhynchos
+MAMU,Continuous,17003,179354,196357,26953,0.08659227835014795,Marbled Murrelet,Brachyramphus marmoratus
+MAMU,Not Specified,1,50,51,15,0.0196078431372549,Marbled Murrelet,Brachyramphus marmoratus
+MAMU,Snapshot,2016,38038,40054,6634,0.05033205173016428,Marbled Murrelet,Brachyramphus marmoratus
+MASH,Continuous,5,1,6,6,0.8333333333333334,Manx Shearwater,Puffinus puffinus
+MASH,Snapshot,4,3,7,6,0.5714285714285714,Manx Shearwater,Puffinus puffinus
+MERL,Continuous,5,11,16,14,0.3125,Merlin,Falco columbarius
+MERL,Snapshot,8,0,8,8,1,Merlin,Falco columbarius
+MIWH,Continuous,0,182,182,150,0,Minke Whale,Balaenoptera acutorostrata
+MIWH,Snapshot,2,378,380,305,0.005263157894736842,Minke Whale,Balaenoptera acutorostrata
+MOPE,Continuous,3479,1022,4501,1979,0.7729393468118196,Mottled Petrel,Pterodroma inexpectata
+MOPE,Not Specified,13,0,13,12,1,Mottled Petrel,Pterodroma inexpectata
+MOPE,Snapshot,2815,1569,4384,1819,0.6421076642335767,Mottled Petrel,Pterodroma inexpectata
+MOPL,Snapshot,80,0,80,1,1,Mongolian Plover,Charadrius mongolus
+MUPE,Continuous,325,29,354,304,0.9180790960451978,Murphy's Petrel,Pterodroma ultima
+MUPE,Snapshot,79,6,85,76,0.9294117647058824,Murphy's Petrel,Pterodroma ultima
+MUSW,Snapshot,0,20,20,6,0,Mute Swan,Cygnus olor
+NABO,Continuous,11,0,11,11,1,Nazca Booby,Sula granti
+NESE,Continuous,0,101,101,99,0,Northern Elephant Seal,Mirounga angustirostris
+NESE,Not Specified,0,4,4,4,0,Northern Elephant Seal,Mirounga angustirostris
+NESE,Snapshot,0,48,48,47,0,Northern Elephant Seal,Mirounga angustirostris
+NESH,Continuous,15,0,15,8,1,Newell's Shearwater,Puffinus newelli
+NESH,Snapshot,26,3,29,13,0.896551724137931,Newell's Shearwater,Puffinus newelli
+NOFS,Continuous,0,3247,3247,1949,0,Northern Fur Seal,Callorhinus ursinus
+NOFS,Not Specified,0,45,45,28,0,Northern Fur Seal,Callorhinus ursinus
+NOFS,Snapshot,4,2658,2662,1764,0.0015026296018031556,Northern Fur Seal,Callorhinus ursinus
+NOFU,Continuous,205765,133444,339209,44761,0.6066024191575106,Northern Fulmar,Fulmarus glacialis
+NOFU,Not Specified,1354,3076,4430,687,0.3056433408577878,Northern Fulmar,Fulmarus glacialis
+NOFU,Snapshot,339245,330999,670244,75069,0.506151491098764,Northern Fulmar,Fulmarus glacialis
+NOGO,Continuous,10,3,13,13,0.7692307692307693,Northern Goshawk,Accipiter gentilis
+NOGO,Snapshot,1,0,1,1,1,Northern Goshawk,Accipiter gentilis
+NOHA,Continuous,4,0,4,4,1,Northern Harrier,Circus hudsonius
+NOHA,Snapshot,21,0,21,12,1,Northern Harrier,Circus hudsonius
+NOPI,Continuous,441,156,597,53,0.7386934673366834,Northern Pintail,Anas acuta
+NOPI,Snapshot,3137,6006,9143,398,0.34310401399978124,Northern Pintail,Anas acuta
+NRWD,Continuous,0,5121,5121,89,0,Northern Right Whale Dolphin,Lissodelphis borealis
+NRWD,Not Specified,0,3,3,2,0,Northern Right Whale Dolphin,Lissodelphis borealis
+NRWD,Snapshot,0,4677,4677,55,0,Northern Right Whale Dolphin,Lissodelphis borealis
+NSHO,Continuous,67,173,240,35,0.2791666666666667,Northern Shoveler,Spatula clypeata
+NSHO,Snapshot,366,15,381,40,0.9606299212598425,Northern Shoveler,Spatula clypeata
+OSPR,Continuous,269,82,351,316,0.7663817663817664,Osprey,Pandion haliaetus
+OSPR,Snapshot,10,1,11,10,0.9090909090909091,Osprey,Pandion haliaetus
+PAAU,Continuous,15354,20902,36256,6292,0.4234885260370697,Parakeet Auklet,Aethia psittacula
+PAAU,Snapshot,15856,18096,33952,7445,0.46701225259189444,Parakeet Auklet,Aethia psittacula
+PAGP,Continuous,52,21,73,18,0.7123287671232876,Pacific Golden Plover,Pluvialis fulva
+PAGP,Snapshot,340,291,631,121,0.5388272583201268,Pacific Golden Plover,Pluvialis fulva
+PAJA,Continuous,1103,308,1411,1111,0.781715095676825,Parasitic Jaeger,Stercorarius parasiticus
+PAJA,Not Specified,35,4,39,31,0.8974358974358975,Parasitic Jaeger,Stercorarius parasiticus
+PAJA,Snapshot,2137,880,3017,2262,0.7083195227046735,Parasitic Jaeger,Stercorarius parasiticus
+PALO,Continuous,4409,8258,12667,2810,0.34806978763716745,Pacific Loon,Gavia pacifica
+PALO,Not Specified,58,44,102,43,0.5686274509803921,Pacific Loon,Gavia pacifica
+PALO,Snapshot,5370,5324,10694,4223,0.5021507387319992,Pacific Loon,Gavia pacifica
+PAPE,Continuous,16,1,17,17,0.9411764705882353,Parkinson's Petrel,Procellaria parkinsoni
+PBGR,Continuous,0,23,23,18,0,Pied-billed Grebe,Podilymbus podiceps
+PECO,Continuous,9985,22618,32603,9005,0.30626016010796553,Pelagic Cormorant,Urile pelagicus
+PECO,Not Specified,15,19,34,24,0.4411764705882353,Pelagic Cormorant,Urile pelagicus
+PECO,Snapshot,3896,3746,7642,2408,0.5098141847683852,Pelagic Cormorant,Urile pelagicus
+PEFA,Continuous,77,15,92,80,0.8369565217391305,Peregrine Falcon,Falco peregrinus
+PEFA,Snapshot,133,11,144,107,0.9236111111111112,Peregrine Falcon,Falco peregrinus
+PESA,Continuous,1,0,1,1,1,Pectoral Sandpiper,Calidris melanotos
+PESA,Snapshot,548,154,702,179,0.7806267806267806,Pectoral Sandpiper,Calidris melanotos
+PFSH,Continuous,7125,6947,14072,4210,0.5063246162592382,Pink-footed Shearwater,Ardenna creatopus
+PFSH,Not Specified,547,616,1163,314,0.470335339638865,Pink-footed Shearwater,Ardenna creatopus
+PFSH,Snapshot,4155,8992,13147,2722,0.31604168251312087,Pink-footed Shearwater,Ardenna creatopus
+PHPE,Snapshot,8,0,8,7,1,Phoenix Petrel,Pterodroma alba
+PIGU,Continuous,8176,63279,71455,14636,0.1144216639843258,Pigeon Guillemot,Cepphus columba
+PIGU,Not Specified,7,7,14,8,0.5,Pigeon Guillemot,Cepphus columba
+PIGU,Snapshot,2251,19956,22207,5666,0.10136443463772685,Pigeon Guillemot,Cepphus columba
+POBE,Snapshot,0,118,118,85,0,Polar Bear,Ursus maritimus
+POJA,Continuous,3064,1018,4082,2922,0.7506124448799608,Pomarine Jaeger,Stercorarius pomarinus
+POJA,Not Specified,181,25,206,154,0.8786407766990292,Pomarine Jaeger,Stercorarius pomarinus
+POJA,Snapshot,6384,2037,8421,5102,0.7581047381546134,Pomarine Jaeger,Stercorarius pomarinus
+PSWH,Continuous,0,2,2,2,0,Pygmy Sperm Whale,Kogia breviceps
+PSWH,Snapshot,0,1,1,1,0,Pygmy Sperm Whale,Kogia breviceps
+PWSD,Continuous,33,9771,9804,545,0.0033659730722154224,Pacific White-sided Dolphin,Lagenorhynchus obliquidens
+PWSD,Not Specified,0,140,140,18,0,Pacific White-sided Dolphin,Lagenorhynchus obliquidens
+PWSD,Snapshot,0,5864,5864,310,0,Pacific White-sided Dolphin,Lagenorhynchus obliquidens
+PYPE,Continuous,1,0,1,1,1,Pycroft's Petrel,Pterodroma pycrofti
+PYPE,Snapshot,112,34,146,99,0.7671232876712328,Pycroft's Petrel,Pterodroma pycrofti
+RAPT,Snapshot,2,1,3,3,0.6666666666666666,Unidentified Raptor,Accipitridae or  Falconidae (Family)
+RBGU,Continuous,199,434,633,292,0.31437598736176936,Ring-billed Gull,Larus delawarensis
+RBGU,Not Specified,3,1,4,4,0.75,Ring-billed Gull,Larus delawarensis
+RBGU,Snapshot,57,159,216,70,0.2638888888888889,Ring-billed Gull,Larus delawarensis
+RBME,Continuous,2952,5076,8028,1328,0.36771300448430494,Red-breasted Merganser,Mergus serrator
+RBME,Snapshot,713,8672,9385,1245,0.07597229621736815,Red-breasted Merganser,Mergus serrator
+RBSE,Continuous,0,1,1,1,0,Ribbon Seal,Histriophoca fasciata
+RBSE,Snapshot,0,348,348,223,0,Ribbon Seal,Histriophoca fasciata
+RBTR,Continuous,68,55,123,111,0.5528455284552846,Red-Billed Tropicbird,Phaethon aethereus
+RBTR,Snapshot,23,20,43,41,0.5348837209302325,Red-Billed Tropicbird,Phaethon aethereus
+REDH,Continuous,8,0,8,3,1,Redhead,Aythya americana
+REKN,Snapshot,22,1,23,6,0.9565217391304348,Red Knot,Calidris canutus
+REPH,Continuous,20951,28689,49640,4595,0.42205882352941176,Red Phalarope,Phalaropus fulicarius
+REPH,Not Specified,410,165,575,114,0.7130434782608696,Red Phalarope,Phalaropus fulicarius
+REPH,Snapshot,40274,63995,104269,6326,0.38625094706959884,Red Phalarope,Phalaropus fulicarius
+RFBO,Continuous,54,2,56,23,0.9642857142857143,Red-Footed Booby,Sula sula
+RFBO,Snapshot,55,90,145,38,0.3793103448275862,Red-Footed Booby,Sula sula
+RFCO,Continuous,2057,2409,4466,964,0.4605911330049261,Red-faced Cormorant,Urile urile
+RFCO,Snapshot,2344,7830,10174,912,0.23039119323766463,Red-faced Cormorant,Urile urile
+RHAU,Continuous,5006,23112,28118,7119,0.17803542214951276,Rhinoceros Auklet,Cerorhinca monocerata
+RHAU,Not Specified,77,306,383,258,0.2010443864229765,Rhinoceros Auklet,Cerorhinca monocerata
+RHAU,Snapshot,10986,11110,22096,3378,0.4971940622737147,Rhinoceros Auklet,Cerorhinca monocerata
+RIDO,Continuous,0,3574,3574,204,0,Risso's Dolphin,Grampus griseus
+RIDO,Not Specified,0,167,167,12,0,Risso's Dolphin,Grampus griseus
+RIDO,Snapshot,0,1177,1177,91,0,Risso's Dolphin,Grampus griseus
+RIOT,Continuous,0,377,377,201,0,River Otter,Lontra canadensis
+RIOT,Snapshot,0,20,20,12,0,River Otter,Lontra canadensis
+RISE,Continuous,0,103,103,43,0,Ringed Seal,Pusa hispida
+RISE,Snapshot,0,747,747,462,0,Ringed Seal,Pusa hispida
+RIWH,Snapshot,0,2,2,1,0,Right Whale,Eubalaena japonica
+RLHA,Continuous,9,11,20,15,0.45,Rough-legged Hawk,Buteo lagopus
+RLKI,Continuous,17041,1861,18902,3860,0.9015448100730081,Red-legged Kittiwake,Rissa brevirostris
+RLKI,Snapshot,5999,1208,7207,2728,0.8323851810739559,Red-legged Kittiwake,Rissa brevirostris
+RNGR,Continuous,214,2986,3200,1073,0.066875,Red-necked Grebe,Podiceps grisegena
+RNGR,Snapshot,96,4536,4632,1607,0.02072538860103627,Red-necked Grebe,Podiceps grisegena
+RNPH,Continuous,20289,69219,89508,4951,0.2266724762032444,Red-necked Phalarope,Phalaropus lobatus
+RNPH,Not Specified,604,647,1251,88,0.4828137490007994,Red-necked Phalarope,Phalaropus lobatus
+RNPH,Snapshot,17284,45801,63085,3206,0.27397955139890623,Red-necked Phalarope,Phalaropus lobatus
+ROGU,Continuous,38,7,45,16,0.8444444444444444,Ross's Gull,Rhodostethia rosea
+ROGU,Snapshot,6856,3743,10599,583,0.646853476743089,Ross's Gull,Rhodostethia rosea
+ROSA,Continuous,408,180,588,20,0.6938775510204082,Rock Sandpiper,Calidris ptilocnemis
+ROSA,Snapshot,1055,1128,2183,50,0.4832798900595511,Rock Sandpiper,Calidris ptilocnemis
+ROYT,Continuous,206,19,225,111,0.9155555555555556,Royal Tern,Thalasseus maximus
+ROYT,Snapshot,35,53,88,36,0.3977272727272727,Royal Tern,Thalasseus maximus
+RTHA,Continuous,5,0,5,5,1,Red-tailed Hawk,Buteo jamaicensis
+RTLO,Continuous,192,539,731,398,0.26265389876880985,Red-throated Loon,Gavia stellata
+RTLO,Not Specified,48,152,200,79,0.24,Red-throated Loon,Gavia stellata
+RTLO,Snapshot,728,1022,1750,797,0.416,Red-throated Loon,Gavia stellata
+RTTR,Continuous,53,21,74,55,0.7162162162162162,Red-tailed Tropicbird,Phaethon rubricauda
+RTTR,Snapshot,43,8,51,38,0.8431372549019608,Red-tailed Tropicbird,Phaethon rubricauda
+RUDU,Continuous,0,18,18,6,0,Ruddy Duck,Oxyura jamaicensis
+RUTU,Continuous,200,118,318,111,0.6289308176100629,Ruddy Turnstone,Arenaria interpres
+RUTU,Snapshot,353,130,483,185,0.7308488612836439,Ruddy Turnstone,Arenaria interpres
+SACR,Snapshot,3213,1,3214,21,0.9996888612321095,Sandhill Crane,Antigone canadensis
+SAGU,Continuous,1735,1102,2837,795,0.611561508635883,Sabine's Gull,Xema sabini
+SAGU,Not Specified,271,25,296,115,0.9155405405405406,Sabine's Gull,Xema sabini
+SAGU,Snapshot,8012,4210,12222,1787,0.6555391916216659,Sabine's Gull,Xema sabini
+SAND,Continuous,35,0,35,6,1,Sanderling,Calidris alba
+SAND,Snapshot,94,2,96,39,0.9791666666666666,Sanderling,Calidris alba
+SBDO,Continuous,2,1,3,2,0.6666666666666666,Short-billed Dowitcher,Limnodromus griseus
+SBDO,Snapshot,10,0,10,2,1,Short-billed Dowitcher,Limnodromus griseus
+SBGU,Continuous,566,124,690,443,0.8202898550724638,Slaty-backed Gull,Larus schistisagus
+SBGU,Snapshot,522,465,987,451,0.5288753799392097,Slaty-backed Gull,Larus schistisagus
+SBIG,Continuous,12355,21459,33814,6471,0.3653812030519903,Short-billed Gull,Larus brachyrhynchus
+SBIG,Snapshot,7111,17933,25044,4393,0.2839402651333653,Short-billed Gull,Larus brachyrhynchus
+SCMU,Continuous,6,38,44,26,0.13636363636363635,Scripps's Murrelet,Synthliboramphus scrippsi
+SCMU,Snapshot,12,106,118,55,0.1016949152542373,Scripps's Murrelet,Synthliboramphus scrippsi
+SEOT,Continuous,9,41182,41191,7226,2.1849433128596054e-4,Sea Otter,Enhydra lutris
+SEOT,Not Specified,0,2,2,1,0,Sea Otter,Enhydra lutris
+SEOT,Snapshot,0,13372,13372,2499,0,Sea Otter,Enhydra lutris
+SEOW,Snapshot,5,0,5,5,1,Short-eared Owl,Asio flammeus
+SEPL,Continuous,27,1,28,17,0.9642857142857143,Semipalmated Plover,Charadrius semipalmatus
+SEPL,Snapshot,43,1,44,6,0.9772727272727273,Semipalmated Plover,Charadrius semipalmatus
+SESA,Continuous,2,0,2,1,1,Semipalmated Sandpiper,Calidris pusilla
+SESA,Snapshot,875,427,1302,193,0.6720430107526881,Semipalmated Sandpiper,Calidris pusilla
+SEWH,Continuous,0,21,21,15,0,Sei Whale,Balaenoptera borealis
+SEWH,Snapshot,0,26,26,16,0,Sei Whale,Balaenoptera borealis
+SFPW,Continuous,0,207,207,11,0,Short-finned Pilot Whale,Globicephala macrorhynchus
+SFPW,Snapshot,0,5,5,4,0,Short-finned Pilot Whale,Globicephala macrorhynchus
+SKIM,Continuous,2,0,2,2,1,Unidentified Skimmer,Rynchops (Genus)
+SKIM,Snapshot,8,0,8,2,1,Unidentified Skimmer,Rynchops (Genus)
+SNEG,Continuous,3,22,25,18,0.12,Snowy Egret,Egretta thula
+SNEG,Snapshot,2,0,2,1,1,Snowy Egret,Egretta thula
+SNGO,Continuous,0,6,6,1,0,Snow Goose,Anser caerulescens
+SNGO,Snapshot,6620,4247,10867,51,0.6091837673690991,Snow Goose,Anser caerulescens
+SNOW,Snapshot,14,4,18,17,0.7777777777777778,Snowy Owl,Bubo scandiacus
+SNPL,Snapshot,2,73,75,23,0.02666666666666667,Snowy Plover,Charadrius nivosus
+SOPE,Continuous,311,3,314,110,0.9904458598726115,Solander's Petrel,Pterodroma solandri
+SOPE,Snapshot,249,74,323,240,0.7708978328173375,Solander's Petrel,Pterodroma solandri
+SOSA,Continuous,4,4,8,5,0.5,Solitary Sandpiper,Tringa solitaria
+SOSH,Continuous,173177,645448,818625,18902,0.21154619025805466,Sooty Shearwater,Ardenna grisea
+SOSH,Not Specified,5830,14338,20168,1413,0.28907179690598966,Sooty Shearwater,Ardenna grisea
+SOSH,Snapshot,195229,423277,618506,14183,0.3156460891244386,Sooty Shearwater,Ardenna grisea
+SOTE,Continuous,7,0,7,2,1,Sooty Tern,Onychoprion fuscatus
+SOTE,Snapshot,1195,64,1259,90,0.949166004765687,Sooty Tern,Onychoprion fuscatus
+SPDO,Snapshot,0,82,82,3,0,Spinner Dolphin,Stenella longirostris
+SPEI,Continuous,568,14,582,25,0.9759450171821306,Spectacled Eider,Somateria fischeri
+SPEI,Snapshot,46389,116948,163337,239,0.2840079100265096,Spectacled Eider,Somateria fischeri
+SPGU,Continuous,0,6,6,2,0,Spectacled Guillemot,Cepphus carbo
+SPGU,Snapshot,2,2220,2222,19,9.000900090009e-4,Spectacled Guillemot,Cepphus carbo
+SPSA,Continuous,111,31,142,95,0.7816901408450704,Spotted Sandpiper,Actitis macularius
+SPSE,Continuous,0,21,21,13,0,Spotted Seal,Phoca largha
+SPSE,Snapshot,0,1874,1874,617,0,Spotted Seal,Phoca largha
+SPSK,Continuous,129,135,264,182,0.48863636363636365,South Polar Skua,Stercorarius maccormicki
+SPSK,Not Specified,9,2,11,10,0.8181818181818182,South Polar Skua,Stercorarius maccormicki
+SPSK,Snapshot,157,52,209,188,0.7511961722488039,South Polar Skua,Stercorarius maccormicki
+SPWH,Continuous,0,382,382,140,0,Sperm Whale,Physeter macrocephalus
+SPWH,Snapshot,0,243,243,115,0,Sperm Whale,Physeter macrocephalus
+SSHA,Continuous,15,9,24,15,0.625,Sharp-shinned Hawk,Accipiter striatus
+SSTP,Continuous,2,0,2,2,1,Swinhoe's Storm-Petrel,Hydrobates monorhis
+SSTP,Snapshot,22,0,22,17,1,Swinhoe's Storm-Petrel,Hydrobates monorhis
+STAL,Continuous,23,9,32,29,0.71875,Short-tailed Albatross,Phoebastria albatrus
+STAL,Snapshot,176,48,224,199,0.7857142857142857,Short-tailed Albatross,Phoebastria albatrus
+STBW,Snapshot,0,7,7,1,0,Stejneger's Beaked Whale,Mesoplodon stejnegeri
+STDO,Continuous,0,50,50,3,0,Striped Dolphin,Stenella coeruleoalba
+STDO,Snapshot,0,39,39,3,0,Striped Dolphin,Stenella coeruleoalba
+STEI,Continuous,56,240,296,34,0.1891891891891892,Steller's Eider,Polysticta stelleri
+STEI,Snapshot,244,5674,5918,203,0.04123014531936465,Steller's Eider,Polysticta stelleri
+STPE,Continuous,52,24,76,45,0.6842105263157895,Stejneger's Petrel,Pterodroma longirostris
+STPE,Snapshot,187,122,309,145,0.6051779935275081,Stejneger's Petrel,Pterodroma longirostris
+STRS,Continuous,56612,28461,85073,1023,0.6654520235562399,Streaked Shearwater,Calonectris leucomelas
+STRS,Snapshot,2523,2299,4822,234,0.5232268768145998,Streaked Shearwater,Calonectris leucomelas
+STSA,Continuous,1,0,1,1,1,Stilt Sandpiper,Calidris himantopus
+STSA,Snapshot,7,10,17,13,0.4117647058823529,Stilt Sandpiper,Calidris himantopus
+STSE,Snapshot,4,6,10,7,0.4,Steller's Sea Eagle,Haliaeetus pelagicus
+STSH,Continuous,439271,617848,1057119,5863,0.41553599925836165,Short-tailed Shearwater,Ardenna tenuirostris
+STSH,Not Specified,3,3,6,5,0.5,Short-tailed Shearwater,Ardenna tenuirostris
+STSH,Snapshot,574037,881513,1455550,28756,0.3943780701453059,Short-tailed Shearwater,Ardenna tenuirostris
+STSL,Continuous,0,7183,7183,1373,0,Steller Sea Lion,Eumetopias jubatus
+STSL,Not Specified,0,7,7,5,0,Steller Sea Lion,Eumetopias jubatus
+STSL,Snapshot,0,8447,8447,714,0,Steller Sea Lion,Eumetopias jubatus
+SURF,Continuous,426,496,922,39,0.46203904555314534,Surfbird,Calidris virgata
+SURF,Snapshot,92,46,138,10,0.6666666666666666,Surfbird,Calidris virgata
+SUSC,Continuous,12715,136261,148976,4656,0.08534931801095479,Surf Scoter,Melanitta perspicillata
+SUSC,Not Specified,46,2094,2140,51,0.02149532710280374,Surf Scoter,Melanitta perspicillata
+SUSC,Snapshot,2075,14134,16209,1222,0.12801530014189647,Surf Scoter,Melanitta perspicillata
+SWAN,Continuous,0,5,5,1,0,Unidentified Swan,Cygnus (Genus)
+SWAN,Snapshot,1313,6,1319,25,0.9954510993176648,Unidentified Swan,Cygnus (Genus)
+SYMU,Continuous,12,64,76,42,0.15789473684210525,Synthliboramphus Murrelet,Synthliboramphus (Genus)
+SYMU,Snapshot,6,112,118,50,0.05084745762711865,Synthliboramphus Murrelet,Synthliboramphus (Genus)
+TBMU,Continuous,29049,35301,64350,12343,0.4514219114219114,Thick-billed Murre,Uria lomvia
+TBMU,Snapshot,50432,56901,107333,24108,0.46986481324476165,Thick-billed Murre,Uria lomvia
+THGU,Continuous,224,201,425,249,0.5270588235294118,Thayer's Gull,Larus glaucoides thayeri
+THGU,Snapshot,74,172,246,99,0.3008130081300813,Thayer's Gull,Larus glaucoides thayeri
+TOSP,Continuous,50,2,52,47,0.9615384615384616,Townsend's Storm-Petrel,Hydrobates socorroensis
+TOSP,Snapshot,14,0,14,11,1,Townsend's Storm-Petrel,Hydrobates socorroensis
+TRSP,Continuous,8,2,10,7,0.8,Tristram's Storm-Petrel,Hydrobates tristrami
+TRSP,Snapshot,135,59,194,121,0.6958762886597938,Tristram's Storm-Petrel,Hydrobates tristrami
+TRTE,Snapshot,1,0,1,1,1,Trudeau's Tern,Sterna trudeaui
+TRUS,Continuous,37,3,40,16,0.925,Trumpeter Swan,Cygnus buccinator
+TRUS,Snapshot,1,1,2,2,0.5,Trumpeter Swan,Cygnus buccinator
+TUPU,Continuous,48135,95291,143426,21689,0.3356086065288023,Tufted Puffin,Fratercula cirrhata
+TUPU,Not Specified,199,109,308,148,0.6461038961038961,Tufted Puffin,Fratercula cirrhata
+TUPU,Snapshot,103711,155195,258906,30526,0.40057395348118624,Tufted Puffin,Fratercula cirrhata
+TUSW,Continuous,9,4,13,7,0.6923076923076923,Tundra Swan,Cygnus columbianus
+TUSW,Snapshot,67,2140,2207,112,0.03035795197100136,Tundra Swan,Cygnus columbianus
+UALB,Continuous,2,0,2,2,1,Unidentified Albatross,Diomedeidae (Family)
+UALB,Not Specified,4,1,5,4,0.8,Unidentified Albatross,Diomedeidae (Family)
+UALB,Snapshot,54,124,178,68,0.30337078651685395,Unidentified Albatross,Diomedeidae (Family)
+UBKW,Continuous,0,17,17,4,0,Unidentified Beaked Whale,Mesoplodon (Genus)
+UBKW,Not Specified,0,2,2,2,0,Unidentified Beaked Whale,Mesoplodon (Genus)
+UBKW,Snapshot,0,38,38,26,0,Unidentified Beaked Whale,Mesoplodon (Genus)
+UFWH,Continuous,0,3,3,2,0,Unidentified Balaenoptera,Balaenoptera (Genus)
+UNAL,Continuous,11171,8314,19485,4202,0.5733128047215807,Unidentified Alcid,Alcidae (Family)
+UNAL,Not Specified,55,152,207,132,0.26570048309178745,Unidentified Alcid,Alcidae (Family)
+UNAL,Snapshot,40814,56277,97091,7305,0.4203685202541945,Unidentified Alcid,Alcidae (Family)
+UNAU,Continuous,2973,4672,7645,1045,0.38888162197514714,Unidentified Auklet,Aethia or Ptychoramphus (Genus)
+UNAU,Snapshot,36766,7167,43933,1646,0.8368652265950425,Unidentified Auklet,Aethia or Ptychoramphus (Genus)
+UNBI,Continuous,1024,732,1756,642,0.5831435079726651,Unidentified Bird,Aves (Class)
+UNBI,Not Specified,7,15,22,19,0.3181818181818182,Unidentified Bird,Aves (Class)
+UNBI,Snapshot,4218,3110,7328,791,0.5756004366812227,Unidentified Bird,Aves (Class)
+UNBO,Continuous,10,0,10,1,1,Unidentified Booby,Sula (Genus)
+UNBO,Snapshot,52,63,115,20,0.45217391304347826,Unidentified Booby,Sula (Genus)
+UNBW,Continuous,0,158,158,113,0,Unidentified Baleen Whale,Mysticeti (Suborder)
+UNBW,Not Specified,0,3,3,1,0,Unidentified Baleen Whale,Mysticeti (Suborder)
+UNBW,Snapshot,0,66,66,41,0,Unidentified Baleen Whale,Mysticeti (Suborder)
+UNCE,Continuous,0,3,3,1,0,Unidentified Cetacean,Cetacea (Order)
+UNCO,Continuous,5024,25586,30610,7274,0.16412936948709572,Unidentified Cormorant,Phalacrocorax (Genus)
+UNCO,Not Specified,39,174,213,78,0.18309859154929578,Unidentified Cormorant,Phalacrocorax (Genus)
+UNCO,Snapshot,5852,43785,49637,6849,0.1178959244112255,Unidentified Cormorant,Phalacrocorax (Genus)
+UNDO,Continuous,0,11857,11857,225,0,Unidentified Dolphin,Delphinidae (Family)
+UNDO,Snapshot,0,3014,3014,80,0,Unidentified Dolphin,Delphinidae (Family)
+UNDS,Continuous,490,1551,2041,23,0.24007839294463498,Unidentified Dark Shearwater,Ardenna grisea or Ardenna tenuirostris
+UNDS,Snapshot,10955,42863,53818,1279,0.20355643093388828,Unidentified Dark Shearwater,Ardenna grisea or Ardenna tenuirostris
+UNDU,Continuous,2251,2633,4884,606,0.4608927108927109,Unidentified Duck,Anatinae (Subfamily)
+UNDU,Snapshot,3660,1453,5113,243,0.7158224134558967,Unidentified Duck,Anatinae (Subfamily)
+UNEI,Continuous,2412,545,2957,126,0.815691579303348,Unidentified Eider,Somateria or Polysticta (Genus)
+UNEI,Snapshot,95676,31771,127447,1291,0.7507120606997418,Unidentified Eider,Somateria or Polysticta (Genus)
+UNFA,Continuous,2,1,3,3,0.6666666666666666,Unidentified Falcon,Falco (Genus)
+UNFA,Snapshot,2,0,2,2,1,Unidentified Falcon,Falco (Genus)
+UNFB,Snapshot,10,0,10,5,1,Unidentified Frigatebird,Fregata (Genus)
+UNGI,Continuous,48,29,77,55,0.6233766233766234,Unidentified Guillemot,Cepphus (Genus)
+UNGI,Snapshot,234,700,934,222,0.2505353319057816,Unidentified Guillemot,Cepphus (Genus)
+UNGO,Continuous,4119,9814,13933,845,0.2956290820354554,Unidentified Goldeneye,Bucephala (Genus)
+UNGO,Snapshot,771,4310,5081,209,0.15174178311356032,Unidentified Goldeneye,Bucephala (Genus)
+UNGR,Continuous,495,2386,2881,789,0.17181534189517528,Unidentified Grebe,Podicipedidae (Family)
+UNGR,Snapshot,10,295,305,62,0.03278688524590164,Unidentified Grebe,Podicipedidae (Family)
+UNGU,Continuous,14294,51972,66266,12304,0.2157063954365738,Unidentified Gull,Larus (Genus)
+UNGU,Not Specified,299,1905,2204,226,0.13566243194192376,Unidentified Gull,Larus (Genus)
+UNGU,Snapshot,14883,34259,49142,4924,0.3028570265760449,Unidentified Gull,Larus (Genus)
+UNIB,Continuous,1,0,1,1,1,Unidentified Ibis,Plegadis (Genus)
+UNJS,Continuous,713,349,1062,796,0.6713747645951036,Unidentified Jaegar/Skua,Stercorarius (Genus)
+UNJS,Not Specified,18,9,27,20,0.6666666666666666,Unidentified Jaegar/Skua,Stercorarius (Genus)
+UNJS,Snapshot,1385,1118,2503,1464,0.5533359968038354,Unidentified Jaegar/Skua,Stercorarius (Genus)
+UNKI,Continuous,7214,7127,14341,2335,0.5030332612788508,Unidentified Kittiwake,Rissa (Genus)
+UNKI,Not Specified,1,0,1,1,1,Unidentified Kittiwake,Rissa (Genus)
+UNKI,Snapshot,7020,24974,31994,3230,0.2194161405263487,Unidentified Kittiwake,Rissa (Genus)
+UNLO,Continuous,1650,4393,6043,2462,0.27304319046831044,Unidentified Loon,Gavia (Genus)
+UNLO,Not Specified,18,19,37,19,0.4864864864864865,Unidentified Loon,Gavia (Genus)
+UNLO,Snapshot,5451,10166,15617,4301,0.3490427098674521,Unidentified Loon,Gavia (Genus)
+UNME,Continuous,3103,3122,6225,578,0.4984738955823293,Unidentified Merganser,Mergus (Genus)
+UNME,Snapshot,147,275,422,80,0.34834123222748814,Unidentified Merganser,Mergus (Genus)
+UNML,Continuous,2947,1111,4058,480,0.7262198127156234,Unidentified Murrelet,Brachyramphus or Synthliboramphus (Genus)
+UNML,Not Specified,17,19,36,23,0.4722222222222222,Unidentified Murrelet,Brachyramphus or Synthliboramphus (Genus)
+UNML,Snapshot,170,522,692,173,0.24566473988439305,Unidentified Murrelet,Brachyramphus or Synthliboramphus (Genus)
+UNMM,Continuous,0,221,221,20,0,Unidentified Marine Mammal,Mammalia (Class)
+UNMM,Not Specified,0,10,10,5,0,Unidentified Marine Mammal,Mammalia (Class)
+UNMM,Snapshot,0,7,7,7,0,Unidentified Marine Mammal,Mammalia (Class)
+UNMU,Continuous,239379,197455,436834,18910,0.5479861915510239,Unidentified Murre,Uria (Genus)
+UNMU,Snapshot,274098,329419,603517,25488,0.45416781963059866,Unidentified Murre,Uria (Genus)
+UNNO,Snapshot,2275,169,2444,17,0.9308510638297872,Unidentified Noddy,Anous or Procelsterna (Genus)
+UNOT,Continuous,0,5,5,5,0,Unidentified Otter,Lutrinae (Subfamily)
+UNOT,Snapshot,0,20,20,11,0,Unidentified Otter,Lutrinae (Subfamily)
+UNPH,Continuous,34041,35325,69366,3328,0.4907447452642505,Unidentified Phalarope,Phalaropus (Genus)
+UNPH,Not Specified,1215,815,2030,184,0.5985221674876847,Unidentified Phalarope,Phalaropus (Genus)
+UNPH,Snapshot,34124,16226,50350,2643,0.6777358490566038,Unidentified Phalarope,Phalaropus (Genus)
+UNPI,Continuous,0,6,6,6,0,Unidentified Pinniped,Caniformia (Suborder)
+UNPI,Snapshot,0,30,30,24,0,Unidentified Pinniped,Caniformia (Suborder)
+UNPL,Continuous,2,1,3,3,0.6666666666666666,Unidentified Plover,Pluvialus or Charadrius (Genus)
+UNPL,Snapshot,28,0,28,4,1,Unidentified Plover,Pluvialus or Charadrius (Genus)
+UNPO,Continuous,0,173,173,88,0,Unidentified Porpoise,Phocoenidae (Family)
+UNPO,Snapshot,0,730,730,141,0,Unidentified Porpoise,Phocoenidae (Family)
+UNPR,Continuous,442,721,1163,154,0.38005159071367156,Unidentified Procellariidae,Procellariidae (Family)
+UNPR,Not Specified,1,5,6,5,0.16666666666666666,Unidentified Procellariidae,Procellariidae (Family)
+UNPR,Snapshot,20137,5214,25351,722,0.7943276399353083,Unidentified Procellariidae,Procellariidae (Family)
+UNPT,Continuous,307,22,329,233,0.9331306990881459,Unidentified Pterodroma,Pterodroma (Genus)
+UNPT,Not Specified,3,0,3,3,1,Unidentified Pterodroma,Pterodroma (Genus)
+UNPT,Snapshot,525,900,1425,427,0.3684210526315789,Unidentified Pterodroma,Pterodroma (Genus)
+UNPU,Continuous,271,143,414,162,0.6545893719806763,Unidentified Puffin,Fratercula (Genus)
+UNPU,Not Specified,6,13,19,13,0.3157894736842105,Unidentified Puffin,Fratercula (Genus)
+UNPU,Snapshot,123,107,230,133,0.5347826086956522,Unidentified Puffin,Fratercula (Genus)
+UNSA,Continuous,1173,295,1468,105,0.7990463215258855,Unidentified Sandpiper,Scolopacidae (family)
+UNSA,Not Specified,25,0,25,3,1,Unidentified Sandpiper,Scolopacidae (family)
+UNSA,Snapshot,484,233,717,122,0.6750348675034867,Unidentified Sandpiper,Scolopacidae (family)
+UNSB,Continuous,8978,31184,40162,484,0.22354464419102635,Unidentified Shorebird,Charadii (Suborder)
+UNSB,Snapshot,4619,23987,28606,688,0.1614696217576732,Unidentified Shorebird,Charadii (Suborder)
+UNSC,Continuous,3718,163728,167446,3729,0.022204173285715993,Unidentified Scoter,Melanitta (Genus)
+UNSC,Not Specified,60,564,624,73,0.09615384615384616,Unidentified Scoter,Melanitta (Genus)
+UNSC,Snapshot,1780,12157,13937,374,0.1277175862811222,Unidentified Scoter,Melanitta (Genus)
+UNSE,Continuous,1,797,798,469,0.0012531328320802004,Unidentified Seal,Phocidae (Family)
+UNSE,Not Specified,0,1,1,1,0,Unidentified Seal,Phocidae (Family)
+UNSE,Snapshot,2,3404,3406,1917,5.871990604815032e-4,Unidentified Seal,Phocidae (Family)
+UNSH,Continuous,523472,757332,1280804,19317,0.4087057816808817,Unidentified Shearwater,Puffinus (Genus)
+UNSH,Not Specified,168,5669,5837,213,0.028781908514647937,Unidentified Shearwater,Puffinus (Genus)
+UNSH,Snapshot,570286,1435464,2005750,15647,0.28432556400348996,Unidentified Shearwater,Puffinus (Genus)
+UNSL,Continuous,0,782,782,417,0,Unidentified Sea Lion,Eumetopias (Genus)
+UNSL,Snapshot,0,23,23,20,0,Unidentified Sea Lion,Eumetopias (Genus)
+UNSP,Continuous,8522,3358,11880,1579,0.7173400673400674,Unidentified Storm-Petrel,Hydrobatidae (Family)
+UNSP,Not Specified,93,5,98,45,0.9489795918367347,Unidentified Storm-Petrel,Hydrobatidae (Family)
+UNSP,Snapshot,3793,2986,6779,1532,0.5595220534002066,Unidentified Storm-Petrel,Hydrobatidae (Family)
+UNTE,Continuous,2555,1454,4009,1583,0.637316038912447,Unidentified Tern,Sterninae (Family)
+UNTE,Not Specified,35,7,42,20,0.8333333333333334,Unidentified Tern,Sterninae (Family)
+UNTE,Snapshot,1331,533,1864,443,0.7140557939914163,Unidentified Tern,Sterninae (Family)
+UNTR,Continuous,5,4,9,9,0.5555555555555556,Unidentified Tropicbird,Phaethon (Genus)
+UNTR,Snapshot,3,5,8,6,0.375,Unidentified Tropicbird,Phaethon (Genus)
+UNTU,Continuous,14,3,17,8,0.8235294117647058,Unidentified Turnstone,Arenaria (Genus)
+UNTU,Snapshot,182,26,208,17,0.875,Unidentified Turnstone,Arenaria (Genus)
+UNWF,Continuous,4134,96500,100634,141,0.04107955561738577,Unidentified Duck; Goose; or Swan,Anatidae (Family)
+UNWF,Snapshot,12904,54356,67260,783,0.191852512637526,Unidentified Duck; Goose; or Swan,Anatidae (Family)
+UNWH,Continuous,0,861,861,578,0,Unidentified Whale,Mysticeti or Odontoceti (Suborder)
+UNWH,Snapshot,9,2082,2091,1201,0.00430416068866571,Unidentified Whale,Mysticeti or Odontoceti (Suborder)
+USCA,Continuous,343,2651,2994,123,0.114562458249833,Unidentified Scaup,Aythya (Genus)
+USCA,Snapshot,29,6,35,6,0.8285714285714286,Unidentified Scaup,Aythya (Genus)
+USTI,Continuous,1,0,1,1,1,Unidentified Stint,Calidris (Genus)
+USTI,Snapshot,641,38,679,99,0.9440353460972017,Unidentified Stint,Calidris (Genus)
+WALR,Continuous,0,30,30,14,0,Walrus,Odobenus rosmarus
+WALR,Snapshot,25,32184,32209,1346,7.761805706479556e-4,Walrus,Odobenus rosmarus
+WATA,Continuous,51,74,125,67,0.408,Wandering Tattler,Tringa incana
+WATA,Snapshot,12,2,14,12,0.8571428571428571,Wandering Tattler,Tringa incana
+WCGR,Continuous,0,877,877,80,0,Western/Clark's Grebe,Aechmophorus (Genus)
+WEGR,Continuous,136,30103,30239,2574,0.0044975032243129735,Western Grebe,Aechmophorus occidentalis
+WEGR,Not Specified,0,300,300,38,0,Western Grebe,Aechmophorus occidentalis
+WEGR,Snapshot,3,648,651,49,0.004608294930875576,Western Grebe,Aechmophorus occidentalis
+WEGU,Continuous,20380,21857,42237,16036,0.48251533016075954,Western Gull,Larus occidentalis
+WEGU,Not Specified,948,836,1784,561,0.531390134529148,Western Gull,Larus occidentalis
+WEGU,Snapshot,9684,6972,16656,7037,0.5814121037463977,Western Gull,Larus occidentalis
+WESA,Continuous,200,299,499,20,0.40080160320641284,Western Sandpiper,Calidris mauri
+WESA,Snapshot,287,117,404,71,0.7103960396039604,Western Sandpiper,Calidris mauri
+WGWH,Continuous,44,8,52,47,0.8461538461538461,Western x Glaucous-winged Gull,Larus (Genus)
+WGWH,Not Specified,92,52,144,86,0.6388888888888888,Western x Glaucous-winged Gull,Larus (Genus)
+WHAU,Continuous,5145,33240,38385,704,0.13403673309886674,Whiskered Auklet,Aethia pygmaea
+WHAU,Snapshot,7991,28038,36029,657,0.22179355519165117,Whiskered Auklet,Aethia pygmaea
+WHIM,Continuous,258,41,299,34,0.862876254180602,Whimbrel,Numenius phaeopus
+WHIM,Snapshot,154,103,257,31,0.5992217898832685,Whimbrel,Numenius phaeopus
+WHOS,Continuous,5,8,13,3,0.38461538461538464,Whooper Swan,Cygnus cygnus
+WHTE,Continuous,1,0,1,1,1,White Tern,Gygis alba
+WHTE,Snapshot,832,131,963,60,0.8639667705088265,White Tern,Gygis alba
+WILL,Continuous,21,1580,1601,36,0.01311680199875078,Willet,Tringa semipalmata
+WIPH,Continuous,27,4,31,4,0.8709677419354839,Wilsons Phalarope,Phalaropus tricolor
+WISN,Continuous,3,0,3,3,1,Wilson's Snipe,Gallinago delicata
+WISP,Continuous,6,0,6,5,1,Wilson's Storm-Petrel,Oceanites oceanicus
+WISP,Snapshot,3,0,3,3,1,Wilson's Storm-Petrel,Oceanites oceanicus
+WNPE,Snapshot,1,0,1,1,1,White-necked Petrel,Pterodroma cervicalis
+WODU,Snapshot,1,0,1,1,1,Wood Duck,Aix sponsa
+WOSP,Snapshot,0,2,2,2,0,Wood Sandpiper,Tringa glareola
+WRSA,Snapshot,4,0,4,3,1,White-rumped Sandpiper,Calidris fuscicollis
+WRSP,Continuous,15,0,15,14,1,Wedge-rumped Storm-Petrel,Hydrobates tethys
+WRSP,Snapshot,1,1,2,2,0.5,Wedge-rumped Storm-Petrel,Hydrobates tethys
+WTSH,Continuous,109,45,154,52,0.7077922077922078,Wedge-tailed Shearwater,Ardenna pacifica
+WTSH,Snapshot,836,450,1286,187,0.6500777604976672,Wedge-tailed Shearwater,Ardenna pacifica
+WTTR,Continuous,7,1,8,8,0.875,White-tailed Tropicbird,Phaethon lepturus
+WTTR,Snapshot,29,11,40,34,0.725,White-tailed Tropicbird,Phaethon lepturus
+WWSC,Continuous,9364,67731,77095,4811,0.12146053570270446,White-winged Scoter,Melanitta deglandi
+WWSC,Not Specified,4,96,100,24,0.04,White-winged Scoter,Melanitta deglandi
+WWSC,Snapshot,3429,50175,53604,2708,0.0639691067830759,White-winged Scoter,Melanitta deglandi
+XAMU,Continuous,90,448,538,280,0.16728624535315986,Xantus's Murrelet,Synthliboramphus hypoleucus
+XAMU,Snapshot,0,14,14,4,0,Xantus's Murrelet,Synthliboramphus hypoleucus
+YBLO,Continuous,27,217,244,170,0.11065573770491803,Yellow-billed Loon,Gavia adamsii
+YBLO,Snapshot,373,387,760,512,0.49078947368421055,Yellow-billed Loon,Gavia adamsii
+YELL,Continuous,15,0,15,6,1,Unidentified Yellowlegs,Tringa (Genus)
+YELL,Snapshot,20,0,20,1,1,Unidentified Yellowlegs,Tringa (Genus)

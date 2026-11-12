@@ -1,0 +1,182 @@
+sci_name,seasons_present_global,n_seasons_mapped_global,has_resident_global,has_breeding_global,has_nonbreeding_global,has_passage_global,has_uncertain_season_polygon,has_extinct_polygon,n_polygons_all,n_polygons_included,seasons_present_eaaf,note
+Accipiter soloensis,"breeding, non-breeding, passage, resident",4,TRUE,TRUE,TRUE,TRUE,FALSE,FALSE,4,4,"breeding, non-breeding, passage, resident",NA
+Actitis hypoleucos,"breeding, non-breeding, passage",3,FALSE,TRUE,TRUE,TRUE,FALSE,FALSE,6,6,"breeding, non-breeding, passage",NA
+Aethia cristatella,"breeding, non-breeding, resident",3,TRUE,TRUE,TRUE,FALSE,FALSE,FALSE,3,3,"breeding, non-breeding, resident",NA
+Aethia psittacula,"breeding, non-breeding, passage, resident",4,TRUE,TRUE,TRUE,TRUE,FALSE,FALSE,5,5,"breeding, non-breeding, passage, resident",NA
+Aethia pusilla,"breeding, non-breeding, passage, resident",4,TRUE,TRUE,TRUE,TRUE,FALSE,FALSE,4,4,"breeding, non-breeding, passage, resident",NA
+Aethia pygmaea,"non-breeding, resident",2,TRUE,FALSE,TRUE,FALSE,FALSE,FALSE,2,2,"non-breeding, resident",NA
+Anous albivittus,"breeding, resident",2,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,2,2,"breeding, resident",NA
+Anous minutus,"breeding, non-breeding, resident",3,TRUE,TRUE,TRUE,FALSE,TRUE,FALSE,6,4,"non-breeding, resident",NA
+Anous stolidus,"non-breeding, resident",2,TRUE,FALSE,TRUE,FALSE,TRUE,FALSE,6,5,"non-breeding, resident",NA
+Anous tenuirostris,"non-breeding, resident",2,TRUE,FALSE,TRUE,FALSE,FALSE,FALSE,3,3,"non-breeding, resident",NA
+Ardenna bulleri,"breeding, resident",2,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,2,2,"breeding, resident",NA
+Ardenna carneipes,"breeding, resident",2,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,4,4,"breeding, resident",NA
+Ardenna grisea,"breeding, non-breeding, resident",3,TRUE,TRUE,TRUE,FALSE,FALSE,FALSE,6,6,"breeding, non-breeding, resident",NA
+Ardenna pacifica,"breeding, resident",2,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,2,2,"breeding, resident",NA
+Ardenna tenuirostris,"breeding, resident",2,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,2,2,"breeding, resident",NA
+Arenaria interpres,"breeding, non-breeding, passage",3,FALSE,TRUE,TRUE,TRUE,FALSE,FALSE,3,3,"breeding, non-breeding, passage",NA
+Aythya baeri,"breeding, non-breeding, passage",3,FALSE,TRUE,TRUE,TRUE,FALSE,FALSE,6,6,"breeding, non-breeding, passage",NA
+Aythya marila,"breeding, non-breeding",2,FALSE,TRUE,TRUE,FALSE,FALSE,FALSE,4,4,"breeding, non-breeding",NA
+Brachyramphus brevirostris,"breeding, non-breeding",2,FALSE,TRUE,TRUE,FALSE,FALSE,FALSE,3,3,"breeding, non-breeding",NA
+Brachyramphus perdix,"breeding, non-breeding, resident",3,TRUE,TRUE,TRUE,FALSE,FALSE,FALSE,3,3,"breeding, non-breeding, resident",NA
+Branta bernicla,"breeding, non-breeding, passage",3,FALSE,TRUE,TRUE,TRUE,FALSE,FALSE,3,3,"breeding, non-breeding, passage",NA
+Bucephala clangula,"breeding, non-breeding",2,FALSE,TRUE,TRUE,FALSE,FALSE,FALSE,4,4,"breeding, non-breeding",NA
+Bulweria bulwerii,"breeding, resident",2,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,2,2,resident,NA
+Butastur indicus,"breeding, non-breeding",2,FALSE,TRUE,TRUE,FALSE,FALSE,FALSE,2,2,"breeding, non-breeding",NA
+Calidris acuminata,"breeding, non-breeding, passage",3,FALSE,TRUE,TRUE,TRUE,FALSE,FALSE,3,3,"breeding, non-breeding, passage",NA
+Calidris alba,"breeding, non-breeding, passage",3,FALSE,TRUE,TRUE,TRUE,FALSE,FALSE,3,3,"breeding, non-breeding, passage",NA
+Calidris alpina,"breeding, non-breeding, passage",3,FALSE,TRUE,TRUE,TRUE,FALSE,FALSE,3,3,"breeding, non-breeding, passage",NA
+Calidris canutus,"breeding, non-breeding, passage",3,FALSE,TRUE,TRUE,TRUE,FALSE,FALSE,3,3,"breeding, non-breeding, passage",NA
+Calidris falcinellus,"breeding, non-breeding, passage",3,FALSE,TRUE,TRUE,TRUE,FALSE,FALSE,4,4,"breeding, non-breeding, passage",NA
+Calidris ferruginea,"breeding, non-breeding, passage",3,FALSE,TRUE,TRUE,TRUE,FALSE,FALSE,3,3,"breeding, non-breeding, passage",NA
+Calidris pygmaea,"breeding, non-breeding, passage",3,FALSE,TRUE,TRUE,TRUE,FALSE,TRUE,6,4,"breeding, non-breeding, passage",NA
+Calidris ruficollis,"breeding, non-breeding, passage",3,FALSE,TRUE,TRUE,TRUE,FALSE,FALSE,3,3,"breeding, non-breeding, passage",NA
+Calidris tenuirostris,"breeding, non-breeding, passage",3,FALSE,TRUE,TRUE,TRUE,FALSE,FALSE,3,3,"breeding, non-breeding, passage",NA
+Calonectris leucomelas,"breeding, resident",2,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,2,2,"breeding, resident",NA
+Catharacta maccormicki,"breeding, non-breeding, passage",3,FALSE,TRUE,TRUE,TRUE,TRUE,FALSE,5,4,non-breeding,NA
+Cepphus carbo,"breeding, non-breeding, passage, resident",4,TRUE,TRUE,TRUE,TRUE,FALSE,FALSE,4,4,"breeding, non-breeding, passage, resident",NA
+Cepphus columba,"breeding, non-breeding, resident",3,TRUE,TRUE,TRUE,FALSE,FALSE,FALSE,3,3,"breeding, non-breeding, resident",NA
+Cerorhinca monocerata,"breeding, non-breeding, passage, resident",4,TRUE,TRUE,TRUE,TRUE,FALSE,FALSE,4,4,"breeding, non-breeding, passage, resident",NA
+Charadrius alexandrinus,"breeding, non-breeding, resident",3,TRUE,TRUE,TRUE,FALSE,FALSE,FALSE,3,3,"breeding, non-breeding, resident",NA
+Charadrius atrifrons,"breeding, non-breeding, passage",3,FALSE,TRUE,TRUE,TRUE,FALSE,FALSE,3,3,"breeding, non-breeding, passage",NA
+Charadrius bicinctus,"non-breeding, resident",2,TRUE,FALSE,TRUE,FALSE,FALSE,FALSE,2,2,"non-breeding, resident",NA
+Charadrius dealbatus,"non-breeding, resident",2,TRUE,FALSE,TRUE,FALSE,FALSE,FALSE,2,2,"non-breeding, resident",NA
+Charadrius leschenaultii,"breeding, non-breeding, passage",3,FALSE,TRUE,TRUE,TRUE,FALSE,FALSE,6,6,"breeding, non-breeding, passage",NA
+Charadrius mongolus,"breeding, non-breeding, passage",3,FALSE,TRUE,TRUE,TRUE,FALSE,FALSE,3,3,"breeding, non-breeding, passage",NA
+Charadrius veredus,"breeding, non-breeding, passage",3,FALSE,TRUE,TRUE,TRUE,FALSE,FALSE,3,3,"breeding, non-breeding, passage",NA
+Clangula hyemalis,"breeding, non-breeding, passage",3,FALSE,TRUE,TRUE,TRUE,FALSE,FALSE,5,5,"breeding, non-breeding",NA
+Cuculus optatus,"breeding, non-breeding, passage",3,FALSE,TRUE,TRUE,TRUE,FALSE,FALSE,3,3,"breeding, non-breeding, passage",NA
+Cygnus cygnus,"breeding, non-breeding, resident",3,TRUE,TRUE,TRUE,FALSE,FALSE,FALSE,3,3,"breeding, non-breeding, resident",NA
+Egretta eulophotes,"breeding, non-breeding, passage",3,FALSE,TRUE,TRUE,TRUE,FALSE,FALSE,3,3,"breeding, non-breeding, passage",NA
+Fratercula cirrhata,"breeding, non-breeding, resident",3,TRUE,TRUE,TRUE,FALSE,FALSE,FALSE,3,3,"breeding, non-breeding, resident",NA
+Fratercula corniculata,"breeding, non-breeding, resident",3,TRUE,TRUE,TRUE,FALSE,FALSE,FALSE,4,4,"breeding, non-breeding, resident",NA
+Fregata andrewsi,"breeding, non-breeding",2,FALSE,TRUE,TRUE,FALSE,FALSE,FALSE,2,2,"breeding, non-breeding",NA
+Fregata ariel,"breeding, resident",2,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,2,2,"breeding, resident",NA
+Fregata minor,"breeding, non-breeding",2,FALSE,TRUE,TRUE,FALSE,TRUE,TRUE,4,2,"breeding, non-breeding",NA
+Fregetta lineata,"breeding, non-breeding",2,FALSE,TRUE,TRUE,FALSE,FALSE,FALSE,3,3,"breeding, non-breeding",NA
+Fregetta tropica,"breeding, non-breeding, passage, resident",4,TRUE,TRUE,TRUE,TRUE,TRUE,FALSE,8,7,non-breeding,NA
+Fulmarus glacialis,"breeding, resident",2,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,2,2,"breeding, resident",NA
+Gallinago hardwickii,"breeding, non-breeding, passage",3,FALSE,TRUE,TRUE,TRUE,FALSE,FALSE,3,3,"breeding, non-breeding, passage",NA
+Gavia adamsii,"breeding, non-breeding",2,FALSE,TRUE,TRUE,FALSE,FALSE,FALSE,2,2,"breeding, non-breeding",NA
+Gavia arctica,"breeding, non-breeding",2,FALSE,TRUE,TRUE,FALSE,FALSE,FALSE,3,3,"breeding, non-breeding",NA
+Gavia pacifica,"breeding, non-breeding",2,FALSE,TRUE,TRUE,FALSE,FALSE,FALSE,4,4,"breeding, non-breeding",NA
+Gavia stellata,"breeding, non-breeding, passage",3,FALSE,TRUE,TRUE,TRUE,FALSE,FALSE,3,3,"breeding, non-breeding",NA
+Gelochelidon macrotarsa,"non-breeding, resident",2,TRUE,FALSE,TRUE,FALSE,FALSE,FALSE,2,2,"non-breeding, resident",NA
+Gelochelidon nilotica,"breeding, non-breeding, passage, resident",4,TRUE,TRUE,TRUE,TRUE,FALSE,FALSE,8,8,"breeding, non-breeding, passage, resident",NA
+Gygis candida,"non-breeding, resident",2,TRUE,FALSE,TRUE,FALSE,FALSE,FALSE,2,2,"non-breeding, resident",NA
+Haematopus ostralegus,"breeding, non-breeding, passage, resident",4,TRUE,TRUE,TRUE,TRUE,FALSE,FALSE,8,8,"breeding, non-breeding, passage, resident",NA
+Haliaeetus albicilla,"breeding, non-breeding, passage, resident",4,TRUE,TRUE,TRUE,TRUE,FALSE,FALSE,6,6,"breeding, non-breeding, passage, resident",NA
+Haliaeetus pelagicus,"breeding, non-breeding, resident",3,TRUE,TRUE,TRUE,FALSE,FALSE,FALSE,3,3,"breeding, non-breeding, resident",NA
+Himantopus himantopus,"breeding, non-breeding, passage, resident",4,TRUE,TRUE,TRUE,TRUE,FALSE,FALSE,5,5,"breeding, non-breeding, passage, resident",NA
+Hirundapus caudacutus,"breeding, non-breeding, passage, resident",4,TRUE,TRUE,TRUE,TRUE,FALSE,FALSE,4,4,"breeding, non-breeding, passage, resident",NA
+Histrionicus histrionicus,"breeding, non-breeding, passage",3,FALSE,TRUE,TRUE,TRUE,FALSE,FALSE,4,4,"breeding, non-breeding",NA
+Hydrobates furcatus,"breeding, resident",2,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,2,2,"breeding, resident",NA
+Hydrobates leucorhous,"breeding, resident",2,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,2,2,"breeding, resident",NA
+Hydrobates matsudairae,"breeding, non-breeding",2,FALSE,TRUE,TRUE,FALSE,FALSE,FALSE,2,2,"breeding, non-breeding",NA
+Hydrobates monorhis,"breeding, resident",2,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,2,2,"breeding, resident",NA
+Hydrobates tristrami,"breeding, resident",2,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,4,4,"breeding, resident",NA
+Hydroprogne caspia,"breeding, non-breeding, passage, resident",4,TRUE,TRUE,TRUE,TRUE,FALSE,FALSE,8,8,"breeding, non-breeding, passage, resident",NA
+Larus brunnicephalus,"breeding, non-breeding",2,FALSE,TRUE,TRUE,FALSE,FALSE,FALSE,2,2,"breeding, non-breeding",NA
+Larus canus,"breeding, non-breeding, passage, resident",4,TRUE,TRUE,TRUE,TRUE,FALSE,FALSE,8,8,"breeding, non-breeding, passage, resident",NA
+Larus crassirostris,"non-breeding, resident",2,TRUE,FALSE,TRUE,FALSE,FALSE,FALSE,2,2,"non-breeding, resident",NA
+Larus fuscus,"breeding, non-breeding, passage, resident",4,TRUE,TRUE,TRUE,TRUE,FALSE,FALSE,5,5,"breeding, non-breeding, passage",NA
+Larus glaucescens,"breeding, non-breeding, resident",3,TRUE,TRUE,TRUE,FALSE,FALSE,FALSE,3,3,"breeding, non-breeding, resident",NA
+Larus hyperboreus,"breeding, non-breeding, resident",3,TRUE,TRUE,TRUE,FALSE,FALSE,FALSE,3,3,"breeding, non-breeding, resident",NA
+Larus ichthyaetus,"breeding, non-breeding",2,FALSE,TRUE,TRUE,FALSE,FALSE,FALSE,3,3,"breeding, non-breeding",NA
+Larus novaehollandiae,"non-breeding, resident",2,TRUE,FALSE,TRUE,FALSE,TRUE,FALSE,5,4,"non-breeding, resident",NA
+Larus relictus,"breeding, non-breeding",2,FALSE,TRUE,TRUE,FALSE,FALSE,FALSE,2,2,"breeding, non-breeding",NA
+Larus ridibundus,"breeding, non-breeding, passage, resident",4,TRUE,TRUE,TRUE,TRUE,TRUE,FALSE,10,8,"breeding, non-breeding, passage",NA
+Larus schistisagus,"non-breeding, resident",2,TRUE,FALSE,TRUE,FALSE,TRUE,FALSE,5,4,"non-breeding, resident",NA
+Larus smithsonianus,"breeding, non-breeding, passage, resident",4,TRUE,TRUE,TRUE,TRUE,FALSE,FALSE,8,8,"breeding, non-breeding, passage, resident",NA
+Lathamus discolor,"non-breeding, resident",2,TRUE,FALSE,TRUE,FALSE,FALSE,FALSE,2,2,"non-breeding, resident",NA
+Leucogeranus leucogeranus,"breeding, non-breeding",2,FALSE,TRUE,TRUE,FALSE,FALSE,TRUE,4,2,"breeding, non-breeding",NA
+Limnodromus semipalmatus,"breeding, non-breeding, passage",3,FALSE,TRUE,TRUE,TRUE,FALSE,FALSE,3,3,"breeding, non-breeding, passage",NA
+Limosa lapponica,"breeding, non-breeding, passage",3,FALSE,TRUE,TRUE,TRUE,FALSE,FALSE,3,3,"breeding, non-breeding, passage",NA
+Limosa limosa,"breeding, non-breeding, passage, resident",4,TRUE,TRUE,TRUE,TRUE,FALSE,FALSE,4,4,"breeding, non-breeding, passage",NA
+Melanitta americana,"breeding, non-breeding, passage",3,FALSE,TRUE,TRUE,TRUE,FALSE,FALSE,3,3,"breeding, non-breeding",NA
+Melanitta fusca,"breeding, non-breeding",2,FALSE,TRUE,TRUE,FALSE,FALSE,FALSE,2,2,breeding,NA
+Melanitta nigra,"breeding, non-breeding, resident",3,TRUE,TRUE,TRUE,FALSE,FALSE,FALSE,3,3,breeding,NA
+Melanitta stejnegeri,"breeding, non-breeding",2,FALSE,TRUE,TRUE,FALSE,FALSE,FALSE,2,2,"breeding, non-breeding",NA
+Mergus merganser,"breeding, non-breeding, passage, resident",4,TRUE,TRUE,TRUE,TRUE,FALSE,FALSE,4,4,"breeding, non-breeding, resident",NA
+Mergus serrator,"breeding, non-breeding, passage, resident",4,TRUE,TRUE,TRUE,TRUE,FALSE,FALSE,4,4,"breeding, non-breeding",NA
+Mergus squamatus,"breeding, non-breeding, passage",3,FALSE,TRUE,TRUE,TRUE,FALSE,TRUE,4,3,"breeding, non-breeding, passage",NA
+Microcarbo melanoleucos,"non-breeding, resident",2,TRUE,FALSE,TRUE,FALSE,FALSE,FALSE,2,2,"non-breeding, resident",NA
+Morus serrator,"breeding, non-breeding",2,FALSE,TRUE,TRUE,FALSE,TRUE,FALSE,3,2,"breeding, non-breeding",NA
+Numenius arquata,"breeding, non-breeding, passage, resident",4,TRUE,TRUE,TRUE,TRUE,FALSE,FALSE,4,4,"breeding, non-breeding, passage",NA
+Numenius madagascariensis,"breeding, non-breeding, passage",3,FALSE,TRUE,TRUE,TRUE,FALSE,FALSE,3,3,"breeding, non-breeding, passage",NA
+Numenius minutus,"breeding, non-breeding, passage",3,FALSE,TRUE,TRUE,TRUE,FALSE,FALSE,4,4,"breeding, non-breeding, passage",NA
+Numenius phaeopus,"breeding, non-breeding, passage",3,FALSE,TRUE,TRUE,TRUE,TRUE,FALSE,7,6,"breeding, non-breeding, passage",NA
+Oceanites oceanicus,"breeding, non-breeding, passage",3,FALSE,TRUE,TRUE,TRUE,TRUE,FALSE,6,5,non-breeding,NA
+Onychoprion aleuticus,"breeding, non-breeding",2,FALSE,TRUE,TRUE,FALSE,FALSE,FALSE,2,2,"breeding, non-breeding",NA
+Onychoprion anaethetus,"breeding, non-breeding",2,FALSE,TRUE,TRUE,FALSE,FALSE,FALSE,12,12,"breeding, non-breeding",NA
+Onychoprion fuscatus,"breeding, non-breeding, passage, resident",4,TRUE,TRUE,TRUE,TRUE,TRUE,FALSE,5,4,"breeding, non-breeding, passage",NA
+Onychoprion lunatus,"non-breeding, resident",2,TRUE,FALSE,TRUE,FALSE,FALSE,FALSE,2,2,"non-breeding, resident",NA
+Pandion haliaetus,"breeding, non-breeding, passage, resident",4,TRUE,TRUE,TRUE,TRUE,FALSE,FALSE,4,4,"breeding, non-breeding, passage, resident",NA
+Papasula abbotti,"breeding, resident",2,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,4,4,"breeding, resident",NA
+Pelagodroma marina,"breeding, resident",2,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,2,2,"breeding, resident",NA
+Phaethon lepturus,"breeding, non-breeding, passage",3,FALSE,TRUE,TRUE,TRUE,TRUE,TRUE,7,5,"breeding, non-breeding, passage",NA
+Phaethon rubricauda,"breeding, non-breeding",2,FALSE,TRUE,TRUE,FALSE,FALSE,FALSE,2,2,"breeding, non-breeding",NA
+Phalacrocorax capillatus,"breeding, non-breeding",2,FALSE,TRUE,TRUE,FALSE,FALSE,FALSE,2,2,"breeding, non-breeding",NA
+Phalacrocorax carbo,"breeding, non-breeding, passage, resident",4,TRUE,TRUE,TRUE,TRUE,FALSE,FALSE,8,8,"breeding, non-breeding, passage, resident",NA
+Phalaropus lobatus,"breeding, non-breeding, passage",3,FALSE,TRUE,TRUE,TRUE,FALSE,FALSE,6,6,"breeding, non-breeding",NA
+Phoebastria albatrus,"breeding, resident",2,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,2,2,"breeding, resident",NA
+Phoebastria immutabilis,"breeding, resident",2,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,2,2,"breeding, resident",NA
+Phoebastria nigripes,"breeding, resident",2,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,2,2,"breeding, resident",NA
+Platalea minor,"breeding, non-breeding, passage",3,FALSE,TRUE,TRUE,TRUE,FALSE,FALSE,3,3,"breeding, non-breeding, passage",NA
+Pluvialis fulva,"breeding, non-breeding, passage",3,FALSE,TRUE,TRUE,TRUE,FALSE,FALSE,5,5,"breeding, non-breeding, passage",NA
+Pluvialis squatarola,"breeding, non-breeding, passage",3,FALSE,TRUE,TRUE,TRUE,FALSE,FALSE,3,3,"breeding, non-breeding, passage",NA
+Podiceps auritus,"breeding, non-breeding, passage",3,FALSE,TRUE,TRUE,TRUE,FALSE,FALSE,3,3,"breeding, non-breeding",NA
+Podiceps cristatus,"breeding, non-breeding, passage, resident",4,TRUE,TRUE,TRUE,TRUE,FALSE,FALSE,8,8,"breeding, non-breeding, passage, resident",NA
+Podiceps grisegena,"breeding, non-breeding, resident",3,TRUE,TRUE,TRUE,FALSE,FALSE,FALSE,3,3,"breeding, non-breeding",NA
+Podiceps nigricollis,"breeding, non-breeding, passage, resident",4,TRUE,TRUE,TRUE,TRUE,FALSE,FALSE,4,4,"breeding, non-breeding",NA
+Polysticta stelleri,"breeding, non-breeding, resident",3,TRUE,TRUE,TRUE,FALSE,FALSE,TRUE,4,3,"breeding, non-breeding, resident",NA
+Pseudobulweria aterrima,"breeding, resident",2,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,2,2,NA,NA
+Pseudobulweria becki,"breeding, resident",2,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,3,3,"breeding, resident",NA
+Pseudobulweria rostrata,"breeding, resident",2,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,2,2,"breeding, resident",NA
+Pterodroma cervicalis,"breeding, resident",2,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,2,2,"breeding, resident",NA
+Pterodroma heraldica,"breeding, resident",2,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,2,2,"breeding, resident",NA
+Pterodroma hypoleuca,"breeding, resident",2,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,2,2,"breeding, resident",NA
+Pterodroma leucoptera,"breeding, resident",2,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,2,2,"breeding, resident",NA
+Pterodroma neglecta,"breeding, resident",2,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,3,3,"breeding, resident",NA
+Pterodroma nigripennis,"breeding, resident",2,TRUE,TRUE,FALSE,FALSE,TRUE,FALSE,3,2,"breeding, resident",NA
+Pterodroma sandwichensis,"breeding, resident",2,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,2,2,NA,NA
+Pterodroma solandri,"breeding, non-breeding",2,FALSE,TRUE,TRUE,FALSE,FALSE,TRUE,3,2,"breeding, non-breeding",NA
+Puffinus bailloni,"breeding, resident",2,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,2,2,"breeding, resident",NA
+Puffinus bannermani,"breeding, resident",2,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,2,2,"breeding, resident",NA
+Puffinus heinrothi,"breeding, resident",2,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,2,2,"breeding, resident",NA
+Puffinus huttoni,"breeding, passage, resident",3,TRUE,TRUE,FALSE,TRUE,FALSE,FALSE,8,8,"breeding, passage, resident",NA
+Rissa tridactyla,"breeding, non-breeding, passage, resident",4,TRUE,TRUE,TRUE,TRUE,FALSE,FALSE,8,8,"breeding, non-breeding, passage, resident",NA
+Saundersilarus saundersi,"breeding, non-breeding, resident",3,TRUE,TRUE,TRUE,FALSE,FALSE,FALSE,3,3,"breeding, non-breeding, resident",NA
+Somateria fischeri,"breeding, non-breeding",2,FALSE,TRUE,TRUE,FALSE,FALSE,FALSE,2,2,"breeding, non-breeding",NA
+Somateria mollissima,"breeding, non-breeding",2,FALSE,TRUE,TRUE,FALSE,FALSE,FALSE,4,4,"breeding, non-breeding",NA
+Somateria spectabilis,"breeding, non-breeding",2,FALSE,TRUE,TRUE,FALSE,FALSE,FALSE,3,3,"breeding, non-breeding",NA
+Stercorarius longicaudus,"breeding, non-breeding",2,FALSE,TRUE,TRUE,FALSE,TRUE,FALSE,5,3,breeding,NA
+Stercorarius parasiticus,"breeding, non-breeding",2,FALSE,TRUE,TRUE,FALSE,TRUE,FALSE,6,4,"breeding, non-breeding",NA
+Stercorarius pomarinus,"breeding, non-breeding, passage",3,FALSE,TRUE,TRUE,TRUE,TRUE,FALSE,6,5,"breeding, non-breeding, passage",NA
+Sterna dougallii,"breeding, non-breeding, resident",3,TRUE,TRUE,TRUE,FALSE,TRUE,TRUE,6,4,"breeding, non-breeding, resident",NA
+Sterna hirundo,"breeding, non-breeding, passage, resident",4,TRUE,TRUE,TRUE,TRUE,FALSE,FALSE,10,10,"breeding, non-breeding, passage",NA
+Sterna paradisaea,"breeding, non-breeding, passage",3,FALSE,TRUE,TRUE,TRUE,FALSE,FALSE,3,3,"breeding, passage",NA
+Sterna striata,"non-breeding, passage, resident",3,TRUE,FALSE,TRUE,TRUE,FALSE,FALSE,6,6,"non-breeding, passage, resident",NA
+Sterna sumatrana,"breeding, non-breeding, passage, resident",4,TRUE,TRUE,TRUE,TRUE,FALSE,FALSE,5,5,"breeding, non-breeding, resident",NA
+Sternula albifrons,"breeding, non-breeding, passage, resident",4,TRUE,TRUE,TRUE,TRUE,FALSE,FALSE,8,8,"breeding, non-breeding, passage, resident",NA
+Sternula nereis,"breeding, non-breeding, resident",3,TRUE,TRUE,TRUE,FALSE,FALSE,FALSE,4,4,"breeding, non-breeding, resident",NA
+Sula dactylatra,"breeding, passage, resident",3,TRUE,TRUE,FALSE,TRUE,FALSE,TRUE,6,5,"breeding, resident",NA
+Sula leucogaster,"breeding, non-breeding, resident",3,TRUE,TRUE,TRUE,FALSE,TRUE,TRUE,6,4,"breeding, non-breeding, resident",NA
+Sula sula,"breeding, passage, resident",3,TRUE,TRUE,FALSE,TRUE,FALSE,FALSE,4,4,"breeding, passage, resident",NA
+Synthliboramphus antiquus,"breeding, non-breeding, resident",3,TRUE,TRUE,TRUE,FALSE,FALSE,FALSE,3,3,"breeding, non-breeding, resident",NA
+Synthliboramphus wumizusume,"breeding, non-breeding, resident",3,TRUE,TRUE,TRUE,FALSE,TRUE,FALSE,4,3,"breeding, non-breeding, resident",NA
+Tadorna tadorna,"breeding, non-breeding, resident",3,TRUE,TRUE,TRUE,FALSE,FALSE,FALSE,6,6,"breeding, non-breeding",NA
+Thalasseus bengalensis,"non-breeding, resident",2,TRUE,FALSE,TRUE,FALSE,TRUE,FALSE,3,2,"non-breeding, resident",NA
+Thalasseus bergii,"passage, resident",2,TRUE,FALSE,FALSE,TRUE,FALSE,FALSE,4,4,resident,NA
+Thalasseus bernsteini,breeding,1,FALSE,TRUE,FALSE,FALSE,FALSE,TRUE,3,1,breeding,NA
+Tringa brevipes,"breeding, non-breeding, passage",3,FALSE,TRUE,TRUE,TRUE,FALSE,FALSE,3,3,"breeding, non-breeding, passage",NA
+Tringa erythropus,"breeding, non-breeding",2,FALSE,TRUE,TRUE,FALSE,FALSE,FALSE,2,2,"breeding, non-breeding",NA
+Tringa guttifer,"breeding, non-breeding, passage",3,FALSE,TRUE,TRUE,TRUE,FALSE,FALSE,3,3,"breeding, non-breeding, passage",NA
+Tringa incana,"breeding, non-breeding, passage",3,FALSE,TRUE,TRUE,TRUE,FALSE,FALSE,5,5,"breeding, non-breeding, passage",NA
+Tringa nebularia,"breeding, non-breeding, passage",3,FALSE,TRUE,TRUE,TRUE,FALSE,FALSE,3,3,"breeding, non-breeding, passage",NA
+Tringa stagnatilis,"breeding, non-breeding, passage",3,FALSE,TRUE,TRUE,TRUE,FALSE,FALSE,3,3,"breeding, non-breeding, passage",NA
+Tringa totanus,"breeding, non-breeding, passage, resident",4,TRUE,TRUE,TRUE,TRUE,FALSE,FALSE,4,4,"breeding, non-breeding, passage",NA
+Uria aalge,"breeding, non-breeding, resident",3,TRUE,TRUE,TRUE,FALSE,FALSE,FALSE,3,3,"breeding, non-breeding, resident",NA
+Uria lomvia,"breeding, resident",2,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,2,2,"breeding, resident",NA
+Urile pelagicus,"breeding, non-breeding, passage, resident",4,TRUE,TRUE,TRUE,TRUE,FALSE,FALSE,8,8,"breeding, non-breeding, passage, resident",NA
+Xenus cinereus,"breeding, non-breeding, passage",3,FALSE,TRUE,TRUE,TRUE,FALSE,FALSE,4,4,"breeding, non-breeding, passage",NA
