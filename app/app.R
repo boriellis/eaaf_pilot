@@ -17,7 +17,12 @@ dat_sb <- read.csv("app/seabird_all_species_v2.csv", stringsAsFactors = FALSE)
 dat_ns <- read.csv("app/nonseabird_data_v1.csv", stringsAsFactors = FALSE)
 
 ui <- fluidPage(
-  titlePanel("EAAF bird vulnerability: prototype"),
+  titlePanel(title = div("EAAF bird vulnerability: prototype",
+                         tags$small(style = "margin-left:15px;",
+                                    tags$a("Methods & decisions (GitHub)",
+                                           href = "https://boriellis.github.io/eaaf_pilot/",
+                                           target = "_blank"))),
+             windowTitle = "EAAF bird vulnerability"),
   sidebarLayout(
     sidebarPanel(width = 3,
       radioButtons("group", "Species group",
