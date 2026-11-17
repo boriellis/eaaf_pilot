@@ -10,9 +10,9 @@
 # Tool page: menu in a fixed left sidebar, results in a scrolling panel beside it.
 # Comparison pages: controls across the top of the scrolling page; hide them or pin them with the buttons above them.
 # =============================================================================
-library(shiny); library(DT); library(dplyr)
+library(shiny); library(DT); library(dplyr); library(leaflet); library(sf)
 library(shinythemes)   # for the sandstone theme (install.packages("shinythemes"))
-source("core_functions.R"); source("plot_functions.R")
+source("core_functions.R"); source("plot_functions.R"); source("exposure_explorer.R", local = TRUE); source("country_filter.R", local = TRUE)
 
 # (methods_url and the link to the GitHub notes were removed: the Instructions and Definitions pages cover it now)
 
@@ -255,13 +255,15 @@ ui <- navbarPage(
       conditionalPanel("input.group == 'nonseabird'", nonseabird_options("", help = TRUE)),
       hr(), h4("Exposure"), exp_radio("", help = TRUE)),
     body = tabsetPanel(
-      tabPanel("Ranked table", br(), uiOutput("excluded_note"), DTOutput("tbl"),
+      tabPanel("Ranked table", br(), cf_ui(), uiOutput("country_note"), uiOutput("excluded_note"),
+               DTOutput("tbl"),
                br(), downloadButton("dl", "Download table (csv)")),
-      tabPanel("Data limited", br(), uiOutput("limited_note"), DTOutput("tbl_limited"),
+      tabPanel("Data limited", br(), uiOutput("country_note_lim"), uiOutput("limited_note"), 
+               DTOutput("tbl_limited"),
                br(), downloadButton("dl_limited", "Download table (csv)")),
       tabPanel("Vulnerability scatter", br(), plotly::plotlyOutput("scatter", height = "650px")),
       tabPanel("Priority by family", br(), plotly::plotlyOutput("boxplot", height = "750px"))))),
-
+  tabPanel("Exposure explorer", exposure_explorer_ui()),
   # ---- Instructions / Definitions ----
   tabPanel("Instructions", page_shell(body = instructions_ui)),
   tabPanel("Definitions", page_shell(body = definitions_ui)),
@@ -273,7 +275,9 @@ ui <- navbarPage(
 
 # ---- Server -------------------------------------------------------------------------------------------------
 server <- function(input, output, session) {
-
+  exposure_explorer_server(input, output, session)
+  output$country_note     <- renderUI(cf_note(input$country_filter, nrow(table_df()),   sum(res()$included)))
+  output$country_note_lim <- renderUI(cf_note(input$country_filter, nrow(limited_df()), sum(!res()$included)))
   # ================= Tool page =================
   is_ns <- reactive(identical(input$group, "nonseabird"))
   dat <- reactive(if (is_ns()) dat_ns else dat_sb)                  # dataset follows the group switch
@@ -297,7 +301,8 @@ server <- function(input, output, session) {
                 `Overlap (raw, %)` = overlap_overall * 100,        # raw overlap proportion x 100, before transform/rescaling
                 Exposure = exposure, Sensitivity = sensitivity,
                 Threat = status, `Weighted exposure` = e_w, `Weighted sensitivity` = s_w,
-                `Weighted threat` = t_w, Priority = priority)
+                `Weighted threat` = t_w, Priority = priority) %>%
+      cf_apply(input$country_filter)
   })
   output$tbl <- renderDT({
     datatable(table_df(), rownames = FALSE, options = list(pageLength = 50, scrollX = TRUE)) %>%
@@ -331,7 +336,8 @@ server <- function(input, output, session) {
     # round everything to 3 decimals except overlap %, which is tiny and gets 3 significant figures instead
     bind_cols(base, raw, rest) %>%
       mutate(across(where(is.numeric) & !starts_with("Overlap"), ~ round(.x, 3)),
-             `Overlap (raw, %)` = signif(`Overlap (raw, %)`, 3))
+             `Overlap (raw, %)` = signif(`Overlap (raw, %)`, 3)) %>%
+    cf_apply(input$country_filter)
   })
   output$limited_note <- renderUI({
     r <- res()

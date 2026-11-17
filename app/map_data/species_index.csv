@@ -1,0 +1,182 @@
+sci_name,has_map,file,overlap_overall_pct,seasons_present,months_covered,note,pct_overlap_season_breeding,pct_overlap_season_non-breeding,pct_overlap_season_passage,pct_overlap_season_resident,range_area_km2_breeding,range_area_km2_non-breeding,range_area_km2_passage,range_area_km2_resident
+Thalasseus bernsteini,TRUE,ranges/thalasseus_bernsteini.rds,24.628863341207673,breeding,4,NA,0.2462886334120767,NA,NA,NA,57.88401193722734,NA,NA,NA
+Pterodroma nigripennis,TRUE,ranges/pterodroma_nigripennis.rds,4.149697969161632,"breeding, resident",16,NA,0.16436689298387946,NA,NA,5.403419275286016e-4,548.315755263448,NA,NA,7635440.864816554
+Platalea minor,TRUE,ranges/platalea_minor.rds,2.7815373082635637,"breeding, non-breeding, passage",12,NA,0.05917623802387024,0.02050748078533729,0.00376240043869936,NA,60126.62677395789,441205.0607445334,6737162.564068041,NA
+Tringa guttifer,TRUE,ranges/tringa_guttifer.rds,2.2003405893795915,"breeding, non-breeding, passage",12,NA,0,0.00946287402289766,0.05654734365849008,NA,245099.51475025373,230559.72848227483,107148.86738751509,NA
+Ardenna carneipes,TRUE,ranges/ardenna_carneipes.rds,1.7107551805683758,"breeding, resident",16,NA,0.06379504279042546,NA,NA,0.00154505481076986,698.5959588290485,NA,NA,15309447.992945695
+Charadrius dealbatus,TRUE,ranges/charadrius_dealbatus.rds,1.3972960139030748,"non-breeding, resident",16,NA,NA,0.006246551726662,NA,0.01654842960982033,NA,104896.24529294216,NA,61006.980818022115
+Synthliboramphus antiquus,TRUE,ranges/synthliboramphus_antiquus.rds,1.3782474611628317,"breeding, non-breeding, resident",20,NA,0,0.00642631535895885,NA,0.02082868589972757,295057.13717223273,2770476.368334499,NA,123202.87307130123
+Mergus serrator,TRUE,ranges/mergus_serrator.rds,1.1847276347925453,"breeding, non-breeding",8,NA,0,0.0236945526958509,NA,NA,12701904.33422469,1151879.1194768168,NA,NA
+Morus serrator,TRUE,ranges/morus_serrator.rds,1.162945534757178,"breeding, non-breeding",8,NA,0.02101875494033756,0.00224015575480599,NA,NA,9991.255151079931,5636057.618691512,NA,NA
+Podiceps auritus,TRUE,ranges/podiceps_auritus.rds,0.989843828508593,"breeding, non-breeding",8,NA,0,0.01979687657017186,NA,NA,7685758.633888232,863534.1626626663,NA,NA
+Haematopus ostralegus,TRUE,ranges/haematopus_ostralegus.rds,0.9494159099518282,"breeding, non-breeding, passage, resident",24,NA,0,9.96539690534172e-4,0,0.01865613830219184,2272979.6628372935,513897.9015058614,90137.41445539807,5649.683360949932
+Synthliboramphus wumizusume,TRUE,ranges/synthliboramphus_wumizusume.rds,0.9372254747078692,"breeding, non-breeding, resident",20,NA,0,0.01204831394460944,NA,0.01160431993026133,114.11904138502028,348576.07557477447,NA,570916.6592127227
+Aythya marila,TRUE,ranges/aythya_marila.rds,0.8509401671025197,"breeding, non-breeding",8,NA,0,0.01701880334205039,NA,NA,7053861.387519883,1740973.968011622,NA,NA
+Egretta eulophotes,TRUE,ranges/egretta_eulophotes.rds,0.8451300627439228,"breeding, non-breeding, passage",12,NA,0.0046458457610431,0.01817712933054049,0.00253092679073407,NA,40669.95027132368,618532.9128864849,3220150.8088091128,NA
+Hydrobates monorhis,TRUE,ranges/hydrobates_monorhis.rds,0.7327315588118689,"breeding, resident",16,NA,0.01937069424572593,NA,NA,0.00331285603558294,3769.3087018095425,NA,NA,11121887.32766713
+Sternula albifrons,TRUE,ranges/sternula_albifrons.rds,0.7001368289492741,"breeding, non-breeding, passage, resident",24,NA,5.847701078200579e-4,5.933432519046679e-4,0,0.0136100321257439,2323907.5982172205,11061257.125996271,672.3537164000809,1113267.0527372644
+Podiceps nigricollis,TRUE,ranges/podiceps_nigricollis.rds,0.6868338094116704,"breeding, non-breeding",8,NA,0,0.0137366761882334,NA,NA,1931048.595064716,1219455.1270165823,NA,NA
+Phalacrocorax capillatus,TRUE,ranges/phalacrocorax_capillatus.rds,0.6733987210577169,"breeding, non-breeding",8,NA,0.00150493431794726,0.01196304010320707,NA,NA,71833.67703193027,2018324.1791726428,NA,NA
+Melanitta americana,TRUE,ranges/melanitta_americana.rds,0.6688361331624567,"breeding, non-breeding",8,NA,0,0.01337672266324913,NA,NA,2585931.0001272587,781710.3315087402,NA,NA
+Cerorhinca monocerata,TRUE,ranges/cerorhinca_monocerata.rds,0.586734037719952,"breeding, non-breeding, passage, resident",24,NA,0,0.00589281348911574,0,0.00977040959136046,18177.993214481132,2598380.0601440077,716051.5998987176,143061.1794429664
+Melanitta stejnegeri,TRUE,ranges/melanitta_stejnegeri.rds,0.5612327432363486,"breeding, non-breeding",8,NA,0,0.01122465486472697,NA,NA,6485999.47485715,2105626.6582414224,NA,NA
+Larus schistisagus,TRUE,ranges/larus_schistisagus.rds,0.5585129729778769,"non-breeding, resident",16,NA,NA,0.01365936726245277,NA,0.00289371721888743,NA,928814.4103589854,NA,1114985.1433657808
+Gavia stellata,TRUE,ranges/gavia_stellata.rds,0.5425553214784018,"breeding, non-breeding",8,NA,0,0.01085110642956803,NA,NA,9150370.395584095,2573402.05866427,NA,NA
+Gavia pacifica,TRUE,ranges/gavia_pacifica.rds,0.5279190241120274,"breeding, non-breeding",8,NA,0,0.01055838048224054,NA,NA,1798191.9207071024,800490.803592047,NA,NA
+Gavia arctica,TRUE,ranges/gavia_arctica.rds,0.45871079410765414,"breeding, non-breeding",8,NA,0,0.00917421588215308,NA,NA,12259659.213332975,3149423.9644714966,NA,NA
+Larus crassirostris,TRUE,ranges/larus_crassirostris.rds,0.456645634440866,"non-breeding, resident",16,NA,NA,0.01122811483059595,NA,0.00234590351567956,NA,2558046.8887696313,NA,187875.39116854256
+Gavia adamsii,TRUE,ranges/gavia_adamsii.rds,0.4102952686834256,"breeding, non-breeding",8,NA,0,0.00820590537366851,NA,NA,2466856.3415079894,534684.4272355419,NA,NA
+Calidris canutus,TRUE,ranges/calidris_canutus.rds,0.394012739547435,"breeding, non-breeding, passage",12,NA,0,0.01119572004197111,6.246621444519372e-4,NA,624861.9531604535,1376836.295679672,80049637.49619013,NA
+Larus fuscus,TRUE,ranges/larus_fuscus.rds,0.3892017452212622,"breeding, non-breeding, passage",12,NA,0,0.01101906742570357,6.569849309342925e-4,NA,1349927.7221930998,2105616.34620619,5994573.485945792,NA
+Gelochelidon nilotica,TRUE,ranges/gelochelidon_nilotica.rds,0.3654534083666976,"breeding, non-breeding, passage, resident",24,NA,6.585033074655091e-4,0.00128603336773591,0,0.00666088927560014,703048.0474168698,2302418.0486372467,102.82255626789546,185007.32169004632
+Cepphus carbo,TRUE,ranges/cepphus_carbo.rds,0.3643589014078043,"breeding, non-breeding, passage, resident",24,NA,0,0.01422691842813303,0,0.00254487188544507,346848.8953972094,315497.40536278905,594606.6008380478,1390418.701991568
+Charadrius atrifrons,TRUE,ranges/charadrius_atrifrons.rds,0.3501170962875984,"breeding, non-breeding, passage",12,NA,0,0.00908135060936063,0.00142216227926731,NA,2219252.2931480734,725687.8136443304,17306257.16034135,NA
+Sterna sumatrana,TRUE,ranges/sterna_sumatrana.rds,0.3490075391669123,"breeding, non-breeding, resident",20,NA,0.01397631485521523,5.043215381116647e-4,NA,9.899135216729063e-4,899447.563234283,12934873.10560215,NA,4372741.496016951
+Numenius madagascariensis,TRUE,ranges/numenius_madagascariensis.rds,0.33514397155256437,"breeding, non-breeding, passage",12,NA,0,0.00911248600213204,9.418331444448874e-4,NA,3087213.5874149227,2109372.6170653333,49530332.61317971,NA
+Pluvialis squatarola,TRUE,ranges/pluvialis_squatarola.rds,0.33246409322556514,"breeding, non-breeding, passage",12,NA,0,0.00945268255790026,5.212402388666916e-4,NA,2436986.8761449424,2778063.2354702274,73665693.95741145,NA
+Pelagodroma marina,TRUE,ranges/pelagodroma_marina.rds,0.32617985919847414,"breeding, resident",16,NA,0.00897547657533376,NA,NA,0.00135723926420173,58014.477461277536,NA,NA,8551942.90121293
+Onychoprion fuscatus,TRUE,ranges/onychoprion_fuscatus.rds,0.3245147082269547,"breeding, non-breeding, passage",12,NA,0.00861429354296406,0.00112114770384457,0,NA,132541.49469632586,27006995.35614485,756.2171567573006,NA
+Calidris falcinellus,TRUE,ranges/calidris_falcinellus.rds,0.3244670069002508,"breeding, non-breeding, passage",12,NA,0,0.00896363360901732,7.703765979902026e-4,NA,364034.8242297096,2025943.4609409596,59495486.754514635,NA
+Puffinus huttoni,TRUE,ranges/puffinus_huttoni.rds,0.31351170186229177,"breeding, passage, resident",20,NA,0.00352840916894955,NA,0,0.00404905864138834,423989.20137432165,NA,788740.4025948641,2744891.958271896
+Sterna dougallii,TRUE,ranges/sterna_dougallii.rds,0.3081280715395779,"breeding, non-breeding, resident",20,NA,0.01210944118081395,7.136481721242137e-4,NA,8.611047413469105e-4,1010299.4562806918,17279134.110657346,NA,3236418.3306725556
+Sterna paradisaea,TRUE,ranges/sterna_paradisaea.rds,0.3038565076189761,"breeding, passage",8,NA,0,NA,0.00607713015237952,NA,3570648.2100087046,NA,46736.00295503174,NA
+Larus ridibundus,TRUE,ranges/larus_ridibundus.rds,0.2941977640446342,"breeding, non-breeding, passage",12,NA,0,0.00882593292133902,0,NA,8322228.24566714,2902809.571633812,799.0120680859926,NA
+Calidris tenuirostris,TRUE,ranges/calidris_tenuirostris.rds,0.29174044723761894,"breeding, non-breeding, passage",12,NA,0,0.00804447122494065,7.077421921879132e-4,NA,2153053.944291064,2283116.4001506907,65406881.3707554,NA
+Sternula nereis,TRUE,ranges/sternula_nereis.rds,0.28335542728971913,"breeding, non-breeding, resident",20,NA,6.376445106983662e-6,0.01416139491937897,NA,0,110756.70797998528,565078.54846625,NA,137428.1735030124
+Calidris alba,TRUE,ranges/calidris_alba.rds,0.2683390105318345,"breeding, non-breeding, passage",12,NA,0,0.00746471532859305,5.854549873619779e-4,NA,130201.4565999666,2631392.2039983133,79610541.26162583,NA
+Limosa lapponica,TRUE,ranges/limosa_lapponica.rds,0.2648601020831719,"breeding, non-breeding, passage",12,NA,0,0.00733665758736434,6.09145475130808e-4,NA,1220840.8975952235,2548593.9090831517,78064802.57770002,NA
+Accipiter soloensis,TRUE,ranges/accipiter_soloensis.rds,0.2551582148008048,"breeding, non-breeding, passage, resident",24,NA,1.2148883434915683e-4,0.00189281548053997,0.00152751883772294,0.00392255657847873,2254585.06265236,1135439.7632396242,493067.2717573444,121353.27981872462
+Arenaria interpres,TRUE,ranges/arenaria_interpres.rds,0.25474638406619277,"breeding, non-breeding, passage",12,NA,0,0.00703321561862959,6.091759033561939e-4,NA,513395.0662540734,2635806.275344148,78323498.9767829,NA
+Calidris ferruginea,TRUE,ranges/calidris_ferruginea.rds,0.2495941914630267,"breeding, non-breeding, passage",12,NA,0,0.0067809604381083,7.068653057825005e-4,NA,1170778.7677451414,2748568.239028569,67358109.27384026,NA
+Calidris ruficollis,TRUE,ranges/calidris_ruficollis.rds,0.24914907535657188,"breeding, non-breeding, passage",12,NA,0,0.00685925321543927,6.152190452578762e-4,NA,934377.6140332656,2955171.565885796,74534710.62394041,NA
+Histrionicus histrionicus,TRUE,ranges/histrionicus_histrionicus.rds,0.24586244972345392,"breeding, non-breeding",8,NA,0,0.00491724899446907,NA,NA,5270712.948539962,1999033.457300957,NA,NA
+Fratercula cirrhata,TRUE,ranges/fratercula_cirrhata.rds,0.2326181426931756,"breeding, non-breeding, resident",20,NA,0,0.00185562949025516,NA,0.00325842588146787,676279.7707158554,1545764.046332282,NA,247567.81083437745
+Larus novaehollandiae,TRUE,ranges/larus_novaehollandiae.rds,0.2307842380087088,"non-breeding, resident",16,NA,NA,3.750885054395329e-4,NA,0.00295209367163627,NA,4425142.37666596,NA,3820515.2208162257
+Urile pelagicus,TRUE,ranges/urile_pelagicus.rds,0.23012745697620177,"breeding, non-breeding, passage, resident",24,NA,0,0.01301797491554564,0,2.632241676754855e-4,758327.3677095487,1959729.991077887,2858019.73622264,586329.9519442345
+Limnodromus semipalmatus,TRUE,ranges/limnodromus_semipalmatus.rds,0.2257972565163384,"breeding, non-breeding, passage",12,NA,0,0.00630084505010203,4.730726453881199e-4,NA,2381295.915964589,96005.02077711788,2786413.7052680263,NA
+Tringa brevipes,TRUE,ranges/tringa_brevipes.rds,0.2120130007774192,"breeding, non-breeding, passage",12,NA,0,0.00556108709284626,7.993029304763071e-4,NA,3462051.727019482,2152887.0358023765,65480096.965202555,NA
+Charadrius mongolus,TRUE,ranges/charadrius_mongolus.rds,0.2088976999082135,"breeding, non-breeding, passage",12,NA,0,0.00456782817964123,0.00169910281760516,NA,947670.3766492415,202194.5398866953,32426233.37424163,NA
+Saundersilarus saundersi,TRUE,ranges/saundersilarus_saundersi.rds,0.20775029142073104,"breeding, non-breeding, resident",20,NA,0.00113087393580811,0.00408211373784067,NA,0.00172484229912925,27896.234754869616,226298.12266583205,NA,22289.92427946139
+Calidris pygmaea,TRUE,ranges/calidris_pygmaea.rds,0.20528188059612024,"breeding, non-breeding, passage",12,NA,0,0.00351697377079552,0.00264148264708807,NA,54408.59951002562,424604.0819688051,14142.80478080893,NA
+Onychoprion anaethetus,TRUE,ranges/onychoprion_anaethetus.rds,0.2034668846275245,"breeding, non-breeding",8,NA,0.00329349572401593,7.758419685345525e-4,NA,NA,3305485.8995970483,16259422.509040575,NA,NA
+Larus smithsonianus,TRUE,ranges/larus_smithsonianus.rds,0.18631653920624305,"breeding, non-breeding, passage, resident",24,NA,0,0.0110983633528407,8.062899953387932e-5,0,5075265.601698183,3169974.02406715,9467458.334870014,238593.29650723137
+Mergus squamatus,TRUE,ranges/mergus_squamatus.rds,0.1818684809742664,"breeding, non-breeding, passage",12,NA,0,2.0757519804400192e-4,0.00524847923118399,NA,274555.3491142494,1804067.7020714132,1831906.4640419248,NA
+Thalasseus bergii,TRUE,ranges/thalasseus_bergii.rds,0.17277409471995753,resident,12,NA,NA,NA,NA,0.00172774094719957,NA,NA,NA,22629970.276662473
+Sterna striata,TRUE,ranges/sterna_striata.rds,0.16320875514210562,"non-breeding, passage, resident",20,NA,NA,0.001764880015586,0.00261450642510215,0.0012603504388057,NA,147436.71753744775,3866861.257210155,76780.45461915011
+Bulweria bulwerii,TRUE,ranges/bulweria_bulwerii.rds,0.16235436319938537,resident,12,NA,NA,NA,NA,0.00162354363199385,NA,NA,NA,18211648.63755539
+Podiceps cristatus,TRUE,ranges/podiceps_cristatus.rds,0.1526647235280397,"breeding, non-breeding, passage, resident",24,NA,1.949717845807976e-6,0.00282411986927418,0.00348173840226967,9.506918074309052e-4,6008694.346680362,6375675.692255977,2616331.7454763264,345165.5523698689
+Podiceps grisegena,TRUE,ranges/podiceps_grisegena.rds,0.152491939739647,"breeding, non-breeding",8,NA,0,0.00304983879479294,NA,NA,6413747.1606332045,3528535.2119694203,NA,NA
+Larus hyperboreus,TRUE,ranges/larus_hyperboreus.rds,0.15002248873767343,"breeding, non-breeding, resident",20,NA,0,0.00750112443688367,NA,0,855693.4183772977,1941314.758064404,NA,3378.446443281706
+Tadorna tadorna,TRUE,ranges/tadorna_tadorna.rds,0.1496056576264919,"breeding, non-breeding",8,NA,0,0.00299211315252983,NA,NA,3063195.028956936,903141.9827547508,NA,NA
+Calonectris leucomelas,TRUE,ranges/calonectris_leucomelas.rds,0.14043454945029027,"breeding, resident",16,NA,0,NA,NA,0.0018724606593372,2480.7562602047733,NA,NA,26259397.667074338
+Stercorarius parasiticus,TRUE,ranges/stercorarius_parasiticus.rds,0.13189813339907133,"breeding, non-breeding",8,NA,0,0.00263796266798142,NA,NA,2390437.13266372,4786129.532119369,NA,NA
+Thalasseus bengalensis,TRUE,ranges/thalasseus_bengalensis.rds,0.1167829626810626,"non-breeding, resident",16,NA,NA,2.4921278437205733e-4,NA,0.00147403524095681,NA,11002673.483444637,NA,1115755.1696176336
+Sula leucogaster,TRUE,ranges/sula_leucogaster.rds,0.11449573779655788,"breeding, non-breeding, resident",20,NA,0.00202359800321158,0.00157696258719679,NA,7.080754331398405e-4,89513.77358756636,25386035.056629468,NA,2471385.3055272293
+Larus canus,TRUE,ranges/larus_canus.rds,0.0977367224670224,"breeding, non-breeding, passage, resident",24,NA,0,0.00583514517877026,2.9058169251082833e-5,0,9241925.04405122,6120799.177810429,9027402.726947762,164414.96845962133
+Fregetta tropica,TRUE,ranges/fregetta_tropica.rds,0.09394988468448272,non-breeding,4,NA,NA,9.394988468448272e-4,NA,NA,NA,13473088.66819033,NA,NA
+Charadrius alexandrinus,TRUE,ranges/charadrius_alexandrinus.rds,0.08927991245831485,"breeding, non-breeding, resident",20,NA,6.217717166014804e-5,0.00113319591356244,NA,0.00108954084589771,4243234.604610393,2635320.199732285,NA,1177556.137295582
+Ardenna pacifica,TRUE,ranges/ardenna_pacifica.rds,0.08863483122766959,"breeding, resident",16,NA,0,NA,NA,0.00118179774970226,199655.04591066105,NA,NA,23155177.18392448
+Pterodroma leucoptera,TRUE,ranges/pterodroma_leucoptera.rds,0.08784815238626373,"breeding, resident",16,NA,0,NA,NA,0.00117130869848351,5344.893649796483,NA,NA,10805760.488527255
+Fregetta lineata,TRUE,ranges/fregetta_lineata.rds,0.08773310737387469,"breeding, non-breeding",8,NA,0,0.00175466214747749,NA,NA,8.131943478122928,1509382.5887185517,NA,NA
+Tringa erythropus,TRUE,ranges/tringa_erythropus.rds,0.0810857614153629,"breeding, non-breeding",8,NA,0,0.00162171522830725,NA,NA,2914939.040989539,1059774.6615250907,NA,NA
+Fregata ariel,TRUE,ranges/fregata_ariel.rds,0.07811760693567489,"breeding, resident",16,NA,0,NA,NA,0.00104156809247566,148.82630359124352,NA,NA,25984676.217131093
+Clangula hyemalis,TRUE,ranges/clangula_hyemalis.rds,0.07490258660236088,"breeding, non-breeding",8,NA,0,0.00149805173204721,NA,NA,3814306.8034215425,1404447.8206076086,NA,NA
+Phaethon rubricauda,TRUE,ranges/phaethon_rubricauda.rds,0.07442831047861961,"breeding, non-breeding",8,NA,6.892392112166123e-4,7.993269983557798e-4,NA,NA,141324.6555990657,24848003.39320717,NA,NA
+Ardenna grisea,TRUE,ranges/ardenna_grisea.rds,0.07226769154370659,"breeding, non-breeding, resident",20,NA,4.11119330336169e-4,0.00164299920648869,NA,5.197553467868208e-4,160432.95500947413,9536289.76577798,NA,2879312.3507316913
+Ardenna tenuirostris,TRUE,ranges/ardenna_tenuirostris.rds,0.07089758311582493,"breeding, resident",16,NA,8.713036383805239e-4,NA,NA,6.548665620841578e-4,298987.78493877436,NA,NA,16864018.640018713
+Oceanites oceanicus,TRUE,ranges/oceanites_oceanicus.rds,0.06878410969572922,non-breeding,4,NA,NA,6.878410969572923e-4,NA,NA,NA,18965488.969763488,NA,NA
+Himantopus himantopus,TRUE,ranges/himantopus_himantopus.rds,0.06614851652853859,"breeding, non-breeding, passage, resident",24,NA,3.0722881906654944e-5,0.00326848863429402,1.0001519080768592e-4,1.8989476156798489e-4,9123516.479203248,504539.6757853302,1919166.5408119585,10983141.625302024
+Calidris alpina,TRUE,ranges/calidris_alpina.rds,0.065188766885178,"breeding, non-breeding, passage",12,NA,0,7.574073152122953e-4,0.00119825569134304,NA,2628697.5951487087,2338531.606040636,39210597.11186515,NA
+Charadrius leschenaultii,TRUE,ranges/charadrius_leschenaultii.rds,0.06178104476608502,"breeding, non-breeding, passage",12,NA,0,0.00185343134298255,0,NA,3472553.823288719,2102577.5993833826,1246.724539982003,NA
+Hydroprogne caspia,TRUE,ranges/hydroprogne_caspia.rds,0.05596685764407574,"breeding, non-breeding, passage, resident",24,NA,0,9.400417583432954e-4,0,8.059899001004164e-4,214086.6985977502,425575.5869102989,67408.78628051539,2985089.8692756984
+Numenius arquata,TRUE,ranges/numenius_arquata.rds,0.05433505999411985,"breeding, non-breeding, passage",12,NA,0,0.00152626603235337,1.0378576747022428e-4,NA,4559923.426902463,2689715.047224245,6278893.771999248,NA
+Charadrius veredus,TRUE,ranges/charadrius_veredus.rds,0.05192813826540399,"breeding, non-breeding, passage",12,NA,0,1.1409985094285523e-4,0.00144374429701926,NA,1531695.9370183249,1927513.0060565432,1168115.6885648773,NA
+Stercorarius pomarinus,TRUE,ranges/stercorarius_pomarinus.rds,0.0511441421571966,"breeding, non-breeding, passage",12,NA,0,0.00153432426471589,0,NA,2061717.2712688716,18672223.362068716,720572.5576921953,NA
+Ardenna bulleri,TRUE,ranges/ardenna_bulleri.rds,0.05103359869957095,"breeding, resident",16,NA,0,NA,NA,6.804479826609461e-4,2.0086074724497793,NA,NA,6288093.39974683
+Pterodroma solandri,TRUE,ranges/pterodroma_solandri.rds,0.05012995937131292,"breeding, non-breeding",8,NA,0,0.00100259918742625,NA,NA,12.31427538175467,18229821.316381168,NA,NA
+Butastur indicus,TRUE,ranges/butastur_indicus.rds,0.04975535288288963,"breeding, non-breeding",8,NA,1.905623941984548e-4,8.045446634593378e-4,NA,NA,1828306.340350952,5064291.1824986525,NA,NA
+Gallinago hardwickii,TRUE,ranges/gallinago_hardwickii.rds,0.04672841600613514,"breeding, non-breeding, passage",12,NA,9.595019866078544e-4,1.7986572825540642e-4,2.6248476532079367e-4,NA,294592.742102147,2460209.1967293243,57518.14793196415,NA
+Larus relictus,TRUE,ranges/larus_relictus.rds,0.04607032525509657,"breeding, non-breeding",8,NA,0,9.214065051019316e-4,NA,NA,1360736.5023154116,32078.051163153785,NA,NA
+Branta bernicla,TRUE,ranges/branta_bernicla.rds,0.0455829735936568,"breeding, non-breeding, passage",12,NA,0,0.0013674892078097,0,NA,1152801.3344358928,612515.2572981564,157.4140410584278,NA
+Phoebastria nigripes,TRUE,ranges/phoebastria_nigripes.rds,0.04447414461604414,"breeding, resident",16,NA,0,NA,NA,5.929885948805885e-4,11.742269201636732,NA,NA,11500894.108187309
+Fregata minor,TRUE,ranges/fregata_minor.rds,0.04325023445718475,"breeding, non-breeding",8,NA,0,8.65004689143695e-4,NA,NA,771.2863717448756,21111826.122067273,NA,NA
+Larus brunnicephalus,TRUE,ranges/larus_brunnicephalus.rds,0.04263625644213074,"breeding, non-breeding",8,NA,0,8.527251288426148e-4,NA,NA,3427.73625829771,1155478.2105147694,NA,NA
+Tringa totanus,TRUE,ranges/tringa_totanus.rds,0.0424370426334111,"breeding, non-breeding, passage",12,NA,1.1526669007346694e-5,0.00107144492796467,1.9013968203030704e-4,NA,6342197.896392745,3828818.43219685,3871580.6652967418,NA
+Pterodroma hypoleuca,TRUE,ranges/pterodroma_hypoleuca.rds,0.0415177907701797,"breeding, resident",16,NA,0,NA,NA,5.535705436023959e-4,94.89047964730167,NA,NA,5284190.774350712
+Sterna hirundo,TRUE,ranges/sterna_hirundo.rds,0.04133142496525477,"breeding, non-breeding, passage",12,NA,5.291260990857957e-5,0.00118703013904906,0,NA,13191095.001469864,13214836.065570667,14880.70282317377,NA
+Rissa tridactyla,TRUE,ranges/rissa_tridactyla.rds,0.04072944799218843,"breeding, non-breeding, passage, resident",24,NA,0,0.0024437668795313,0,0,543116.1911590657,4674897.434451624,2594308.9602391142,516819.5078189258
+Sula sula,TRUE,ranges/sula_sula.rds,0.03933145048137158,"breeding, passage, resident",20,NA,0,NA,0,6.555241746895264e-4,712.9942993804468,NA,798.9407903468705,19613157.499403987
+Charadrius bicinctus,TRUE,ranges/charadrius_bicinctus.rds,0.03796038662331923,"non-breeding, resident",16,NA,NA,3.903716164296611e-4,NA,3.760146161677026e-4,NA,1385389.441654696,NA,257342.46106369235
+Fregata andrewsi,TRUE,ranges/fregata_andrewsi.rds,0.03768928496835675,"breeding, non-breeding",8,NA,0,7.53785699367135e-4,NA,NA,1.890288937347026,3813481.2782464833,NA,NA
+Pandion haliaetus,TRUE,ranges/pandion_haliaetus.rds,0.036395395764461,"breeding, non-breeding, passage, resident",24,NA,0,8.405536070667753e-4,1.202384284905451e-4,4.076439034367801e-4,9931629.29735501,3861777.9739790126,2015368.3412856152,4613259.454381424
+Numenius phaeopus,TRUE,ranges/numenius_phaeopus.rds,0.03354017939713677,"breeding, non-breeding, passage",12,NA,0,0.0010062053819141,0,NA,1290717.4609632993,4416898.104543441,151901.89726057716,NA
+Limosa limosa,TRUE,ranges/limosa_limosa.rds,0.03346193829865285,"breeding, non-breeding, passage",12,NA,0,7.622462641602206e-4,2.4161188479936485e-4,NA,3354009.4882495836,3307606.424085795,7414129.7992240675,NA
+Uria aalge,TRUE,ranges/uria_aalge.rds,0.03301956855220207,"breeding, non-breeding, resident",20,NA,0,0.0016509784276101,NA,0,161664.851384269,3896760.688652371,NA,588941.0492790996
+Pluvialis fulva,TRUE,ranges/pluvialis_fulva.rds,0.03284022078379298,"breeding, non-breeding, passage",12,NA,0,9.852066235137896e-4,0,NA,2168132.1408492653,4512008.038932252,274073.903251445,NA
+Pterodroma neglecta,TRUE,ranges/pterodroma_neglecta.rds,0.02967837497260698,"breeding, resident",16,NA,0,NA,NA,3.957116663014265e-4,16.578343561185378,NA,NA,6672984.085136488
+Xenus cinereus,TRUE,ranges/xenus_cinereus.rds,0.02585588817508869,"breeding, non-breeding, passage",12,NA,0,7.75676645252661e-4,0,NA,7350424.753664923,1319984.322294711,1361.7126610906234,NA
+Anous stolidus,TRUE,ranges/anous_stolidus.rds,0.02536955493353412,"non-breeding, resident",16,NA,NA,5.960191785124621e-4,NA,1.395876729429677e-4,NA,22353612.75286492,NA,2323762.8414322147
+Cuculus optatus,TRUE,ranges/cuculus_optatus.rds,0.02535543214744814,"breeding, non-breeding, passage",12,NA,3.2325480495345585e-5,5.303721974347966e-4,1.9796528649330223e-4,NA,11383264.61739415,3970298.0439313026,9600435.607811855,NA
+Calidris acuminata,TRUE,ranges/calidris_acuminata.rds,0.02511965251634415,"breeding, non-breeding, passage",12,NA,0,1.5236750389847268e-4,6.01222071591852e-4,NA,424501.44056821463,6326568.356700935,5830984.892607775,NA
+Bucephala clangula,TRUE,ranges/bucephala_clangula.rds,0.02285537966662551,"breeding, non-breeding",8,NA,0,4.571075933325102e-4,NA,NA,11099718.23342362,4564921.454896931,NA,NA
+Microcarbo melanoleucos,TRUE,ranges/microcarbo_melanoleucos.rds,0.02229290156737477,"non-breeding, resident",16,NA,NA,3.134774667377838e-5,NA,2.867894386737375e-4,NA,2739811.3352682036,NA,3106044.70183765
+Tringa stagnatilis,TRUE,ranges/tringa_stagnatilis.rds,0.02089838248035053,"breeding, non-breeding, passage",12,NA,0,6.269514744105161e-4,0,NA,3887882.580751195,4583860.836831436,2289.285119341837,NA
+Numenius minutus,TRUE,ranges/numenius_minutus.rds,0.02018962509287455,"breeding, non-breeding, passage",12,NA,0,6.056887527862366e-4,0,NA,967002.0887615882,373446.5641339467,131745.04898325886,NA
+Fratercula corniculata,TRUE,ranges/fratercula_corniculata.rds,0.01973950313484405,"breeding, non-breeding, resident",20,NA,0,9.869751567422023e-4,NA,0,386225.9854508957,3501696.6872736225,NA,1028922.1887248568
+Haliaeetus albicilla,TRUE,ranges/haliaeetus_albicilla.rds,0.01947488317161633,"breeding, non-breeding, passage, resident",24,NA,0,9.834663209079247e-4,1.7592605442129516e-4,3.033538322586757e-6,6862418.144592056,995246.2485980078,781427.6126602704,4924480.303982358
+Hydrobates tristrami,TRUE,ranges/hydrobates_tristrami.rds,0.01911089533161368,"breeding, resident",16,NA,0,NA,NA,2.5481193775484906e-4,409.9425271568029,NA,NA,1115909.4221055664
+Larus glaucescens,TRUE,ranges/larus_glaucescens.rds,0.01808984267599685,"breeding, non-breeding, resident",20,NA,0,9.044921337998427e-4,NA,0,278078.9328626432,3821025.642607015,NA,303098.8698102559
+Phalacrocorax carbo,TRUE,ranges/phalacrocorax_carbo.rds,0.0176508171707243,"breeding, non-breeding, passage, resident",24,NA,1.8248635092473496e-5,2.4552473876048335e-4,0,2.650918854635005e-4,3440993.4101764816,4508737.958163796,37089.80658352037,7662629.097173636
+Pseudobulweria rostrata,TRUE,ranges/pseudobulweria_rostrata.rds,0.01749942121393439,"breeding, resident",16,NA,0,NA,NA,2.3332561618579192e-4,8185.68277455239,NA,NA,7048786.443519059
+Actitis hypoleucos,TRUE,ranges/actitis_hypoleucos.rds,0.01740160131582797,"breeding, non-breeding, passage",12,NA,3.193341802946113e-5,4.901146214453782e-4,0,NA,12176667.536839392,10116417.671292562,514.3371785852095,NA
+Cygnus cygnus,TRUE,ranges/cygnus_cygnus.rds,0.01697764059362078,"breeding, non-breeding, resident",20,NA,0,8.488820296810393e-4,NA,0,12239907.33897348,1324233.0880872963,NA,483.3386923921536
+Tringa nebularia,TRUE,ranges/tringa_nebularia.rds,0.01637381601977283,"breeding, non-breeding, passage",12,NA,0,4.912144805931851e-4,0,NA,7502688.799956488,10122443.861945605,1018.4613964430516,NA
+Hydrobates leucorhous,TRUE,ranges/hydrobates_leucorhous.rds,0.01605339944033344,"breeding, resident",16,NA,0,NA,NA,2.140453258711125e-4,37478.43207666597,NA,NA,3076214.3783174874
+Haliaeetus pelagicus,TRUE,ranges/haliaeetus_pelagicus.rds,0.01603655339359055,"breeding, non-breeding, resident",20,NA,0,8.018276696795276e-4,NA,0,891235.8951461199,211755.5255692655,NA,402538.9597393419
+Aethia cristatella,TRUE,ranges/aethia_cristatella.rds,0.01427468574966982,"breeding, non-breeding, resident",20,NA,0,7.13734287483491e-4,NA,0,287749.583060062,2507460.5224699406,NA,191317.94639906197
+Phoebastria albatrus,TRUE,ranges/phoebastria_albatrus.rds,0.0142421647385817,"breeding, resident",16,NA,0,NA,NA,1.89895529847756e-4,8.558267768638963,NA,NA,9515200.341602145
+Larus ichthyaetus,TRUE,ranges/larus_ichthyaetus.rds,0.01405875452201011,"breeding, non-breeding",8,NA,0,2.811750904402023e-4,NA,NA,213200.53615577967,1233653.699772863,NA,NA
+Gelochelidon macrotarsa,TRUE,ranges/gelochelidon_macrotarsa.rds,0.0116419775155406,"non-breeding, resident",16,NA,NA,0,NA,1.5522636687387466e-4,NA,170754.69742438206,NA,5664109.002431104
+Aythya baeri,TRUE,ranges/aythya_baeri.rds,0.01110544775115649,"breeding, non-breeding, passage",12,NA,0,2.7392893925278535e-4,5.923449328190963e-5,NA,2258041.2499766313,3490018.280598636,3224268.4496273655,NA
+Aethia pusilla,TRUE,ranges/aethia_pusilla.rds,0.01073981008713985,"breeding, non-breeding, passage, resident",24,NA,0,6.443886052283915e-4,0,0,32870.930570913275,2523566.795580995,1128963.6493497174,32282.256025818016
+Phoebastria immutabilis,TRUE,ranges/phoebastria_immutabilis.rds,0.01029388290368734,"breeding, resident",16,NA,0,NA,NA,1.3725177204916455e-4,4.511984456459114,NA,NA,7999298.771912893
+Lathamus discolor,TRUE,ranges/lathamus_discolor.rds,0.00864703441191447,"non-breeding, resident",16,NA,NA,3.4588137647657884e-4,NA,0,NA,755163.4719291836,NA,12318.067947038606
+Anous minutus,TRUE,ranges/anous_minutus.rds,0.00852803017270681,"non-breeding, resident",16,NA,NA,3.4112120690827274e-4,NA,0,NA,8143538.569002809,NA,2721045.693490908
+Hirundapus caudacutus,TRUE,ranges/hirundapus_caudacutus.rds,0.00782761162421926,"breeding, non-breeding, passage, resident",24,NA,6.913379358249552e-5,1.8161417705401525e-4,2.189087268166451e-4,0,4856615.314614386,2436558.811200811,8392868.841019196,784676.8191624129
+Sula dactylatra,TRUE,ranges/sula_dactylatra.rds,0.00726671063597567,"breeding, resident",16,NA,0,NA,NA,9.688947514634232e-5,1118.9716766898305,NA,NA,21422928.67646955
+Mergus merganser,TRUE,ranges/mergus_merganser.rds,0.00712331202810833,"breeding, non-breeding, resident",20,NA,0,3.561656014054168e-4,NA,0,10904032.66384259,3753356.40939753,NA,357011.4595737423
+Fulmarus glacialis,TRUE,ranges/fulmarus_glacialis.rds,0.00418850189606112,"breeding, resident",16,NA,0,NA,NA,5.584669194748169e-5,126311.48655366075,NA,NA,6549524.914665701
+Phaethon lepturus,TRUE,ranges/phaethon_lepturus.rds,0.00317205412182515,"breeding, non-breeding, passage",12,NA,0,9.516162365475468e-5,0,NA,34339.62648153979,18609460.755621355,114.79180944216064,NA
+Puffinus bailloni,TRUE,ranges/puffinus_bailloni.rds,0.0012566388902142,"breeding, resident",16,NA,0,NA,NA,1.67551852028561e-5,13154.522649635508,NA,NA,7532446.276259194
+Anous tenuirostris,TRUE,ranges/anous_tenuirostris.rds,6.899719537951066e-4,"non-breeding, resident",16,NA,NA,2.7598878151804263e-5,NA,0,NA,722472.1634664398,NA,22173.51441095183
+Pterodroma cervicalis,TRUE,ranges/pterodroma_cervicalis.rds,4.5297874429984125e-4,"breeding, resident",16,NA,0,NA,NA,6.039716590664549e-6,0.27540342681672614,NA,NA,3358089.0067581804
+Uria lomvia,TRUE,ranges/uria_lomvia.rds,0,"breeding, resident",16,NA,0,NA,NA,0,642070.9813251902,NA,NA,520910.9651802734
+Melanitta nigra,TRUE,ranges/melanitta_nigra.rds,0,breeding,4,NA,0,NA,NA,NA,2569276.2925421707,NA,NA,NA
+Brachyramphus perdix,TRUE,ranges/brachyramphus_perdix.rds,0,"breeding, non-breeding, resident",20,NA,0,0,NA,0,848304.9253256245,156818.77636541292,NA,276047.17097938905
+Somateria mollissima,TRUE,ranges/somateria_mollissima.rds,0,"breeding, non-breeding",8,NA,0,0,NA,NA,771640.2359198942,1445090.061420566,NA,NA
+Somateria spectabilis,TRUE,ranges/somateria_spectabilis.rds,0,"breeding, non-breeding",8,NA,0,0,NA,NA,774063.0188506987,2065922.6184979717,NA,NA
+Polysticta stelleri,TRUE,ranges/polysticta_stelleri.rds,0,"breeding, non-breeding, resident",20,NA,0,0,NA,0,1043637.326693582,787473.4666362765,NA,1040205.4485331336
+Catharacta maccormicki,TRUE,ranges/catharacta_maccormicki.rds,0,non-breeding,4,NA,NA,0,NA,NA,NA,379199.3371541152,NA,NA
+Stercorarius longicaudus,TRUE,ranges/stercorarius_longicaudus.rds,0,breeding,4,NA,0,NA,NA,NA,2670567.624800754,NA,NA,NA
+Onychoprion lunatus,TRUE,ranges/onychoprion_lunatus.rds,0,"non-breeding, resident",16,NA,NA,0,NA,0,NA,2685564.315330687,NA,1032.2117672554969
+Cepphus columba,TRUE,ranges/cepphus_columba.rds,0,"breeding, non-breeding, resident",20,NA,0,0,NA,0,519359.2601403394,2760301.3228947166,NA,624580.8066130282
+Brachyramphus brevirostris,TRUE,ranges/brachyramphus_brevirostris.rds,0,"breeding, non-breeding",8,NA,0,0,NA,NA,651205.9600039889,1382994.5139746247,NA,NA
+Pseudobulweria becki,TRUE,ranges/pseudobulweria_becki.rds,0,"breeding, resident",16,NA,0,NA,NA,0,526.88149941692825,NA,NA,120483.00171313704
+Pterodroma heraldica,TRUE,ranges/pterodroma_heraldica.rds,0,"breeding, resident",16,NA,0,NA,NA,0,6.714396890690635,NA,NA,3791197.014389811
+Puffinus bannermani,TRUE,ranges/puffinus_bannermani.rds,0,"breeding, resident",16,NA,0,NA,NA,0,70.02922479841796,NA,NA,760377.481284674
+Puffinus heinrothi,TRUE,ranges/puffinus_heinrothi.rds,0,"breeding, resident",16,NA,0,NA,NA,0,1332.502907969254,NA,NA,421592.3031937174
+Hydrobates matsudairae,TRUE,ranges/hydrobates_matsudairae.rds,0,"breeding, non-breeding",8,NA,0,0,NA,NA,8.115969529256411,10603410.970753249,NA,NA
+Anous albivittus,TRUE,ranges/anous_albivittus.rds,0,"breeding, resident",16,NA,0,NA,NA,0,83.22214480034748,NA,NA,2220137.3954584813
+Leucogeranus leucogeranus,TRUE,ranges/leucogeranus_leucogeranus.rds,0,"breeding, non-breeding",8,NA,0,0,NA,NA,133695.88223265827,37156.8850373089,NA,NA
+Papasula abbotti,TRUE,ranges/papasula_abbotti.rds,0,"breeding, resident",16,NA,0,NA,NA,0,30.823467660403647,NA,NA,444535.1238122199
+Phalaropus lobatus,TRUE,ranges/phalaropus_lobatus.rds,0,"breeding, non-breeding",8,NA,0,0,NA,NA,3668155.214097213,3853209.6320560127,NA,NA
+Aethia psittacula,TRUE,ranges/aethia_psittacula.rds,0,"breeding, non-breeding, passage, resident",24,NA,0,0,0,0,169782.5170959165,1810834.910147197,2033678.349735235,228154.20698421105
+Aethia pygmaea,TRUE,ranges/aethia_pygmaea.rds,0,"non-breeding, resident",16,NA,NA,0,NA,0,NA,1446361.397230325,NA,128454.73403793432
+Hydrobates furcatus,TRUE,ranges/hydrobates_furcatus.rds,0,"breeding, resident",16,NA,0,NA,NA,0,23625.31794785781,NA,NA,3520832.668707298
+Onychoprion aleuticus,TRUE,ranges/onychoprion_aleuticus.rds,0,"breeding, non-breeding",8,NA,0,0,NA,NA,1155732.4952294338,222686.2355187541,NA,NA
+Somateria fischeri,TRUE,ranges/somateria_fischeri.rds,0,"breeding, non-breeding",8,NA,0,0,NA,NA,626401.5141815015,343337.5049032981,NA,NA
+Melanitta fusca,TRUE,ranges/melanitta_fusca.rds,0,breeding,4,NA,0,NA,NA,NA,2876727.565343198,NA,NA,NA
+Gygis candida,TRUE,ranges/gygis_candida.rds,0,"non-breeding, resident",16,NA,NA,0,NA,0,NA,6028249.462688077,NA,130247.41719353807
+Tringa incana,TRUE,ranges/tringa_incana.rds,0,"breeding, non-breeding, passage",12,NA,0,0,0,NA,801833.7200813699,300556.2084216808,215388.7034713514,NA
+Pterodroma sandwichensis,FALSE,NA,NA,NA,NA,no included range in EAAF (excluded legend category or outside flyway),NA,NA,NA,NA,NA,NA,NA,NA
+Pseudobulweria aterrima,FALSE,NA,NA,NA,NA,no included range in EAAF (excluded legend category or outside flyway),NA,NA,NA,NA,NA,NA,NA,NA

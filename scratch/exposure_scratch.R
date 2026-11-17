@@ -866,3 +866,29 @@ ggsave(here::here("figs/overlap_method_SWPA.png"), fig, width = 8, height = 5.5,
 
 
 
+
+library(terra); library(tidyverse); library(here)
+
+# attribute table only (fast, no geometry)
+ranges_attr <- as.data.frame(vect(here("data/raw/priority_sp_ranges_shp/pbsr.shp")))
+names(ranges_attr)                               # confirm the species column is sci_name
+shp_names <- ranges_attr %>% distinct(sci_name) %>% pull(sci_name) %>% str_squish()
+length(shp_names)
+
+# app species lists (both use `scientific_name`)
+sea <- read_csv("app/seabird_all_species_v2.csv")      # adjust paths to the app folder
+non <- read_csv("app/nonseabird_data_v2.csv")
+app <- bind_rows(sea %>% mutate(group = "seabird"),
+                 non %>% mutate(group = "nonseabird")) %>%
+  mutate(scientific_name = str_squish(scientific_name))
+
+# 1. app species with no match in the shapefile
+app %>% filter(!scientific_name %in% shp_names) %>%
+  select(group, common_name, scientific_name)
+
+# 2. shapefile species not in the app (probably fine, just worth a look)
+setdiff(shp_names, app$scientific_name)
+
+# 3. how many match
+app %>% count(group, in_shp = scientific_name %in% shp_names)
+

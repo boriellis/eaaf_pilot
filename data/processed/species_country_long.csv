@@ -1,0 +1,2372 @@
+sci_name,country,max_share_of_range,seasons
+Accipiter soloensis,China,1,breeding; non-breeding; passage; resident
+Accipiter soloensis,Indonesia,0.717951217348861,non-breeding
+Accipiter soloensis,Philippines,0.23451381129876775,non-breeding
+Accipiter soloensis,Thailand,0.20969071756805516,passage
+Accipiter soloensis,South Korea,0.11044175533390592,breeding; passage
+Accipiter soloensis,Malaysia,0.10087190348796864,non-breeding; passage
+Accipiter soloensis,Taiwan,0.06638931569762474,non-breeding; passage
+Accipiter soloensis,Japan,0.057393931974699525,passage
+Accipiter soloensis,North Korea,0.054139395539804486,breeding
+Accipiter soloensis,Russia,0.04114696412288519,breeding
+Accipiter soloensis,Vietnam,0.013031276698105424,breeding
+Accipiter soloensis,Myanmar,0.010622872913490828,passage
+Accipiter soloensis,Cambodia,0.0016840199388746242,passage
+Accipiter soloensis,United States,0.0013188076963171213,passage
+Accipiter soloensis,Singapore,0.001122371492691451,passage
+Accipiter soloensis,Brunei,9.558352581403149e-4,non-breeding
+Accipiter soloensis,Palau,9.262135863927415e-4,passage
+Accipiter soloensis,Micronesia,2.1497732915961714e-4,passage
+Accipiter soloensis,High seas (no EEZ),2.235317820767706e-11,breeding; passage
+Actitis hypoleucos,Russia,0.825899183011394,breeding
+Actitis hypoleucos,United States,0.468700050460373,passage
+Actitis hypoleucos,Australia,0.2667135768287564,non-breeding; passage
+Actitis hypoleucos,New Zealand,0.2645863727108704,passage
+Actitis hypoleucos,Indonesia,0.1859408469812414,non-breeding
+Actitis hypoleucos,China,0.18242222375477415,breeding; non-breeding
+Actitis hypoleucos,India,0.07103674547403306,non-breeding
+Actitis hypoleucos,Myanmar,0.06585864948388223,non-breeding
+Actitis hypoleucos,Thailand,0.05092254028922312,non-breeding
+Actitis hypoleucos,Mongolia,0.046463592832802394,breeding
+Actitis hypoleucos,Papua New Guinea,0.04559344384231415,non-breeding
+Actitis hypoleucos,Malaysia,0.032542980236543895,non-breeding
+Actitis hypoleucos,Vietnam,0.0324705646750587,non-breeding
+Actitis hypoleucos,Philippines,0.02920751646743027,non-breeding
+Actitis hypoleucos,Japan,0.023373461456109624,breeding
+Actitis hypoleucos,Laos,0.022708108832377984,non-breeding
+Actitis hypoleucos,Cambodia,0.017932077980864443,non-breeding
+Actitis hypoleucos,Kazakhstan,0.016641818324282943,breeding
+Actitis hypoleucos,Bangladesh,0.013547375469680241,non-breeding
+Actitis hypoleucos,Sri Lanka,0.006576775479851849,non-breeding
+Actitis hypoleucos,Taiwan,0.0035713426685554895,non-breeding
+Actitis hypoleucos,North Korea,0.0033433042208653096,breeding
+Actitis hypoleucos,Solomon Islands,0.002752728256394888,non-breeding
+Actitis hypoleucos,France,0.0018588426803199903,non-breeding
+Actitis hypoleucos,East Timor,0.0014530765020371993,non-breeding
+Actitis hypoleucos,Brunei,5.785907482478335e-4,non-breeding
+Actitis hypoleucos,Vanuatu,9.051369217713564e-5,non-breeding
+Actitis hypoleucos,Bhutan,1.651072054740304e-5,non-breeding
+Actitis hypoleucos,Nepal,2.358759775649417e-6,non-breeding
+Actitis hypoleucos,High seas (no EEZ),6.83585547107916e-8,non-breeding
+Actitis hypoleucos,Singapore,4.113660682815455e-10,non-breeding
+Aethia cristatella,Russia,0.5937790632333692,breeding; non-breeding; resident
+Aethia cristatella,United States,0.42790367168089605,breeding; non-breeding; resident
+Aethia cristatella,Japan,0.19135107292381018,non-breeding
+Aethia cristatella,High seas (no EEZ),0.052016951850188085,non-breeding; resident
+Aethia psittacula,United States,0.9131014236886958,breeding; non-breeding; passage; resident
+Aethia psittacula,Russia,0.580357346752307,breeding; non-breeding; passage; resident
+Aethia psittacula,Japan,0.2658844831482535,non-breeding
+Aethia psittacula,High seas (no EEZ),0.09057440692620639,non-breeding; passage; resident
+Aethia pusilla,United States,0.7300124231106297,breeding; non-breeding; passage; resident
+Aethia pusilla,Russia,0.6436539663859909,breeding; non-breeding; passage; resident
+Aethia pusilla,Japan,0.1752898263580198,non-breeding
+Aethia pusilla,High seas (no EEZ),0.07735293464763975,non-breeding; passage; resident
+Aethia pygmaea,Russia,0.7512537943752631,non-breeding; resident
+Aethia pygmaea,United States,0.35749389567205186,non-breeding; resident
+Aethia pygmaea,Japan,0.077315969274485,non-breeding; resident
+Aethia pygmaea,High seas (no EEZ),0.008345920093818713,non-breeding
+Anous albivittus,Australia,0.636747976279143,breeding; resident
+Anous albivittus,New Zealand,0.36325202372085696,breeding; resident
+Anous albivittus,High seas (no EEZ),0.31532232394161297,resident
+Anous albivittus,France,0.07283102714716193,resident
+Anous albivittus,Vanuatu,4.936002062227345e-4,resident
+Anous minutus,Papua New Guinea,0.3668226017176768,non-breeding; resident
+Anous minutus,Australia,0.2739309435585962,non-breeding; resident
+Anous minutus,Solomon Islands,0.1810497850980412,non-breeding; resident
+Anous minutus,France,0.14053727576463637,non-breeding; resident
+Anous minutus,Micronesia,0.11025360712827148,non-breeding; resident
+Anous minutus,Indonesia,0.10672854965031656,non-breeding; resident
+Anous minutus,High seas (no EEZ),0.06572808793770195,non-breeding
+Anous minutus,Vanuatu,0.04778052360891092,non-breeding; resident
+Anous minutus,United States,0.04007755640974968,non-breeding; resident
+Anous minutus,Palau,0.03244216483371915,non-breeding
+Anous minutus,Malaysia,0.018484097263245944,non-breeding
+Anous minutus,Philippines,0.01511595275313356,non-breeding; resident
+Anous minutus,Brunei,0.0034627049903955664,non-breeding
+Anous minutus,East Timor,0.0028230707897458278,non-breeding
+Anous minutus,China,8.686732060057778e-4,non-breeding
+Anous stolidus,Australia,0.374497364601107,non-breeding; resident
+Anous stolidus,Indonesia,0.26553273286758444,non-breeding; resident
+Anous stolidus,Solomon Islands,0.20344922573578117,non-breeding; resident
+Anous stolidus,High seas (no EEZ),0.1279800480435934,non-breeding; resident
+Anous stolidus,France,0.12785122783584102,non-breeding; resident
+Anous stolidus,Vanuatu,0.10930310282026158,non-breeding; resident
+Anous stolidus,Papua New Guinea,0.08662640920952419,non-breeding; resident
+Anous stolidus,Philippines,0.06590461239352187,non-breeding
+Anous stolidus,Micronesia,0.06275281881748233,non-breeding; resident
+Anous stolidus,United States,0.03871518181782513,non-breeding; resident
+Anous stolidus,Japan,0.03857124223444755,non-breeding
+Anous stolidus,Palau,0.028560915656532064,non-breeding; resident
+Anous stolidus,Malaysia,0.02325747891380774,non-breeding
+Anous stolidus,Vietnam,0.021974432951629888,non-breeding
+Anous stolidus,Sri Lanka,0.014872287984854772,non-breeding
+Anous stolidus,China,0.00733978229545363,non-breeding
+Anous stolidus,Thailand,0.004194956206389037,non-breeding
+Anous stolidus,East Timor,0.0034758174266358,non-breeding
+Anous stolidus,India,0.003077902198792325,non-breeding
+Anous stolidus,Brunei,0.002180125689553656,non-breeding
+Anous stolidus,New Zealand,0.001378561181690536,non-breeding
+Anous stolidus,Cambodia,9.963577230082074e-4,non-breeding
+Anous stolidus,Singapore,7.442907983327422e-5,non-breeding
+Anous tenuirostris,Australia,0.960427252901747,non-breeding; resident
+Anous tenuirostris,India,0.4464362811084504,non-breeding
+Anous tenuirostris,Myanmar,0.17301985752419302,non-breeding
+Anous tenuirostris,High seas (no EEZ),0.1035382978327184,non-breeding; resident
+Anous tenuirostris,Indonesia,0.039572749053553076,non-breeding; resident
+Anous tenuirostris,Sri Lanka,0.036636399406243254,non-breeding
+Ardenna bulleri,New Zealand,1,breeding; resident
+Ardenna bulleri,Australia,0.29890358173298426,resident
+Ardenna bulleri,High seas (no EEZ),0.23441341215307637,resident
+Ardenna bulleri,France,0.18923646566283508,resident
+Ardenna bulleri,Vanuatu,0.06191327371553252,resident
+Ardenna bulleri,Solomon Islands,0.04283260533305662,resident
+Ardenna bulleri,Russia,0.014197325611654965,resident
+Ardenna bulleri,United States,0.003059594703203234,resident
+Ardenna carneipes,New Zealand,0.9728793663145099,breeding; resident
+Ardenna carneipes,Australia,0.2326353517272406,breeding; resident
+Ardenna carneipes,Japan,0.19527231037281992,resident
+Ardenna carneipes,High seas (no EEZ),0.14656501054547644,breeding; resident
+Ardenna carneipes,Russia,0.08983999732177399,resident
+Ardenna carneipes,France,0.07772594758037406,resident
+Ardenna carneipes,United States,0.06807700490075441,resident
+Ardenna carneipes,Solomon Islands,0.057192857678269926,resident
+Ardenna carneipes,Indonesia,0.04482881253553292,resident
+Ardenna carneipes,Vanuatu,0.025429814033442986,resident
+Ardenna carneipes,South Korea,0.014438396351573471,resident
+Ardenna carneipes,Papua New Guinea,0.007963690025035762,resident
+Ardenna carneipes,Micronesia,0.006124227428362108,resident
+Ardenna carneipes,North Korea,0.005803159845601006,resident
+Ardenna carneipes,Sri Lanka,0.003833005985766769,resident
+Ardenna carneipes,India,0.0011552863443469292,resident
+Ardenna grisea,Australia,0.6824946278906939,breeding; non-breeding; resident
+Ardenna grisea,High seas (no EEZ),0.4873674219676918,breeding; non-breeding; resident
+Ardenna grisea,New Zealand,0.3443092133285648,breeding; resident
+Ardenna grisea,Russia,0.2357226474174018,non-breeding
+Ardenna grisea,Japan,0.19240580094026896,non-breeding
+Ardenna grisea,United States,0.12210391889472269,non-breeding
+Ardenna grisea,France,0.10448810437909613,non-breeding
+Ardenna grisea,Vanuatu,0.042106207645108265,non-breeding
+Ardenna grisea,Solomon Islands,0.012307472153323529,non-breeding
+Ardenna grisea,South Korea,0.008507012402498413,non-breeding
+Ardenna grisea,North Korea,0.002779329497836879,non-breeding
+Ardenna pacifica,Australia,0.42021900306272386,breeding; resident
+Ardenna pacifica,Papua New Guinea,0.27604818303930106,breeding; resident
+Ardenna pacifica,High seas (no EEZ),0.1780042173158085,resident
+Ardenna pacifica,Solomon Islands,0.14359268914510337,breeding; resident
+Ardenna pacifica,Japan,0.11730172893136695,breeding; resident
+Ardenna pacifica,France,0.09419742979119977,breeding; resident
+Ardenna pacifica,Indonesia,0.07465099811406566,resident
+Ardenna pacifica,Vanuatu,0.061208460152796795,breeding; resident
+Ardenna pacifica,Philippines,0.0493791619804926,resident
+Ardenna pacifica,Micronesia,0.04850339013994372,resident
+Ardenna pacifica,China,0.030201173091429112,resident
+Ardenna pacifica,India,0.030199171701766742,resident
+Ardenna pacifica,United States,0.027835007524026487,breeding; resident
+Ardenna pacifica,Palau,0.026626091635211745,resident
+Ardenna pacifica,Myanmar,0.01874437436409257,resident
+Ardenna pacifica,Taiwan,0.01775701870835912,resident
+Ardenna pacifica,New Zealand,0.01642580746136634,resident
+Ardenna pacifica,Sri Lanka,0.015728478148254236,resident
+Ardenna pacifica,Thailand,0.005120141090991803,resident
+Ardenna pacifica,South Korea,0.002816079122517137,resident
+Ardenna pacifica,Malaysia,0.002616433736761054,resident
+Ardenna pacifica,Bangladesh,4.0308980470456765e-5,resident
+Ardenna tenuirostris,Australia,1,breeding; resident
+Ardenna tenuirostris,United States,0.1703459420609183,resident
+Ardenna tenuirostris,High seas (no EEZ),0.154169703722717,resident
+Ardenna tenuirostris,Russia,0.13393197362242018,resident
+Ardenna tenuirostris,Japan,0.10911948011592167,resident
+Ardenna tenuirostris,France,0.07056095700258155,resident
+Ardenna tenuirostris,New Zealand,0.05918350251731438,resident
+Ardenna tenuirostris,Solomon Islands,0.050730137922332455,resident
+Ardenna tenuirostris,Vanuatu,0.023085635284611168,resident
+Ardenna tenuirostris,Micronesia,0.016328112159589785,resident
+Ardenna tenuirostris,Papua New Guinea,0.008655540902738214,resident
+Ardenna tenuirostris,Canada,7.055255522745201e-5,resident
+Arenaria interpres,Russia,0.6352726498578612,breeding; passage
+Arenaria interpres,United States,0.35701936471596996,breeding; non-breeding; passage
+Arenaria interpres,Indonesia,0.3353857958428888,non-breeding; passage
+Arenaria interpres,Australia,0.18308396624036255,non-breeding; passage
+Arenaria interpres,China,0.12382305509675928,non-breeding; passage
+Arenaria interpres,Philippines,0.10951024992818002,non-breeding; passage
+Arenaria interpres,Papua New Guinea,0.07656665616654702,non-breeding; passage
+Arenaria interpres,High seas (no EEZ),0.07306801919626699,breeding; non-breeding; passage
+Arenaria interpres,Japan,0.052683014496905635,non-breeding; passage
+Arenaria interpres,Myanmar,0.033502589510245796,non-breeding; passage
+Arenaria interpres,Malaysia,0.0324012689023638,non-breeding; passage
+Arenaria interpres,India,0.02795538606949594,non-breeding; passage
+Arenaria interpres,Solomon Islands,0.027212439295541513,non-breeding; passage
+Arenaria interpres,New Zealand,0.026563831947764818,non-breeding; passage
+Arenaria interpres,Vietnam,0.0222507678721852,non-breeding; passage
+Arenaria interpres,Thailand,0.021547886062680814,non-breeding; passage
+Arenaria interpres,Mongolia,0.019980640671925877,passage
+Arenaria interpres,France,0.015018779840082406,non-breeding; passage
+Arenaria interpres,Micronesia,0.014235644800004022,non-breeding; passage
+Arenaria interpres,Vanuatu,0.013161341144606424,non-breeding; passage
+Arenaria interpres,Bangladesh,0.011477343929077165,non-breeding; passage
+Arenaria interpres,Sri Lanka,0.008516477814962264,non-breeding; passage
+Arenaria interpres,Palau,0.007809088348224514,non-breeding; passage
+Arenaria interpres,Canada,0.0076533676699387446,breeding; passage
+Arenaria interpres,Taiwan,0.0071682049734381244,non-breeding; passage
+Arenaria interpres,South Korea,0.0067965919770916865,passage
+Arenaria interpres,East Timor,0.003833640686759413,non-breeding; passage
+Arenaria interpres,Cambodia,0.003786898257028263,non-breeding; passage
+Arenaria interpres,North Korea,0.003023341211736322,passage
+Arenaria interpres,Laos,0.002933024143132314,passage
+Arenaria interpres,Kazakhstan,0.0025872425464973587,passage
+Arenaria interpres,Brunei,9.228415543243611e-4,non-breeding; passage
+Arenaria interpres,Singapore,5.139104323716651e-4,non-breeding; passage
+Arenaria interpres,Bhutan,5.111510651962044e-4,passage
+Arenaria interpres,Nepal,1.5034694358933326e-4,passage
+Aythya baeri,China,0.8683905207869604,breeding; non-breeding; passage
+Aythya baeri,Russia,0.45933098775431047,breeding; passage
+Aythya baeri,Thailand,0.09906439515123845,non-breeding
+Aythya baeri,Myanmar,0.08251454407050442,non-breeding; passage
+Aythya baeri,India,0.06738872026814632,non-breeding; passage
+Aythya baeri,Mongolia,0.06640949642011792,breeding; passage
+Aythya baeri,Japan,0.047829660415012375,non-breeding
+Aythya baeri,Laos,0.04064167776464235,non-breeding
+Aythya baeri,Vietnam,0.035666856158686776,non-breeding
+Aythya baeri,North Korea,0.02441303040465051,breeding; passage
+Aythya baeri,Bangladesh,0.013837822736608146,non-breeding; passage
+Aythya baeri,Bhutan,0.01241681347485298,passage
+Aythya baeri,Taiwan,0.01028720897406668,non-breeding
+Aythya baeri,Nepal,0.002185162979641748,non-breeding; passage
+Aythya baeri,High seas (no EEZ),2.35410887824597e-13,passage
+Aythya marila,Russia,0.8227895766805728,breeding; non-breeding
+Aythya marila,Japan,0.4334374544401426,non-breeding
+Aythya marila,China,0.24492336083378896,non-breeding
+Aythya marila,United States,0.18332733081634953,breeding; non-breeding
+Aythya marila,Taiwan,0.05729567189979901,non-breeding
+Aythya marila,South Korea,0.05725664142142772,non-breeding
+Aythya marila,North Korea,0.013275136492822937,non-breeding
+Aythya marila,Canada,0.0023287399183923346,breeding
+Brachyramphus brevirostris,United States,0.7174726238009226,breeding; non-breeding
+Brachyramphus brevirostris,Russia,0.37622860093723093,breeding; non-breeding
+Brachyramphus brevirostris,High seas (no EEZ),0.0062149922762711335,breeding; non-breeding
+Brachyramphus perdix,Russia,0.9921993362172677,breeding; non-breeding; resident
+Brachyramphus perdix,Japan,0.4539858523493809,breeding; non-breeding; resident
+Brachyramphus perdix,High seas (no EEZ),1.2829583900175688e-6,non-breeding
+Branta bernicla,United States,1,breeding; non-breeding; passage
+Branta bernicla,Russia,0.8225261108056501,breeding
+Branta bernicla,Japan,0.5611197904503411,non-breeding
+Branta bernicla,China,0.2977790757793749,non-breeding
+Branta bernicla,South Korea,0.12811167982786661,non-breeding
+Branta bernicla,Canada,0.005263174290825117,breeding
+Branta bernicla,High seas (no EEZ),1.2334594876853506e-4,breeding
+Bucephala clangula,Russia,0.8329544426574896,breeding; non-breeding
+Bucephala clangula,China,0.8021546055369356,breeding; non-breeding
+Bucephala clangula,Japan,0.07925145898139085,non-breeding
+Bucephala clangula,United States,0.05863595839762949,breeding; non-breeding
+Bucephala clangula,Mongolia,0.04583670192717797,breeding
+Bucephala clangula,North Korea,0.0237539120217415,breeding; non-breeding
+Bucephala clangula,South Korea,0.02017704556809999,non-breeding
+Bucephala clangula,Kazakhstan,0.017171515832749923,breeding
+Bucephala clangula,Canada,0.0013649757635237707,breeding
+Bucephala clangula,High seas (no EEZ),1.662740324912672e-13,non-breeding
+Bulweria bulwerii,Indonesia,0.26884576297126617,resident
+Bulweria bulwerii,Japan,0.15402549085873363,resident
+Bulweria bulwerii,High seas (no EEZ),0.13559626847658868,resident
+Bulweria bulwerii,Philippines,0.10786856831499131,resident
+Bulweria bulwerii,China,0.07426371566025176,resident
+Bulweria bulwerii,Micronesia,0.06166957286861923,resident
+Bulweria bulwerii,Vietnam,0.04121465797914473,resident
+Bulweria bulwerii,United States,0.03539078697772765,resident
+Bulweria bulwerii,Palau,0.03385370988639371,resident
+Bulweria bulwerii,Australia,0.033363334094335506,resident
+Bulweria bulwerii,Malaysia,0.025166699573959214,resident
+Bulweria bulwerii,Taiwan,0.023571414533405853,resident
+Bulweria bulwerii,Papua New Guinea,0.013608190308483958,resident
+Bulweria bulwerii,Thailand,0.009814607671782376,resident
+Bulweria bulwerii,East Timor,0.0042575189507462865,resident
+Bulweria bulwerii,Cambodia,0.002672960076691643,resident
+Bulweria bulwerii,Brunei,0.002361139201795103,resident
+Bulweria bulwerii,South Korea,0.0022333680274911937,resident
+Bulweria bulwerii,Singapore,5.8709618461431674e-5,resident
+Bulweria bulwerii,Myanmar,6.419675225802478e-6,resident
+Butastur indicus,China,0.4856902628130482,breeding; non-breeding
+Butastur indicus,Russia,0.27408432652040987,breeding
+Butastur indicus,Indonesia,0.2694666108492059,non-breeding
+Butastur indicus,Japan,0.15669330052569164,breeding; non-breeding
+Butastur indicus,Thailand,0.10172283650074192,non-breeding
+Butastur indicus,North Korea,0.0668143070961521,breeding
+Butastur indicus,Malaysia,0.06529231996431625,non-breeding
+Butastur indicus,Vietnam,0.06486462699386178,non-breeding
+Butastur indicus,Philippines,0.05845374002017993,non-breeding
+Butastur indicus,Laos,0.045361671593330516,non-breeding
+Butastur indicus,Cambodia,0.035821086311886914,non-breeding
+Butastur indicus,Myanmar,0.03517370255824499,non-breeding
+Butastur indicus,South Korea,0.016717799826126097,breeding
+Butastur indicus,Taiwan,0.007135404082113708,non-breeding
+Butastur indicus,Brunei,0.001155784093929985,non-breeding
+Butastur indicus,Singapore,1.172556997617708e-4,non-breeding
+Butastur indicus,Australia,2.7090007990982418e-5,non-breeding
+Butastur indicus,High seas (no EEZ),1.2759338811874203e-7,breeding; non-breeding
+Calidris acuminata,Russia,1,breeding; passage
+Calidris acuminata,Australia,0.8341273927202392,non-breeding
+Calidris acuminata,China,0.15395568749196642,passage
+Calidris acuminata,Papua New Guinea,0.07306216152356917,non-breeding; passage
+Calidris acuminata,Japan,0.0649579459455584,passage
+Calidris acuminata,Indonesia,0.0638766703736065,non-breeding; passage
+Calidris acuminata,United States,0.052150595037714215,non-breeding; passage
+Calidris acuminata,Philippines,0.050541730219914094,passage
+Calidris acuminata,North Korea,0.021005636696610736,passage
+Calidris acuminata,South Korea,0.017010387588974895,passage
+Calidris acuminata,New Zealand,0.016870845605399695,non-breeding
+Calidris acuminata,Taiwan,0.006196838424058359,passage
+Calidris acuminata,Solomon Islands,0.0045317643521662395,non-breeding
+Calidris acuminata,France,0.002989913558472936,non-breeding
+Calidris acuminata,High seas (no EEZ),0.00243238522790593,non-breeding; passage
+Calidris acuminata,Vanuatu,0.0019317487710904682,non-breeding
+Calidris acuminata,Malaysia,5.967961202259584e-4,passage
+Calidris acuminata,Brunei,2.445292217612576e-4,passage
+Calidris acuminata,Palau,7.217855771375289e-5,non-breeding; passage
+Calidris acuminata,Micronesia,1.6752308770537562e-5,non-breeding; passage
+Calidris alba,Russia,0.8372987153378926,breeding; passage
+Calidris alba,Indonesia,0.3359474777888474,non-breeding; passage
+Calidris alba,Australia,0.1834059502118083,non-breeding; passage
+Calidris alba,United States,0.16270128466210748,breeding; non-breeding; passage
+Calidris alba,China,0.12177500356408416,non-breeding; passage
+Calidris alba,Philippines,0.10969394978389096,non-breeding; passage
+Calidris alba,Papua New Guinea,0.07669509414037608,non-breeding; passage
+Calidris alba,High seas (no EEZ),0.07376827336513121,non-breeding; passage
+Calidris alba,Japan,0.050334584929505995,non-breeding; passage
+Calidris alba,Malaysia,0.03245562093411843,non-breeding; passage
+Calidris alba,Solomon Islands,0.02725808724127997,non-breeding; passage
+Calidris alba,New Zealand,0.02660839187663366,non-breeding; passage
+Calidris alba,India,0.025233093390517367,non-breeding; passage
+Calidris alba,Vietnam,0.022288092782070616,non-breeding; passage
+Calidris alba,Mongolia,0.019657619009021837,passage
+Calidris alba,Thailand,0.01949630999796954,non-breeding; passage
+Calidris alba,France,0.014775975251461302,non-breeding; passage
+Calidris alba,Myanmar,0.01425684033875356,non-breeding; passage
+Calidris alba,Micronesia,0.014097223955304454,non-breeding; passage
+Calidris alba,Vanuatu,0.013183418848846365,non-breeding; passage
+Calidris alba,Sri Lanka,0.008530763918201964,non-breeding; passage
+Calidris alba,Palau,0.007699169614600737,non-breeding; passage
+Calidris alba,Taiwan,0.007526939588094334,non-breeding; passage
+Calidris alba,South Korea,0.006686713296093978,passage
+Calidris alba,East Timor,0.003840071489237256,non-breeding; passage
+Calidris alba,Cambodia,0.003793250650662531,non-breeding; passage
+Calidris alba,Bangladesh,0.0031432665431127835,passage
+Calidris alba,North Korea,0.002974463664625755,passage
+Calidris alba,Laos,0.0028856067278647695,passage
+Calidris alba,Kazakhstan,0.0025454152896326717,passage
+Calidris alba,Brunei,9.243895897922397e-4,non-breeding; passage
+Calidris alba,Singapore,5.147724997253687e-4,non-breeding; passage
+Calidris alba,Bhutan,5.028874229143608e-4,passage
+Calidris alba,Canada,2.237097482192866e-4,passage
+Calidris alba,Nepal,1.4791632484551073e-4,passage
+Calidris alpina,Russia,0.8619572128579815,breeding; non-breeding; passage
+Calidris alpina,China,0.42237724922185366,non-breeding; passage
+Calidris alpina,India,0.2387939008118535,non-breeding; passage
+Calidris alpina,United States,0.13786280441419435,breeding; non-breeding; passage
+Calidris alpina,Japan,0.08935943298276214,non-breeding; passage
+Calidris alpina,Vietnam,0.07752040318403289,non-breeding; passage
+Calidris alpina,Bangladesh,0.05480533782017562,non-breeding; passage
+Calidris alpina,Mongolia,0.03991149853592761,passage
+Calidris alpina,High seas (no EEZ),0.038922679877641315,breeding; passage
+Calidris alpina,Thailand,0.02899205990977378,non-breeding; passage
+Calidris alpina,Myanmar,0.02844003380732255,non-breeding; passage
+Calidris alpina,Philippines,0.02679509895079932,passage
+Calidris alpina,South Korea,0.021365344613167542,non-breeding; passage
+Calidris alpina,Laos,0.021202041898648064,non-breeding; passage
+Calidris alpina,Taiwan,0.015204684978361598,non-breeding; passage
+Calidris alpina,Cambodia,0.0073313977785265955,non-breeding; passage
+Calidris alpina,Sri Lanka,0.007041800410813994,non-breeding; passage
+Calidris alpina,North Korea,0.00603914961122181,passage
+Calidris alpina,Kazakhstan,0.005168038843304314,passage
+Calidris alpina,Nepal,0.0026981047934264376,non-breeding; passage
+Calidris alpina,Bhutan,0.0010159095164964298,non-breeding; passage
+Calidris alpina,Canada,4.542051244572919e-4,passage
+Calidris alpina,Indonesia,3.110908789467353e-4,passage
+Calidris canutus,Russia,0.8888118962093793,breeding; passage
+Calidris canutus,Australia,0.3430973611769282,non-breeding; passage
+Calidris canutus,Philippines,0.2079405639884373,non-breeding; passage
+Calidris canutus,China,0.12141806577241218,non-breeding; passage
+Calidris canutus,United States,0.11020533966228525,breeding; passage
+Calidris canutus,Indonesia,0.0971585011931971,non-breeding; passage
+Calidris canutus,High seas (no EEZ),0.07072687593225038,breeding; non-breeding; passage
+Calidris canutus,Malaysia,0.06181300748398919,non-breeding; passage
+Calidris canutus,Japan,0.051594464362932226,non-breeding; passage
+Calidris canutus,New Zealand,0.0508536237494684,non-breeding; passage
+Calidris canutus,Thailand,0.04113246293547643,non-breeding; passage
+Calidris canutus,India,0.03346174320287311,non-breeding; passage
+Calidris canutus,Papua New Guinea,0.031048342305220904,non-breeding; passage
+Calidris canutus,Vietnam,0.025401677911498905,non-breeding; passage
+Calidris canutus,Myanmar,0.024943768316513886,non-breeding; passage
+Calidris canutus,Bangladesh,0.021972151117363444,non-breeding; passage
+Calidris canutus,Mongolia,0.019549791081783917,passage
+Calidris canutus,Sri Lanka,0.015232754380495076,non-breeding; passage
+Calidris canutus,France,0.015101378786541837,passage
+Calidris canutus,Micronesia,0.014031430338191899,passage
+Calidris canutus,Taiwan,0.01373112348218984,non-breeding; passage
+Calidris canutus,Solomon Islands,0.011706397337099111,passage
+Calidris canutus,Palau,0.0077076266572532245,passage
+Calidris canutus,Cambodia,0.007249612914248134,non-breeding; passage
+Calidris canutus,South Korea,0.0066500346711587215,passage
+Calidris canutus,Vanuatu,0.005016100129883526,passage
+Calidris canutus,North Korea,0.002958147840646569,passage
+Calidris canutus,Laos,0.0028697783107941846,passage
+Calidris canutus,Kazakhstan,0.002531452924479759,passage
+Calidris canutus,Brunei,0.0017666817527030216,non-breeding; passage
+Calidris canutus,East Timor,0.0011522606724276038,passage
+Calidris canutus,Singapore,9.838267242521957e-4,non-breeding; passage
+Calidris canutus,Bhutan,5.001289347972604e-4,passage
+Calidris canutus,Canada,2.2248263325473609e-4,passage
+Calidris canutus,Nepal,1.4710495950643164e-4,passage
+Calidris falcinellus,Russia,1,breeding; passage
+Calidris falcinellus,Indonesia,0.3542607832402312,non-breeding; passage
+Calidris falcinellus,Australia,0.2347896545694269,non-breeding; passage
+Calidris falcinellus,China,0.16308490888824584,non-breeding; passage
+Calidris falcinellus,Philippines,0.14247574517852005,non-breeding; passage
+Calidris falcinellus,Japan,0.04921857220208544,passage
+Calidris falcinellus,Myanmar,0.04358775917190234,non-breeding; passage
+Calidris falcinellus,High seas (no EEZ),0.042572991791769585,non-breeding; passage
+Calidris falcinellus,Malaysia,0.042154911797142466,non-breeding; passage
+Calidris falcinellus,India,0.03349991261245185,non-breeding; passage
+Calidris falcinellus,Vietnam,0.028948840241322434,non-breeding; passage
+Calidris falcinellus,Thailand,0.028034372330428003,non-breeding; passage
+Calidris falcinellus,Mongolia,0.026303737889904758,passage
+Calidris falcinellus,Papua New Guinea,0.016481960425042623,non-breeding; passage
+Calidris falcinellus,Bangladesh,0.014932331505828999,non-breeding; passage
+Calidris falcinellus,Sri Lanka,0.011080163934131096,non-breeding; passage
+Calidris falcinellus,Taiwan,0.009079354310817786,non-breeding; passage
+Calidris falcinellus,South Korea,0.00894744952604253,passage
+Calidris falcinellus,Palau,0.008376315797791418,passage
+Calidris falcinellus,East Timor,0.004987668399631407,non-breeding; passage
+Calidris falcinellus,Cambodia,0.004926855256527712,non-breeding; passage
+Calidris falcinellus,North Korea,0.003980111353336002,passage
+Calidris falcinellus,Laos,0.0038612124382034975,passage
+Calidris falcinellus,Kazakhstan,0.0034060043878521287,passage
+Calidris falcinellus,Brunei,0.0012006413835985055,non-breeding; passage
+Calidris falcinellus,Bhutan,6.729105368456954e-4,passage
+Calidris falcinellus,Singapore,6.686111279635232e-4,non-breeding; passage
+Calidris falcinellus,Nepal,1.979259154727063e-4,passage
+Calidris ferruginea,Russia,1,breeding; passage
+Calidris ferruginea,Australia,0.23894266824825042,non-breeding; passage
+Calidris ferruginea,Indonesia,0.23152829661634403,non-breeding; passage
+Calidris ferruginea,India,0.20758013909339473,non-breeding; passage
+Calidris ferruginea,China,0.14397796904155558,non-breeding; passage
+Calidris ferruginea,Philippines,0.10501751416483666,non-breeding; passage
+Calidris ferruginea,High seas (no EEZ),0.06931636422231793,non-breeding; passage
+Calidris ferruginea,Japan,0.04965134814795573,passage
+Calidris ferruginea,Papua New Guinea,0.03463475843431949,non-breeding; passage
+Calidris ferruginea,Myanmar,0.03212812198637468,non-breeding; passage
+Calidris ferruginea,Malaysia,0.031071983838446737,non-breeding; passage
+Calidris ferruginea,Bangladesh,0.026473692748892476,non-breeding; passage
+Calidris ferruginea,New Zealand,0.025474031879904182,non-breeding; passage
+Calidris ferruginea,Mongolia,0.02323333754605299,passage
+Calidris ferruginea,Vietnam,0.02133791432060643,non-breeding; passage
+Calidris ferruginea,Thailand,0.020663868736432868,non-breeding; passage
+Calidris ferruginea,France,0.01765484015862,passage
+Calidris ferruginea,Solomon Islands,0.009733051513734254,passage
+Calidris ferruginea,Sri Lanka,0.008167083265300523,non-breeding; passage
+Calidris ferruginea,South Korea,0.007903025641637074,passage
+Calidris ferruginea,Palau,0.0077714592499359605,passage
+Calidris ferruginea,Taiwan,0.00669230555544385,non-breeding; passage
+Calidris ferruginea,East Timor,0.003676362855428484,non-breeding; passage
+Calidris ferruginea,Cambodia,0.0036315380670674927,non-breeding; passage
+Calidris ferruginea,North Korea,0.0035155182480138356,passage
+Calidris ferruginea,Laos,0.0034104982451269765,passage
+Calidris ferruginea,Kazakhstan,0.003008426025134507,passage
+Calidris ferruginea,Brunei,8.849813242752878e-4,non-breeding; passage
+Calidris ferruginea,Bhutan,5.943625847500557e-4,passage
+Calidris ferruginea,Vanuatu,5.269033559312264e-4,passage
+Calidris ferruginea,Singapore,4.928268919707835e-4,non-breeding; passage
+Calidris ferruginea,Nepal,1.7482228657143863e-4,passage
+Calidris ferruginea,Micronesia,7.602331209389264e-5,passage
+Calidris pygmaea,Russia,0.9960904977974656,breeding
+Calidris pygmaea,North Korea,0.536168040327117,passage
+Calidris pygmaea,China,0.44074661222870015,non-breeding; passage
+Calidris pygmaea,Vietnam,0.24982189751147807,non-breeding
+Calidris pygmaea,Myanmar,0.20316937914525762,non-breeding
+Calidris pygmaea,Thailand,0.16740445926838246,non-breeding
+Calidris pygmaea,Malaysia,0.06588208775024876,non-breeding
+Calidris pygmaea,Bangladesh,0.04262292078921822,non-breeding
+Calidris pygmaea,India,0.024924668158797948,non-breeding
+Calidris pygmaea,South Korea,0.02308534563751495,passage
+Calidris pygmaea,Sri Lanka,0.01262603121339032,non-breeding
+Calidris pygmaea,High seas (no EEZ),0.003909502202534402,breeding; non-breeding
+Calidris pygmaea,Singapore,7.043706826018079e-4,non-breeding
+Calidris ruficollis,Russia,1,breeding; passage
+Calidris ruficollis,Indonesia,0.29914066430149877,non-breeding; passage
+Calidris ruficollis,Australia,0.2839539970673657,non-breeding; passage
+Calidris ruficollis,China,0.12959625114601608,non-breeding; passage
+Calidris ruficollis,Philippines,0.09767548094578472,non-breeding; passage
+Calidris ruficollis,High seas (no EEZ),0.07549034984537666,non-breeding; passage
+Calidris ruficollis,Papua New Guinea,0.06829210024068753,non-breeding; passage
+Calidris ruficollis,Japan,0.055444978996255355,passage
+Calidris ruficollis,United States,0.04982327080929946,non-breeding; passage
+Calidris ruficollis,Myanmar,0.029881965802183656,non-breeding; passage
+Calidris ruficollis,Malaysia,0.028899664874910396,non-breeding; passage
+Calidris ruficollis,India,0.026137115796924574,non-breeding; passage
+Calidris ruficollis,Solomon Islands,0.02427159190708791,non-breeding; passage
+Calidris ruficollis,New Zealand,0.0235370511582929,non-breeding; passage
+Calidris ruficollis,Mongolia,0.020996307305986818,passage
+Calidris ruficollis,Vietnam,0.019846128145575896,non-breeding; passage
+Calidris ruficollis,Thailand,0.01921920674930103,non-breeding; passage
+Calidris ruficollis,France,0.01581942321187327,non-breeding; passage
+Calidris ruficollis,Micronesia,0.015069635378238562,passage
+Calidris ruficollis,Vanuatu,0.011738995455074496,non-breeding; passage
+Calidris ruficollis,Bangladesh,0.010236987761310152,non-breeding; passage
+Calidris ruficollis,Palau,0.008223484805300288,non-breeding; passage
+Calidris ruficollis,South Korea,0.007142079982696912,passage
+Calidris ruficollis,Taiwan,0.006224429981632498,non-breeding; passage
+Calidris ruficollis,Sri Lanka,0.005095112045080524,passage
+Calidris ruficollis,East Timor,0.003419339268224947,non-breeding; passage
+Calidris ruficollis,Cambodia,0.003377648291283894,non-breeding; passage
+Calidris ruficollis,North Korea,0.0031770253123896363,passage
+Calidris ruficollis,Laos,0.0030821171981543346,passage
+Calidris ruficollis,Kazakhstan,9.799315125040135e-4,passage
+Calidris ruficollis,Brunei,8.23110098958803e-4,non-breeding; passage
+Calidris ruficollis,Bhutan,5.37134170063004e-4,passage
+Calidris ruficollis,Singapore,4.5837214943695995e-4,non-breeding; passage
+Calidris ruficollis,Nepal,1.579894599952904e-4,passage
+Calidris tenuirostris,Russia,1,breeding; passage
+Calidris tenuirostris,Indonesia,0.38692370793053765,non-breeding; passage
+Calidris tenuirostris,Australia,0.21098936248413402,non-breeding; passage
+Calidris tenuirostris,China,0.14823062318010646,non-breeding; passage
+Calidris tenuirostris,Philippines,0.12642710812122918,non-breeding; passage
+Calidris tenuirostris,Japan,0.06318257923980604,passage
+Calidris tenuirostris,High seas (no EEZ),0.056076122652052515,non-breeding; passage
+Calidris tenuirostris,Papua New Guinea,0.040306992924961094,non-breeding; passage
+Calidris tenuirostris,Myanmar,0.03867798228139244,non-breeding; passage
+Calidris tenuirostris,Malaysia,0.03740653253435825,non-breeding; passage
+Calidris tenuirostris,India,0.032273861300625054,non-breeding; passage
+Calidris tenuirostris,Vietnam,0.025688008541684845,non-breeding; passage
+Calidris tenuirostris,Thailand,0.024876547380880853,non-breeding; passage
+Calidris tenuirostris,Mongolia,0.023926437959214064,passage
+Calidris tenuirostris,Micronesia,0.01717267187466782,passage
+Calidris tenuirostris,United States,0.015546167355261861,passage
+Calidris tenuirostris,Bangladesh,0.01325033412687498,non-breeding; passage
+Calidris tenuirostris,Sri Lanka,0.009832081126930344,non-breeding; passage
+Calidris tenuirostris,Palau,0.009433146894310742,passage
+Calidris tenuirostris,Taiwan,0.008275530608379973,non-breeding; passage
+Calidris tenuirostris,South Korea,0.008138789888878072,passage
+Calidris tenuirostris,East Timor,0.004425851515458509,non-breeding; passage
+Calidris tenuirostris,Cambodia,0.004371888436921617,non-breeding; passage
+Calidris tenuirostris,North Korea,0.0036203937160925763,passage
+Calidris tenuirostris,Laos,0.0035122407407153556,passage
+Calidris tenuirostris,Kazakhstan,0.0030981738419022056,passage
+Calidris tenuirostris,Brunei,0.0010653997141258117,non-breeding; passage
+Calidris tenuirostris,Bhutan,6.120936985963199e-4,passage
+Calidris tenuirostris,Singapore,5.932979775015653e-4,non-breeding; passage
+Calidris tenuirostris,France,2.8505325615037084e-4,passage
+Calidris tenuirostris,Nepal,1.8003761126649144e-4,passage
+Calonectris leucomelas,Japan,0.6889968594159193,breeding; resident
+Calonectris leucomelas,Russia,0.24803936992554845,breeding; resident
+Calonectris leucomelas,Indonesia,0.16028809277837086,resident
+Calonectris leucomelas,Australia,0.14473943800717493,resident
+Calonectris leucomelas,High seas (no EEZ),0.08222987578636935,resident
+Calonectris leucomelas,Papua New Guinea,0.07761941466920734,resident
+Calonectris leucomelas,Philippines,0.07481316027459663,resident
+Calonectris leucomelas,China,0.06608967922512402,breeding; resident
+Calonectris leucomelas,Taiwan,0.05305333935907632,breeding; resident
+Calonectris leucomelas,France,0.04454442988364474,resident
+Calonectris leucomelas,Micronesia,0.042769636720143556,resident
+Calonectris leucomelas,Solomon Islands,0.034594897597484346,resident
+Calonectris leucomelas,Vietnam,0.024693861222321725,resident
+Calonectris leucomelas,United States,0.024544580487708908,resident
+Calonectris leucomelas,Palau,0.02347856152471068,resident
+Calonectris leucomelas,South Korea,0.01649487309696552,resident
+Calonectris leucomelas,Vanuatu,0.014712929127148458,resident
+Calonectris leucomelas,Malaysia,0.012489186379597263,resident
+Calonectris leucomelas,North Korea,0.004353281402719002,resident
+Calonectris leucomelas,East Timor,0.001979386872868083,resident
+Calonectris leucomelas,Brunei,0.0016375314690907476,resident
+Calonectris leucomelas,Singapore,2.3056804332451435e-6,resident
+Catharacta maccormicki,United States,0.9665738471640727,non-breeding
+Catharacta maccormicki,High seas (no EEZ),0.03342615283592733,non-breeding
+Cepphus carbo,Russia,1,breeding; passage; resident
+Cepphus carbo,Japan,0.7323611926517408,breeding; non-breeding; resident
+Cepphus carbo,South Korea,0.2763940088897913,breeding; non-breeding; resident
+Cepphus carbo,North Korea,0.08427782718381399,breeding; non-breeding; resident
+Cepphus carbo,China,0.008295061633398012,breeding
+Cepphus carbo,High seas (no EEZ),7.758868127783366e-7,resident
+Cepphus columba,United States,0.6505965332292635,breeding; non-breeding; resident
+Cepphus columba,Russia,0.5648996315781023,breeding; non-breeding; resident
+Cepphus columba,High seas (no EEZ),0.09503262438245513,breeding; non-breeding; resident
+Cepphus columba,Japan,0.031077048111491225,breeding; non-breeding; resident
+Cerorhinca monocerata,United States,1,breeding; passage; resident
+Cerorhinca monocerata,Japan,0.3959616360187661,non-breeding; passage; resident
+Cerorhinca monocerata,Russia,0.38763967969358126,non-breeding; passage; resident
+Cerorhinca monocerata,South Korea,0.15774325852289048,non-breeding
+Cerorhinca monocerata,China,0.11441599401883136,non-breeding
+Cerorhinca monocerata,North Korea,0.03654189093164852,non-breeding
+Cerorhinca monocerata,High seas (no EEZ),0.034976723756311695,non-breeding; passage
+Charadrius alexandrinus,China,0.6470646916533506,breeding; non-breeding; resident
+Charadrius alexandrinus,Indonesia,0.290667557610814,non-breeding
+Charadrius alexandrinus,Japan,0.24675409668269085,breeding; resident
+Charadrius alexandrinus,Russia,0.21912420027227955,breeding
+Charadrius alexandrinus,India,0.14025817445874655,non-breeding; resident
+Charadrius alexandrinus,Mongolia,0.13531197197744857,breeding
+Charadrius alexandrinus,Philippines,0.11232268952506376,non-breeding
+Charadrius alexandrinus,Malaysia,0.09784483725297684,non-breeding
+Charadrius alexandrinus,Vietnam,0.08505929980120693,non-breeding
+Charadrius alexandrinus,Myanmar,0.07959845258276904,non-breeding
+Charadrius alexandrinus,Thailand,0.07687372610010211,non-breeding
+Charadrius alexandrinus,Sri Lanka,0.05621571152279751,resident
+Charadrius alexandrinus,Kazakhstan,0.0369882823744244,breeding
+Charadrius alexandrinus,South Korea,0.03548948468329161,non-breeding
+Charadrius alexandrinus,Taiwan,0.030489400304888288,resident
+Charadrius alexandrinus,Bangladesh,0.0261227476183783,non-breeding
+Charadrius alexandrinus,Cambodia,0.020409334778261963,non-breeding
+Charadrius alexandrinus,Laos,0.010364799432148478,non-breeding
+Charadrius alexandrinus,Bhutan,0.005764176081321839,non-breeding
+Charadrius alexandrinus,Nepal,0.0033545755745563403,non-breeding
+Charadrius alexandrinus,Brunei,0.002220896382481039,non-breeding
+Charadrius alexandrinus,High seas (no EEZ),1.5928146498660005e-5,non-breeding
+Charadrius alexandrinus,Singapore,6.465604486792984e-6,non-breeding
+Charadrius alexandrinus,North Korea,2.372584645133465e-6,breeding; non-breeding
+Charadrius atrifrons,China,0.9546549718917823,breeding; non-breeding; passage
+Charadrius atrifrons,Indonesia,0.36870914885590256,non-breeding; passage
+Charadrius atrifrons,Philippines,0.17768304066975965,non-breeding; passage
+Charadrius atrifrons,India,0.11413511557561276,breeding; non-breeding; passage
+Charadrius atrifrons,Myanmar,0.0817231829903484,non-breeding; passage
+Charadrius atrifrons,Malaysia,0.06225491172493251,non-breeding; passage
+Charadrius atrifrons,High seas (no EEZ),0.062226634842205336,non-breeding; passage
+Charadrius atrifrons,Vietnam,0.06064519304589149,non-breeding; passage
+Charadrius atrifrons,Bangladesh,0.05857368731193739,non-breeding; passage
+Charadrius atrifrons,Thailand,0.04107736994244006,non-breeding; passage
+Charadrius atrifrons,Mongolia,0.027961036009266218,breeding
+Charadrius atrifrons,Sri Lanka,0.020853237256747058,non-breeding; passage
+Charadrius atrifrons,Taiwan,0.020177532350116805,non-breeding; passage
+Charadrius atrifrons,Laos,0.013274084127210106,passage
+Charadrius atrifrons,Cambodia,0.013002845889208917,non-breeding; passage
+Charadrius atrifrons,Australia,0.00738856355271558,non-breeding; passage
+Charadrius atrifrons,Bhutan,0.006685339142491899,breeding; passage
+Charadrius atrifrons,Japan,0.0030466701428401646,passage
+Charadrius atrifrons,Brunei,0.002463080768327948,non-breeding; passage
+Charadrius atrifrons,Singapore,0.0014955251464599932,non-breeding; passage
+Charadrius atrifrons,Nepal,6.806886371173097e-4,breeding; passage
+Charadrius bicinctus,Australia,1,non-breeding
+Charadrius bicinctus,New Zealand,0.9402019012132257,resident
+Charadrius bicinctus,High seas (no EEZ),0.05979809878677435,resident
+Charadrius dealbatus,China,0.9344279601422145,non-breeding; resident
+Charadrius dealbatus,Vietnam,0.34609209692303716,non-breeding; resident
+Charadrius dealbatus,Indonesia,0.23241122637529132,non-breeding
+Charadrius dealbatus,Thailand,0.23017712433125312,non-breeding
+Charadrius dealbatus,Malaysia,0.12376748058927238,non-breeding
+Charadrius dealbatus,Cambodia,0.0569394145386665,non-breeding; resident
+Charadrius dealbatus,Myanmar,0.0043400573291298115,non-breeding
+Charadrius dealbatus,Singapore,0.0011175658737350087,non-breeding
+Charadrius dealbatus,Brunei,3.340041642550082e-5,non-breeding
+Charadrius dealbatus,High seas (no EEZ),5.722646343589111e-6,non-breeding
+Charadrius leschenaultii,United States,0.6408636360120022,passage
+Charadrius leschenaultii,Mongolia,0.43998952531262975,breeding
+Charadrius leschenaultii,China,0.41052071711402865,breeding; non-breeding
+Charadrius leschenaultii,Indonesia,0.39606782579876243,non-breeding
+Charadrius leschenaultii,New Zealand,0.2741353019775813,passage
+Charadrius leschenaultii,Russia,0.14657937635788224,breeding
+Charadrius leschenaultii,Australia,0.13713412082666898,non-breeding
+Charadrius leschenaultii,Philippines,0.10517997589516032,non-breeding
+Charadrius leschenaultii,Micronesia,0.08500106201041657,passage
+Charadrius leschenaultii,Myanmar,0.05864806612644127,non-breeding
+Charadrius leschenaultii,Malaysia,0.05345403517911086,non-breeding
+Charadrius leschenaultii,Vietnam,0.053151525127806985,non-breeding
+Charadrius leschenaultii,Thailand,0.04536887627059285,non-breeding
+Charadrius leschenaultii,India,0.04215301925318967,non-breeding
+Charadrius leschenaultii,Papua New Guinea,0.03398689634153235,non-breeding
+Charadrius leschenaultii,Taiwan,0.017143462709769478,non-breeding
+Charadrius leschenaultii,Bangladesh,0.016322678827758993,non-breeding
+Charadrius leschenaultii,Cambodia,0.012792274035542563,non-breeding
+Charadrius leschenaultii,Sri Lanka,0.01071362364458888,non-breeding
+Charadrius leschenaultii,France,0.008943783218643865,non-breeding
+Charadrius leschenaultii,East Timor,0.006991384675340181,non-breeding
+Charadrius leschenaultii,Kazakhstan,0.0029224390480213904,breeding
+Charadrius leschenaultii,Brunei,0.0016163290243408224,non-breeding
+Charadrius leschenaultii,Solomon Islands,2.8143630274651534e-4,non-breeding
+Charadrius leschenaultii,High seas (no EEZ),3.288953313153226e-7,non-breeding
+Charadrius leschenaultii,Singapore,1.9792572379905613e-9,non-breeding
+Charadrius mongolus,Russia,0.9998439593916134,breeding; passage
+Charadrius mongolus,Australia,0.998252260159178,non-breeding; passage
+Charadrius mongolus,Indonesia,0.11886411509490855,passage
+Charadrius mongolus,Japan,0.11766013180908137,passage
+Charadrius mongolus,High seas (no EEZ),0.09168019402457832,breeding; passage
+Charadrius mongolus,China,0.0698357929064433,passage
+Charadrius mongolus,Papua New Guinea,0.0644016768910257,passage
+Charadrius mongolus,Philippines,0.06273791674343683,passage
+Charadrius mongolus,France,0.03691572865351345,passage
+Charadrius mongolus,United States,0.03521467052474655,passage
+Charadrius mongolus,Micronesia,0.03463895726530942,passage
+Charadrius mongolus,Solomon Islands,0.028559808523027475,passage
+Charadrius mongolus,Palau,0.019027512644834366,passage
+Charadrius mongolus,South Korea,0.013758039201834613,passage
+Charadrius mongolus,Taiwan,0.01339108955056288,passage
+Charadrius mongolus,Vanuatu,0.012254246767974535,passage
+Charadrius mongolus,New Zealand,0.010949315972417353,non-breeding; passage
+Charadrius mongolus,North Korea,0.0038716073340924733,passage
+Charadrius mongolus,East Timor,0.0024938579674906674,passage
+Charadrius mongolus,Malaysia,0.002110191586514485,passage
+Charadrius veredus,Australia,0.9999438270929768,non-breeding; passage
+Charadrius veredus,Mongolia,0.7869240102258543,breeding
+Charadrius veredus,China,0.472879630600428,breeding; passage
+Charadrius veredus,Indonesia,0.33504283647928906,passage
+Charadrius veredus,Russia,0.08210739533280208,breeding
+Charadrius veredus,Vietnam,0.06563256513911998,passage
+Charadrius veredus,Papua New Guinea,0.05919446220708805,non-breeding; passage
+Charadrius veredus,Malaysia,0.04426188666196368,passage
+Charadrius veredus,East Timor,0.012584337635449862,passage
+Charadrius veredus,Cambodia,0.005214387595654958,passage
+Charadrius veredus,Brunei,0.005010878719066621,passage
+Charadrius veredus,High seas (no EEZ),3.884422690392602e-8,passage
+Clangula hyemalis,Russia,0.6463781980464544,breeding; non-breeding
+Clangula hyemalis,United States,0.3857588335752694,breeding; non-breeding
+Clangula hyemalis,Japan,0.16228788931083693,non-breeding
+Clangula hyemalis,North Korea,0.037358958786505324,non-breeding
+Clangula hyemalis,Mongolia,0.007262486507496097,non-breeding
+Clangula hyemalis,Canada,0.004077704106588223,breeding
+Clangula hyemalis,High seas (no EEZ),0.0031696412569554326,non-breeding
+Clangula hyemalis,South Korea,3.9933920632883e-4,non-breeding
+Cuculus optatus,Russia,0.7317885246630479,breeding
+Cuculus optatus,China,0.6810090626339085,breeding; passage
+Cuculus optatus,Indonesia,0.4656820018595827,non-breeding
+Cuculus optatus,Australia,0.2062741649149471,non-breeding
+Cuculus optatus,Papua New Guinea,0.11392780325772256,non-breeding
+Cuculus optatus,Mongolia,0.0832762777902945,breeding; passage
+Cuculus optatus,Malaysia,0.08231805420738404,non-breeding
+Cuculus optatus,Philippines,0.06816168077773113,non-breeding; passage
+Cuculus optatus,Myanmar,0.06283412676427481,non-breeding; passage
+Cuculus optatus,Thailand,0.03771291729135361,non-breeding; passage
+Cuculus optatus,India,0.03637992235855598,non-breeding; passage
+Cuculus optatus,Vietnam,0.033763652735359195,passage
+Cuculus optatus,Japan,0.03220805242856692,breeding; passage
+Cuculus optatus,Laos,0.023928571875069585,passage
+Cuculus optatus,Cambodia,0.018834365393999013,passage
+Cuculus optatus,Kazakhstan,0.016976910412642272,breeding; passage
+Cuculus optatus,Bangladesh,0.014399399196218448,passage
+Cuculus optatus,North Korea,0.010670101549796742,breeding
+Cuculus optatus,South Korea,0.008380463276457919,breeding
+Cuculus optatus,Solomon Islands,0.006232658203973935,non-breeding
+Cuculus optatus,Bhutan,0.004170137852838666,passage
+Cuculus optatus,Taiwan,0.0037520293524276713,passage
+Cuculus optatus,East Timor,0.0036422805991899415,non-breeding
+Cuculus optatus,Vanuatu,0.0028086152196009403,non-breeding
+Cuculus optatus,Brunei,0.0014385107831031642,non-breeding
+Cuculus optatus,Nepal,0.0012265796223662724,passage
+Cuculus optatus,Singapore,1.2632651813065186e-4,non-breeding
+Cuculus optatus,High seas (no EEZ),1.5227507182687046e-7,breeding; non-breeding
+Cygnus cygnus,Russia,1,breeding; non-breeding; resident
+Cygnus cygnus,China,0.5601269652180965,breeding; non-breeding
+Cygnus cygnus,Japan,0.2731971260570262,non-breeding
+Cygnus cygnus,Mongolia,0.10124657840238832,breeding
+Cygnus cygnus,North Korea,0.09204238382860608,non-breeding
+Cygnus cygnus,South Korea,0.0707052279857532,non-breeding
+Cygnus cygnus,Kazakhstan,0.016520682838326556,breeding
+Cygnus cygnus,United States,0.003912267167877621,breeding; non-breeding
+Cygnus cygnus,High seas (no EEZ),1.5947963625215085e-5,non-breeding
+Egretta eulophotes,China,0.5819654153764464,breeding; non-breeding; passage
+Egretta eulophotes,Philippines,0.42673932260942626,non-breeding
+Egretta eulophotes,North Korea,0.3848977433621866,breeding
+Egretta eulophotes,South Korea,0.3527496980203989,breeding
+Egretta eulophotes,Indonesia,0.17546118053589932,non-breeding
+Egretta eulophotes,Malaysia,0.13623602727514256,non-breeding
+Egretta eulophotes,Thailand,0.13151454566662918,non-breeding; passage
+Egretta eulophotes,Vietnam,0.10643806452307769,non-breeding; passage
+Egretta eulophotes,Myanmar,0.08075879760076801,non-breeding; passage
+Egretta eulophotes,Laos,0.07095508274141574,passage
+Egretta eulophotes,Cambodia,0.05547232999378605,non-breeding; passage
+Egretta eulophotes,Japan,0.031282753872701,passage
+Egretta eulophotes,Taiwan,0.02445777048663313,non-breeding; passage
+Egretta eulophotes,Russia,0.019874129919174203,breeding
+Egretta eulophotes,India,0.004191306226703867,non-breeding
+Egretta eulophotes,Brunei,0.003932582259341963,non-breeding
+Egretta eulophotes,Singapore,9.77736598851676e-4,non-breeding
+Egretta eulophotes,High seas (no EEZ),1.0412948859548751e-6,non-breeding; passage
+Fratercula cirrhata,Russia,0.7218255637770862,breeding; non-breeding; resident
+Fratercula cirrhata,United States,0.5813348514095363,breeding; non-breeding; resident
+Fratercula cirrhata,Japan,0.3676475152708426,breeding; non-breeding; resident
+Fratercula cirrhata,North Korea,0.057616665476605676,non-breeding
+Fratercula cirrhata,High seas (no EEZ),0.02729724801748582,breeding; non-breeding; resident
+Fratercula cirrhata,South Korea,0.021237601891488222,non-breeding
+Fratercula corniculata,Russia,0.8229014677327686,breeding; non-breeding; resident
+Fratercula corniculata,United States,0.5763498880878711,breeding; non-breeding; resident
+Fratercula corniculata,Japan,0.14718771577467835,non-breeding; resident
+Fratercula corniculata,High seas (no EEZ),0.08255559398148767,breeding; non-breeding; resident
+Fregata andrewsi,Australia,1,breeding; non-breeding
+Fregata andrewsi,Indonesia,0.6340352730949685,non-breeding
+Fregata andrewsi,Malaysia,0.1162787941407326,non-breeding
+Fregata andrewsi,Philippines,0.0797704200870986,non-breeding
+Fregata andrewsi,Thailand,0.04970087459805756,non-breeding
+Fregata andrewsi,India,0.04836239820113387,non-breeding
+Fregata andrewsi,Vietnam,0.029441728915013763,non-breeding
+Fregata andrewsi,Brunei,0.008746608998750011,non-breeding
+Fregata andrewsi,High seas (no EEZ),0.0044779674598377835,non-breeding
+Fregata andrewsi,China,0.0033079591906260593,non-breeding
+Fregata andrewsi,Myanmar,2.8184857684735034e-4,non-breeding
+Fregata andrewsi,Singapore,2.2246735817021756e-4,non-breeding
+Fregata andrewsi,Cambodia,9.618543115458055e-6,non-breeding
+Fregata ariel,France,0.763092692447597,breeding; resident
+Fregata ariel,Indonesia,0.2265447373053014,resident
+Fregata ariel,Australia,0.17466117443308168,breeding; resident
+Fregata ariel,High seas (no EEZ),0.11670462828888455,resident
+Fregata ariel,Japan,0.08639998914547013,resident
+Fregata ariel,Papua New Guinea,0.07843991696573269,breeding; resident
+Fregata ariel,Philippines,0.07560370976100658,resident
+Fregata ariel,China,0.04855640157281141,resident
+Fregata ariel,Micronesia,0.04322181735753523,resident
+Fregata ariel,Solomon Islands,0.03492984743343328,resident
+Fregata ariel,Vietnam,0.027236168332358666,resident
+Fregata ariel,United States,0.024804071113857743,resident
+Fregata ariel,Palau,0.023726784799162372,resident
+Fregata ariel,Malaysia,0.01988496399937845,resident
+Fregata ariel,Taiwan,0.01652043448887489,resident
+Fregata ariel,Vanuatu,0.014975381912305586,resident
+Fregata ariel,Sri Lanka,0.014010450410500466,resident
+Fregata ariel,India,0.011675863234513091,resident
+Fregata ariel,East Timor,0.0029839887234954687,resident
+Fregata ariel,Thailand,0.0019446204327108407,resident
+Fregata ariel,Brunei,0.0016548581312559856,resident
+Fregata ariel,South Korea,0.0015060895586764514,resident
+Fregata ariel,Singapore,4.116716332451682e-5,resident
+Fregata minor,Palau,0.5922181115194701,breeding; non-breeding
+Fregata minor,Indonesia,0.2421418213046742,breeding; non-breeding
+Fregata minor,Australia,0.19386382359253776,breeding; non-breeding
+Fregata minor,France,0.14458342505484537,breeding; non-breeding
+Fregata minor,High seas (no EEZ),0.10105989138533167,non-breeding
+Fregata minor,Papua New Guinea,0.09654284253914791,non-breeding
+Fregata minor,Philippines,0.0926063778246694,non-breeding
+Fregata minor,Micronesia,0.0531979076179822,non-breeding
+Fregata minor,China,0.04376408535750303,breeding; non-breeding
+Fregata minor,Solomon Islands,0.04302902841289585,non-breeding
+Fregata minor,Vietnam,0.035552911110274026,breeding; non-breeding
+Fregata minor,United States,0.030318019345246278,non-breeding
+Fregata minor,Malaysia,0.021404933130510305,non-breeding
+Fregata minor,Vanuatu,0.01839208433842617,non-breeding
+Fregata minor,Japan,0.013749739942391523,non-breeding
+Fregata minor,Taiwan,0.009560189708943295,non-breeding
+Fregata minor,Thailand,0.008466350832968891,non-breeding
+Fregata minor,East Timor,0.003672654937319644,non-breeding
+Fregata minor,Cambodia,0.0023057691135118952,non-breeding
+Fregata minor,Brunei,0.0020367866150758996,non-breeding
+Fregata minor,Singapore,5.064434734070292e-5,non-breeding
+Fregetta lineata,France,1,breeding; non-breeding
+Fregetta lineata,Australia,0.5800258220170416,non-breeding
+Fregetta lineata,High seas (no EEZ),0.11776492920293043,non-breeding
+Fregetta tropica,Australia,0.27585442112233044,non-breeding
+Fregetta tropica,High seas (no EEZ),0.2360024591026752,non-breeding
+Fregetta tropica,France,0.08850757616339432,non-breeding
+Fregetta tropica,India,0.0873358850360132,non-breeding
+Fregetta tropica,Indonesia,0.08003763939647808,non-breeding
+Fregetta tropica,New Zealand,0.07417276006000699,non-breeding
+Fregetta tropica,Solomon Islands,0.06702052199159825,non-breeding
+Fregetta tropica,Vanuatu,0.029802891299141272,non-breeding
+Fregetta tropica,Sri Lanka,0.027056276309487107,non-breeding
+Fregetta tropica,Myanmar,0.018003387539322357,non-breeding
+Fregetta tropica,Bangladesh,0.008788127894940307,non-breeding
+Fregetta tropica,Papua New Guinea,0.008378509751254908,non-breeding
+Fulmarus glacialis,Russia,1,breeding; resident
+Fulmarus glacialis,United States,0.3262989176953362,resident
+Fulmarus glacialis,Japan,0.07521462966973524,resident
+Fulmarus glacialis,High seas (no EEZ),0.05061256572370192,resident
+Gallinago hardwickii,Australia,1,non-breeding
+Gallinago hardwickii,Japan,0.8088535162442174,breeding; passage
+Gallinago hardwickii,Papua New Guinea,0.59896064744063,passage
+Gallinago hardwickii,Russia,0.207654560019868,breeding
+Gallinago hardwickii,Indonesia,0.1200937111549291,passage
+Gavia adamsii,Russia,0.8849577472910772,breeding; non-breeding
+Gavia adamsii,United States,0.5231971362518084,breeding; non-breeding
+Gavia adamsii,Japan,0.27208641302233333,non-breeding
+Gavia adamsii,China,0.1462495970025682,non-breeding
+Gavia adamsii,South Korea,0.058430958858281506,non-breeding
+Gavia adamsii,North Korea,4.115810248297374e-5,non-breeding
+Gavia arctica,Russia,0.9373482061549356,breeding; non-breeding
+Gavia arctica,Japan,0.44865283811469153,breeding; non-breeding
+Gavia arctica,China,0.2333909205281364,breeding; non-breeding
+Gavia arctica,South Korea,0.13929616733666836,non-breeding
+Gavia arctica,Taiwan,0.05166987595091467,non-breeding
+Gavia arctica,North Korea,0.03640043605820516,non-breeding
+Gavia arctica,Mongolia,0.030331405635251028,breeding
+Gavia arctica,Kazakhstan,0.016518073380161664,breeding
+Gavia arctica,United States,0.0024869169867042704,breeding
+Gavia pacifica,United States,0.7142161569532773,breeding; non-breeding
+Gavia pacifica,Japan,0.45147402191155855,non-breeding
+Gavia pacifica,Russia,0.2775455140270885,breeding; non-breeding
+Gavia pacifica,China,0.16040546308933287,non-breeding
+Gavia pacifica,South Korea,0.11229712329951023,non-breeding
+Gavia pacifica,Canada,0.009135120415821067,breeding
+Gavia pacifica,North Korea,0.00841727891661646,non-breeding
+Gavia pacifica,High seas (no EEZ),1.559196410318309e-5,breeding
+Gavia stellata,Russia,0.9201459789004938,breeding; non-breeding
+Gavia stellata,Japan,0.38820863822002144,breeding; non-breeding
+Gavia stellata,China,0.21458833027855834,non-breeding
+Gavia stellata,United States,0.1582972244210366,breeding; non-breeding
+Gavia stellata,South Korea,0.06847372460896602,non-breeding
+Gavia stellata,Taiwan,0.05301952969002376,non-breeding
+Gavia stellata,North Korea,0.009935550740986161,non-breeding
+Gavia stellata,High seas (no EEZ),0.004296893008504644,non-breeding
+Gavia stellata,Canada,0.0017496352424867505,breeding
+Gelochelidon macrotarsa,Australia,1,non-breeding; resident
+Gelochelidon macrotarsa,Indonesia,0.5730535012951405,non-breeding
+Gelochelidon macrotarsa,Papua New Guinea,0.42221367631097834,non-breeding
+Gelochelidon macrotarsa,High seas (no EEZ),2.607767825451594e-14,non-breeding
+Gelochelidon nilotica,China,1,breeding; non-breeding; resident
+Gelochelidon nilotica,New Zealand,1,passage
+Gelochelidon nilotica,Indonesia,0.3121998021255045,non-breeding
+Gelochelidon nilotica,Australia,0.2854772526366082,non-breeding
+Gelochelidon nilotica,Taiwan,0.19406036973756197,resident
+Gelochelidon nilotica,Russia,0.17273367432261985,breeding
+Gelochelidon nilotica,Mongolia,0.13637677551065264,breeding
+Gelochelidon nilotica,Philippines,0.11181559329490025,non-breeding
+Gelochelidon nilotica,Kazakhstan,0.08754691940776524,breeding
+Gelochelidon nilotica,Papua New Guinea,0.07164174214105387,non-breeding
+Gelochelidon nilotica,Malaysia,0.042090670341994076,non-breeding
+Gelochelidon nilotica,India,0.032666607414943385,non-breeding
+Gelochelidon nilotica,Vietnam,0.03029514349542923,non-breeding
+Gelochelidon nilotica,Myanmar,0.02901928930465464,non-breeding
+Gelochelidon nilotica,Sri Lanka,0.025163226055345322,non-breeding
+Gelochelidon nilotica,Thailand,0.022699090830980394,non-breeding
+Gelochelidon nilotica,Bangladesh,0.011234077046810079,non-breeding
+Gelochelidon nilotica,East Timor,0.006014770361903967,non-breeding
+Gelochelidon nilotica,Cambodia,0.004962011680655881,non-breeding
+Gelochelidon nilotica,Brunei,3.514953990236311e-5,non-breeding
+Gelochelidon nilotica,High seas (no EEZ),3.00344437979785e-7,non-breeding
+Gelochelidon nilotica,Singapore,1.8074658224988762e-9,non-breeding
+Gygis candida,Papua New Guinea,0.45686731140686054,non-breeding; resident
+Gygis candida,Micronesia,0.15519681984117312,non-breeding; resident
+Gygis candida,United States,0.1498900515214401,non-breeding; resident
+Gygis candida,Solomon Islands,0.14726466477457442,non-breeding; resident
+Gygis candida,Japan,0.12063118431131897,non-breeding; resident
+Gygis candida,France,0.10063464070837026,non-breeding
+Gygis candida,Palau,0.08689812418192702,non-breeding; resident
+Gygis candida,Vanuatu,0.0645819785991333,non-breeding
+Gygis candida,High seas (no EEZ),0.05484877825856165,non-breeding
+Gygis candida,Australia,0.03559747125067546,non-breeding; resident
+Gygis candida,Indonesia,0.03554789106816614,non-breeding
+Haematopus ostralegus,India,1,non-breeding; passage
+Haematopus ostralegus,South Korea,0.9996187091923907,non-breeding; resident
+Haematopus ostralegus,Russia,0.7342159126617896,breeding; resident
+Haematopus ostralegus,China,0.5067880911930165,breeding; non-breeding
+Haematopus ostralegus,Sri Lanka,0.12881370489243765,non-breeding
+Haematopus ostralegus,Bangladesh,0.11185772251803539,non-breeding
+Haematopus ostralegus,Kazakhstan,0.057267240090703365,breeding
+Haematopus ostralegus,North Korea,0.010436638066984456,breeding; non-breeding; resident
+Haematopus ostralegus,Myanmar,0.001678705944588981,non-breeding
+Haematopus ostralegus,Japan,5.204628205947661e-5,resident
+Haliaeetus albicilla,Russia,0.9467850281662116,breeding; passage; resident
+Haliaeetus albicilla,China,0.8824123113947709,breeding; non-breeding; passage; resident
+Haliaeetus albicilla,Japan,0.14896322970878906,non-breeding; resident
+Haliaeetus albicilla,India,0.0850651843866133,non-breeding
+Haliaeetus albicilla,South Korea,0.08401228982985565,non-breeding
+Haliaeetus albicilla,North Korea,0.05904763623918107,breeding; non-breeding; passage; resident
+Haliaeetus albicilla,Myanmar,0.050859434726766344,non-breeding
+Haliaeetus albicilla,Mongolia,0.0454620640965154,breeding; passage; resident
+Haliaeetus albicilla,Kazakhstan,0.026518575519936024,breeding; non-breeding
+Haliaeetus albicilla,Bangladesh,0.010081542594292808,non-breeding
+Haliaeetus albicilla,Bhutan,0.00801916949995703,non-breeding
+Haliaeetus albicilla,Nepal,0.004085016714239472,non-breeding
+Haliaeetus albicilla,United States,1.3693870415514865e-4,non-breeding; resident
+Haliaeetus albicilla,High seas (no EEZ),1.5394448326332778e-13,resident
+Haliaeetus pelagicus,Russia,1,breeding; non-breeding; resident
+Haliaeetus pelagicus,Japan,0.35143121278345313,non-breeding
+Haliaeetus pelagicus,North Korea,0.11821120390254893,non-breeding
+Haliaeetus pelagicus,South Korea,0.029425512989797536,non-breeding
+Haliaeetus pelagicus,China,0.008882634697973905,non-breeding
+Himantopus himantopus,China,0.7564757411343122,breeding; non-breeding; passage; resident
+Himantopus himantopus,Australia,0.651163985305792,resident
+Himantopus himantopus,Philippines,0.4202701279224046,non-breeding
+Himantopus himantopus,Russia,0.3390529149450256,breeding
+Himantopus himantopus,Mongolia,0.1715296610457506,breeding
+Himantopus himantopus,Indonesia,0.14808529685392716,non-breeding; resident
+Himantopus himantopus,India,0.07211505972914418,passage; resident
+Himantopus himantopus,Vietnam,0.07076108098392885,passage; resident
+Himantopus himantopus,Myanmar,0.05217439364900631,passage; resident
+Himantopus himantopus,Thailand,0.040668023167669154,resident
+Himantopus himantopus,Malaysia,0.032466726498628536,non-breeding
+Himantopus himantopus,East Timor,0.0288430621846505,non-breeding
+Himantopus himantopus,Papua New Guinea,0.02651522729765736,resident
+Himantopus himantopus,Kazakhstan,0.02221094129716217,breeding
+Himantopus himantopus,New Zealand,0.021986965564166884,resident
+Himantopus himantopus,Laos,0.02123524071526712,passage; resident
+Himantopus himantopus,Bhutan,0.020860690867890178,passage
+Himantopus himantopus,Cambodia,0.01648704430929557,resident
+Himantopus himantopus,Bangladesh,0.012314630861562346,passage; resident
+Himantopus himantopus,Brunei,0.006446259952057271,non-breeding
+Himantopus himantopus,Nepal,0.006114926567561121,passage
+Himantopus himantopus,Sri Lanka,0.006057739818270322,resident
+Himantopus himantopus,Taiwan,0.00326885389593874,resident
+Himantopus himantopus,Japan,0.0030272050329319057,resident
+Himantopus himantopus,High seas (no EEZ),0.0014007163166441744,non-breeding; resident
+Himantopus himantopus,Palau,9.007412601454466e-4,non-breeding
+Himantopus himantopus,North Korea,3.251839723471668e-4,breeding
+Hirundapus caudacutus,Australia,0.8767841219808411,non-breeding; passage
+Hirundapus caudacutus,China,0.8595069614099334,breeding; passage; resident
+Hirundapus caudacutus,Russia,0.5514626684782963,breeding
+Hirundapus caudacutus,Mongolia,0.1533911497429569,breeding; passage
+Hirundapus caudacutus,Indonesia,0.10374270978446679,non-breeding; passage
+Hirundapus caudacutus,Papua New Guinea,0.09594010132475927,non-breeding; passage
+Hirundapus caudacutus,India,0.07500454917178397,passage; resident
+Hirundapus caudacutus,Bhutan,0.04593915921860244,resident
+Hirundapus caudacutus,Vietnam,0.039104341077754255,passage
+Hirundapus caudacutus,Japan,0.034127965989386055,breeding
+Hirundapus caudacutus,Laos,0.026818955553999494,passage
+Hirundapus caudacutus,North Korea,0.025162972596795258,breeding
+Hirundapus caudacutus,South Korea,0.0199420930467769,breeding
+Hirundapus caudacutus,Malaysia,0.018706079594532164,passage
+Hirundapus caudacutus,Cambodia,0.01620090807025678,passage
+Hirundapus caudacutus,Myanmar,0.012046932479658263,passage; resident
+Hirundapus caudacutus,Nepal,0.011721629775233623,resident
+Hirundapus caudacutus,Thailand,0.011519273527762676,passage
+Hirundapus caudacutus,East Timor,0.0017596337199361168,passage
+Hirundapus caudacutus,Brunei,6.946150549167419e-4,passage
+Hirundapus caudacutus,Philippines,1.4410212752917769e-4,passage
+Hirundapus caudacutus,New Zealand,1.7980069190203535e-5,passage
+Hirundapus caudacutus,High seas (no EEZ),9.366033503436984e-10,breeding; non-breeding; passage
+Histrionicus histrionicus,Russia,0.7996138827990495,breeding; non-breeding
+Histrionicus histrionicus,Japan,0.30930190674962016,breeding; non-breeding
+Histrionicus histrionicus,United States,0.29809630548479316,breeding; non-breeding
+Histrionicus histrionicus,South Korea,0.026724481120812642,non-breeding
+Histrionicus histrionicus,China,0.017997518487844744,breeding; non-breeding
+Histrionicus histrionicus,North Korea,0.017490731611149106,non-breeding
+Histrionicus histrionicus,High seas (no EEZ),0.0034152672771857553,non-breeding
+Histrionicus histrionicus,Canada,0.002778462729495427,breeding
+Hydrobates furcatus,United States,0.5103626658626425,breeding; resident
+Hydrobates furcatus,Russia,0.4884539111353484,breeding; resident
+Hydrobates furcatus,High seas (no EEZ),0.08256670005207613,breeding; resident
+Hydrobates furcatus,Japan,0.03339794926526151,resident
+Hydrobates leucorhous,Russia,0.518579460711499,breeding; resident
+Hydrobates leucorhous,United States,0.4115098943788603,breeding; resident
+Hydrobates leucorhous,Japan,0.3027375004971615,breeding; resident
+Hydrobates leucorhous,High seas (no EEZ),0.064363684446324,resident
+Hydrobates matsudairae,Japan,1,breeding; non-breeding
+Hydrobates matsudairae,Indonesia,0.3647931447653196,non-breeding
+Hydrobates matsudairae,High seas (no EEZ),0.18751806634567558,non-breeding
+Hydrobates matsudairae,Micronesia,0.10592920666975854,non-breeding
+Hydrobates matsudairae,Papua New Guinea,0.06908637167066363,non-breeding
+Hydrobates matsudairae,United States,0.06088211780349536,non-breeding
+Hydrobates matsudairae,Palau,0.05818813602254089,non-breeding
+Hydrobates matsudairae,Australia,0.03257518109087624,non-breeding
+Hydrobates matsudairae,Philippines,0.015100026253134148,non-breeding
+Hydrobates matsudairae,East Timor,0.0070919764187825154,non-breeding
+Hydrobates monorhis,China,0.5232537666416669,breeding; resident
+Hydrobates monorhis,Japan,0.3156410790040361,breeding; resident
+Hydrobates monorhis,Indonesia,0.16218319804640946,resident
+Hydrobates monorhis,South Korea,0.1377374295084883,breeding; resident
+Hydrobates monorhis,India,0.10599523402173912,resident
+Hydrobates monorhis,High seas (no EEZ),0.09941671190363474,resident
+Hydrobates monorhis,Vietnam,0.06748905998010704,resident
+Hydrobates monorhis,Myanmar,0.04180206617052402,resident
+Hydrobates monorhis,Taiwan,0.03859765007312356,breeding; resident
+Hydrobates monorhis,Sri Lanka,0.032745820970303506,resident
+Hydrobates monorhis,Malaysia,0.03196941254751404,resident
+Hydrobates monorhis,Thailand,0.026731876891533276,resident
+Hydrobates monorhis,Russia,0.017759412779771753,breeding; resident
+Hydrobates monorhis,North Korea,0.01209288201328228,breeding; resident
+Hydrobates monorhis,Philippines,0.01114966079712809,resident
+Hydrobates monorhis,Cambodia,0.0043771983224853575,resident
+Hydrobates monorhis,Australia,0.001858456029447644,resident
+Hydrobates monorhis,Bangladesh,0.001682800755006786,resident
+Hydrobates monorhis,Brunei,0.0014968437301328124,resident
+Hydrobates monorhis,Singapore,9.620581592083674e-5,resident
+Hydrobates tristrami,Japan,1,breeding; resident
+Hydrobates tristrami,Russia,0.18809662117670908,resident
+Hydrobates tristrami,High seas (no EEZ),0.016498409683726883,resident
+Hydroprogne caspia,Indonesia,1,passage
+Hydroprogne caspia,Australia,0.7896360145637464,non-breeding; resident
+Hydroprogne caspia,India,0.5387877423294105,non-breeding
+Hydroprogne caspia,China,0.49223963537421234,breeding; non-breeding; resident
+Hydroprogne caspia,Mongolia,0.3266515505337752,breeding
+Hydroprogne caspia,Russia,0.16875602366495193,breeding
+Hydroprogne caspia,Bangladesh,0.13487867885475746,non-breeding
+Hydroprogne caspia,New Zealand,0.0490098853407902,resident
+Hydroprogne caspia,Vietnam,0.03222365044800619,non-breeding
+Hydroprogne caspia,Sri Lanka,0.02217592566278362,resident
+Hydroprogne caspia,Kazakhstan,0.012451732523721129,breeding
+Hydroprogne caspia,Taiwan,0.012027291659086347,resident
+Hydroprogne caspia,High seas (no EEZ),0.004493076913157323,resident
+Hydroprogne caspia,Papua New Guinea,8.935502365323038e-4,non-breeding
+Larus brunnicephalus,China,1,breeding; non-breeding
+Larus brunnicephalus,India,0.2503509607377792,non-breeding
+Larus brunnicephalus,Vietnam,0.15709093040135963,non-breeding
+Larus brunnicephalus,Myanmar,0.12972826551774658,non-breeding
+Larus brunnicephalus,Bangladesh,0.11842926656875598,non-breeding
+Larus brunnicephalus,Thailand,0.07587611330242909,non-breeding
+Larus brunnicephalus,Indonesia,0.07223703967074202,non-breeding
+Larus brunnicephalus,Cambodia,0.059115300480776595,non-breeding
+Larus brunnicephalus,Malaysia,0.039835153861202025,non-breeding
+Larus brunnicephalus,Sri Lanka,0.026473839806235477,non-breeding
+Larus brunnicephalus,Laos,0.008398145333692552,non-breeding
+Larus brunnicephalus,Nepal,0.002888942416683281,non-breeding
+Larus brunnicephalus,Singapore,5.138771030359873e-4,non-breeding
+Larus brunnicephalus,High seas (no EEZ),2.3185976679508937e-11,non-breeding
+Larus canus,United States,1,breeding; non-breeding; resident
+Larus canus,Russia,0.8365418922126185,breeding; non-breeding; passage
+Larus canus,China,0.5196719440763162,breeding; non-breeding; passage
+Larus canus,Japan,0.30474719180950516,non-breeding; passage
+Larus canus,Mongolia,0.13506798149607624,breeding; passage
+Larus canus,South Korea,0.07112984866432565,non-breeding; passage
+Larus canus,Taiwan,0.025488960142509464,non-breeding
+Larus canus,North Korea,0.018808209716116263,non-breeding; passage
+Larus canus,Kazakhstan,0.018078197421083145,breeding; passage
+Larus canus,Vietnam,0.00870968309978875,non-breeding
+Larus canus,High seas (no EEZ),0.0050779761228662,non-breeding; passage
+Larus canus,Canada,6.076570464420374e-4,breeding
+Larus crassirostris,Japan,0.5007640000253799,non-breeding; resident
+Larus crassirostris,Russia,0.3962111817025221,non-breeding; resident
+Larus crassirostris,China,0.3511717017839855,non-breeding; resident
+Larus crassirostris,South Korea,0.15040020034682205,non-breeding; resident
+Larus crassirostris,Taiwan,0.11457682053670747,non-breeding
+Larus crassirostris,North Korea,0.07537201283548542,non-breeding; resident
+Larus crassirostris,Philippines,0.0018596999869652667,non-breeding
+Larus fuscus,Russia,0.9895349526172161,breeding; passage
+Larus fuscus,China,0.4388502011008221,non-breeding; passage
+Larus fuscus,Japan,0.2944197666696032,non-breeding
+Larus fuscus,South Korea,0.1690498063388736,non-breeding; passage
+Larus fuscus,Taiwan,0.1152796709693432,non-breeding
+Larus fuscus,Sri Lanka,0.06831489605468459,non-breeding
+Larus fuscus,Myanmar,0.04758045317979786,non-breeding
+Larus fuscus,India,0.0323350054007344,non-breeding
+Larus fuscus,North Korea,0.019316149751265808,non-breeding; passage
+Larus fuscus,Mongolia,0.011065659889464006,passage
+Larus fuscus,Kazakhstan,0.010506974096376902,breeding
+Larus fuscus,Thailand,0.009485053017665467,non-breeding
+Larus fuscus,Vietnam,0.008829926131662077,non-breeding
+Larus fuscus,High seas (no EEZ),1.2646380555920253e-13,passage
+Larus glaucescens,United States,0.7785557569911221,breeding; non-breeding; resident
+Larus glaucescens,Russia,0.40866711348309287,breeding; non-breeding; resident
+Larus glaucescens,Japan,0.08860427484839677,non-breeding
+Larus glaucescens,High seas (no EEZ),0.06433058042403078,non-breeding; resident
+Larus hyperboreus,United States,1,breeding; non-breeding; resident
+Larus hyperboreus,Russia,0.7205636118301766,breeding; non-breeding
+Larus hyperboreus,Japan,0.13680117635040692,non-breeding
+Larus hyperboreus,China,0.07891138960922876,non-breeding
+Larus hyperboreus,South Korea,0.04696493538684332,non-breeding
+Larus hyperboreus,North Korea,0.02817120235925435,non-breeding
+Larus hyperboreus,High seas (no EEZ),0.004457232791017292,breeding; non-breeding
+Larus ichthyaetus,Mongolia,0.695377487087743,breeding
+Larus ichthyaetus,India,0.4844907362742999,non-breeding
+Larus ichthyaetus,Myanmar,0.2884335057176975,non-breeding
+Larus ichthyaetus,Kazakhstan,0.24201131084573352,breeding
+Larus ichthyaetus,Bangladesh,0.11823290220734012,non-breeding
+Larus ichthyaetus,Sri Lanka,0.10681593524023264,non-breeding
+Larus ichthyaetus,China,0.04497454305391232,breeding
+Larus ichthyaetus,Russia,0.016109122448489666,breeding
+Larus ichthyaetus,Nepal,0.002051231645457444,non-breeding
+Larus novaehollandiae,Australia,0.9991948166748664,non-breeding; resident
+Larus novaehollandiae,France,0.12687285748246294,resident
+Larus novaehollandiae,New Zealand,0.12224250081493604,resident
+Larus novaehollandiae,High seas (no EEZ),0.013370083198560031,non-breeding; resident
+Larus novaehollandiae,Vanuatu,0.002089988281498091,resident
+Larus novaehollandiae,Papua New Guinea,9.841941466142967e-4,non-breeding
+Larus relictus,South Korea,0.8827613734908053,non-breeding
+Larus relictus,Mongolia,0.7651356493307755,breeding
+Larus relictus,China,0.13712387736827983,breeding; non-breeding
+Larus relictus,Kazakhstan,0.08228583596923482,breeding
+Larus relictus,Russia,0.015336935136839916,breeding
+Larus ridibundus,United States,1,passage
+Larus ridibundus,Russia,0.8586003289089154,breeding; non-breeding
+Larus ridibundus,China,0.35615428432038365,breeding; non-breeding
+Larus ridibundus,Japan,0.22942638581915337,breeding; non-breeding
+Larus ridibundus,Vietnam,0.10752080930827955,non-breeding
+Larus ridibundus,Thailand,0.06604899724652767,non-breeding
+Larus ridibundus,North Korea,0.05297048293313516,breeding; non-breeding
+Larus ridibundus,South Korea,0.049912496209486984,non-breeding
+Larus ridibundus,India,0.03621015485072819,non-breeding
+Larus ridibundus,Laos,0.02572218360939331,non-breeding
+Larus ridibundus,Kazakhstan,0.02434550594174784,breeding
+Larus ridibundus,Cambodia,0.02406485545666017,non-breeding
+Larus ridibundus,Sri Lanka,0.022802750311059706,non-breeding
+Larus ridibundus,Bhutan,0.011990795779102307,non-breeding
+Larus ridibundus,Myanmar,0.010286667412259249,non-breeding
+Larus ridibundus,Nepal,0.004038274471175244,non-breeding
+Larus ridibundus,Mongolia,0.001721681380373182,breeding
+Larus ridibundus,Bangladesh,0.0013214435966239378,non-breeding
+Larus ridibundus,Malaysia,0.0013105002477551459,non-breeding
+Larus ridibundus,Palau,1.5733779400502028e-4,non-breeding
+Larus ridibundus,High seas (no EEZ),1.991777518977928e-7,non-breeding
+Larus schistisagus,Russia,0.847855304155846,non-breeding; resident
+Larus schistisagus,Japan,0.42287803841338023,non-breeding; resident
+Larus schistisagus,China,0.28142007921189355,non-breeding
+Larus schistisagus,South Korea,0.1899762668163846,non-breeding
+Larus schistisagus,North Korea,0.10921449392744001,non-breeding
+Larus schistisagus,United States,0.02665675139369694,resident
+Larus schistisagus,High seas (no EEZ),6.795801915925068e-13,non-breeding
+Larus smithsonianus,United States,0.9517199127538494,breeding; passage; resident
+Larus smithsonianus,Russia,0.7892496858870649,breeding; non-breeding; passage
+Larus smithsonianus,Japan,0.4775208706339548,non-breeding; passage
+Larus smithsonianus,China,0.39268549180275303,breeding; non-breeding; passage
+Larus smithsonianus,Mongolia,0.14967366284802183,breeding; passage
+Larus smithsonianus,South Korea,0.140342850724947,non-breeding; passage; resident
+Larus smithsonianus,Taiwan,0.07868945873204626,non-breeding
+Larus smithsonianus,North Korea,0.02203149766373582,non-breeding; passage; resident
+Larus smithsonianus,Vietnam,0.00828821011860926,non-breeding
+Larus smithsonianus,High seas (no EEZ),0.004829945618948045,breeding; passage
+Larus smithsonianus,Canada,0.0016046547073117212,breeding
+Lathamus discolor,Australia,1,non-breeding; resident
+Leucogeranus leucogeranus,China,1,non-breeding
+Leucogeranus leucogeranus,Russia,1,breeding
+Limnodromus semipalmatus,Russia,0.5990099888429736,breeding; passage
+Limnodromus semipalmatus,China,0.39663237344715024,breeding; passage
+Limnodromus semipalmatus,Mongolia,0.37152780582102135,breeding; passage
+Limnodromus semipalmatus,Australia,0.27881662255433143,non-breeding; passage
+Limnodromus semipalmatus,Myanmar,0.17748311948273593,non-breeding
+Limnodromus semipalmatus,Indonesia,0.15697882779612302,non-breeding; passage
+Limnodromus semipalmatus,Bangladesh,0.11040694248573947,non-breeding
+Limnodromus semipalmatus,Malaysia,0.08675527396615249,non-breeding; passage
+Limnodromus semipalmatus,Vietnam,0.08319788002940474,non-breeding
+Limnodromus semipalmatus,Kazakhstan,0.06515452053754135,breeding; passage
+Limnodromus semipalmatus,India,0.0460363287036293,non-breeding
+Limnodromus semipalmatus,Thailand,0.03329091124905069,non-breeding; passage
+Limnodromus semipalmatus,Philippines,0.02061709898527558,non-breeding
+Limnodromus semipalmatus,Cambodia,0.006416709478132839,non-breeding
+Limnodromus semipalmatus,Taiwan,7.049555607083304e-4,passage
+Limnodromus semipalmatus,South Korea,6.114057606825578e-4,passage
+Limnodromus semipalmatus,Singapore,4.6793800954505056e-5,passage
+Limosa lapponica,Russia,0.8145248157779952,breeding; passage
+Limosa lapponica,Indonesia,0.34686262969210346,non-breeding; passage
+Limosa lapponica,Australia,0.18818971219693417,non-breeding; passage
+Limosa lapponica,United States,0.1854751842220053,breeding; passage
+Limosa lapponica,China,0.12410053250175089,non-breeding; passage
+Limosa lapponica,Philippines,0.11325766843865094,non-breeding; passage
+Limosa lapponica,Papua New Guinea,0.07918675161210988,non-breeding; passage
+Limosa lapponica,High seas (no EEZ),0.0729976007534786,non-breeding; passage
+Limosa lapponica,Japan,0.05290998880550334,non-breeding; passage
+Limosa lapponica,Malaysia,0.03351003375238059,non-breeding; passage
+Limosa lapponica,Solomon Islands,0.028143643442290135,non-breeding; passage
+Limosa lapponica,New Zealand,0.027429299556321663,non-breeding; passage
+Limosa lapponica,India,0.025653566638768128,non-breeding; passage
+Limosa lapponica,Thailand,0.02228525034444486,non-breeding; passage
+Limosa lapponica,Myanmar,0.021055077107618093,non-breeding; passage
+Limosa lapponica,Mongolia,0.02004685386433165,passage
+Limosa lapponica,France,0.015068550083902076,non-breeding; passage
+Limosa lapponica,Micronesia,0.014388186161200417,passage
+Limosa lapponica,Vanuatu,0.013611719562833406,non-breeding; passage
+Limosa lapponica,Vietnam,0.01344567756864468,non-breeding; passage
+Limosa lapponica,Bangladesh,0.01145261823194066,non-breeding; passage
+Limosa lapponica,Sri Lanka,0.008807909954710456,non-breeding; passage
+Limosa lapponica,Palau,0.007834966631007613,non-breeding; passage
+Limosa lapponica,Taiwan,0.0074916579371190626,non-breeding; passage
+Limosa lapponica,South Korea,0.006819114981217128,passage
+Limosa lapponica,East Timor,0.003964827092495244,non-breeding; passage
+Limosa lapponica,Cambodia,0.003916485145687107,non-breeding; passage
+Limosa lapponica,North Korea,0.0030333601634129964,passage
+Limosa lapponica,Laos,0.0029427437960257707,passage
+Limosa lapponica,Kazakhstan,0.002595816325053536,passage
+Limosa lapponica,Brunei,9.544210059064146e-4,non-breeding; passage
+Limosa lapponica,Singapore,5.314963429056077e-4,non-breeding; passage
+Limosa lapponica,Bhutan,5.128449520131475e-4,passage
+Limosa lapponica,Nepal,1.5084517341424014e-4,passage
+Limosa lapponica,Canada,5.051024231338194e-7,passage
+Limosa limosa,Russia,0.7262523519332985,breeding; passage
+Limosa limosa,Indonesia,0.34007908979683016,non-breeding
+Limosa limosa,Australia,0.3174145239272611,non-breeding
+Limosa limosa,China,0.26113964552710756,breeding; non-breeding; passage
+Limosa limosa,India,0.07854106662515938,non-breeding; passage
+Limosa limosa,Papua New Guinea,0.07392481395542443,non-breeding
+Limosa limosa,Philippines,0.06842499557275399,non-breeding
+Limosa limosa,Kazakhstan,0.060402752158552675,breeding
+Limosa limosa,Myanmar,0.05728042153624917,non-breeding; passage
+Limosa limosa,Thailand,0.05312702718197123,non-breeding; passage
+Limosa limosa,Japan,0.05102897522296474,passage
+Limosa limosa,Malaysia,0.04388460140249751,non-breeding; passage
+Limosa limosa,Mongolia,0.03907966750183695,breeding; passage
+Limosa limosa,Cambodia,0.016761622816825413,passage
+Limosa limosa,North Korea,0.0165202889876594,passage
+Limosa limosa,Bangladesh,0.016306060336686162,non-breeding; passage
+Limosa limosa,South Korea,0.013378146379672856,passage
+Limosa limosa,Sri Lanka,0.012436680349665032,non-breeding
+Limosa limosa,Taiwan,0.01085446110821322,non-breeding; passage
+Limosa limosa,Solomon Islands,0.008668369058949715,non-breeding
+Limosa limosa,Vietnam,0.006128387573077912,passage
+Limosa limosa,France,0.0049550807501178955,non-breeding
+Limosa limosa,East Timor,0.004444290020455953,non-breeding
+Limosa limosa,Vanuatu,0.0036947320969804246,non-breeding
+Limosa limosa,Laos,0.003408913030805164,passage
+Limosa limosa,Brunei,0.0017694460166316046,non-breeding
+Limosa limosa,Nepal,0.0010956652772325392,non-breeding; passage
+Limosa limosa,Singapore,1.7951766861094528e-4,non-breeding
+Limosa limosa,United States,1.3896444505489313e-4,passage
+Limosa limosa,Palau,6.16169222526615e-5,non-breeding; passage
+Limosa limosa,Micronesia,1.4303212372883002e-5,passage
+Limosa limosa,High seas (no EEZ),2.0907202005515797e-7,non-breeding; passage
+Melanitta americana,Russia,0.6772683413955847,breeding; non-breeding
+Melanitta americana,Japan,0.37368998835978573,non-breeding
+Melanitta americana,United States,0.3201944104039118,breeding; non-breeding
+Melanitta americana,China,0.04464695534945314,non-breeding
+Melanitta americana,North Korea,0.029004068161024382,non-breeding
+Melanitta americana,South Korea,0.02662368366587474,non-breeding
+Melanitta americana,Canada,0.002537251065086976,breeding
+Melanitta americana,High seas (no EEZ),0.0018023361862687718,non-breeding
+Melanitta fusca,Russia,0.9688541483708595,breeding
+Melanitta fusca,Kazakhstan,0.030977905079491844,breeding
+Melanitta fusca,Mongolia,1.365412127303237e-4,breeding
+Melanitta fusca,China,6.054022865545948e-5,breeding
+Melanitta nigra,Russia,1,breeding
+Melanitta stejnegeri,Russia,0.9537315342595459,breeding; non-breeding
+Melanitta stejnegeri,Japan,0.4071516633044518,breeding; non-breeding
+Melanitta stejnegeri,China,0.2363284803762368,breeding; non-breeding
+Melanitta stejnegeri,South Korea,0.16359181520468827,non-breeding
+Melanitta stejnegeri,North Korea,0.05205979109790664,non-breeding
+Melanitta stejnegeri,United States,0.0453924375448998,non-breeding
+Melanitta stejnegeri,Mongolia,0.037957754382671856,breeding
+Melanitta stejnegeri,Taiwan,0.01608685987952487,non-breeding
+Melanitta stejnegeri,Kazakhstan,0.001998863470138435,breeding
+Melanitta stejnegeri,High seas (no EEZ),8.731097533404803e-4,non-breeding
+Mergus merganser,China,0.8104995214985459,breeding; non-breeding; resident
+Mergus merganser,Russia,0.7620608784038531,breeding
+Mergus merganser,United States,0.6521422511033129,breeding; resident
+Mergus merganser,Japan,0.09638749789651818,breeding; non-breeding
+Mergus merganser,Mongolia,0.05429284499110965,breeding
+Mergus merganser,India,0.04652975956521824,non-breeding
+Mergus merganser,South Korea,0.024917915799622357,non-breeding
+Mergus merganser,Kazakhstan,0.01858412343308809,breeding
+Mergus merganser,Bhutan,0.010666490352911262,non-breeding
+Mergus merganser,Myanmar,0.007231516146269124,non-breeding
+Mergus merganser,Nepal,0.0031373782284298862,non-breeding
+Mergus merganser,Bangladesh,7.791467656603449e-4,non-breeding
+Mergus merganser,High seas (no EEZ),7.831696288856268e-5,resident
+Mergus merganser,North Korea,1.6791372018818046e-6,breeding; non-breeding
+Mergus serrator,Russia,0.8423239947816274,breeding; non-breeding
+Mergus serrator,China,0.4224018118892076,breeding; non-breeding
+Mergus serrator,Japan,0.34388628778115904,breeding; non-breeding
+Mergus serrator,Taiwan,0.12233666573981884,non-breeding
+Mergus serrator,United States,0.11332511814436973,breeding; non-breeding
+Mergus serrator,South Korea,0.10202396428215212,non-breeding
+Mergus serrator,North Korea,0.019292255227364684,breeding; non-breeding
+Mergus serrator,Kazakhstan,0.01210898606661755,breeding
+Mergus serrator,Philippines,0.001670634703659184,non-breeding
+Mergus serrator,Canada,0.0012932497460727205,breeding
+Mergus serrator,High seas (no EEZ),6.058175492020132e-4,breeding; non-breeding
+Mergus squamatus,China,0.8882246406663755,breeding; non-breeding; passage
+Mergus squamatus,Russia,0.7505338535148953,breeding; passage
+Mergus squamatus,Japan,0.12465665135010957,non-breeding; passage
+Mergus squamatus,North Korea,0.11006319698743816,breeding; non-breeding; passage
+Mergus squamatus,South Korea,0.08677261158809657,non-breeding; passage
+Mergus squamatus,Taiwan,0.019812423954439395,non-breeding
+Mergus squamatus,High seas (no EEZ),5.327543394849426e-13,non-breeding
+Microcarbo melanoleucos,Australia,0.9940445709883167,non-breeding; resident
+Microcarbo melanoleucos,Indonesia,0.21682578505099076,resident
+Microcarbo melanoleucos,Papua New Guinea,0.10468467650588632,resident
+Microcarbo melanoleucos,New Zealand,0.06378323191210214,resident
+Microcarbo melanoleucos,France,0.0052765096112649705,resident
+Microcarbo melanoleucos,East Timor,0.004685203396527785,resident
+Microcarbo melanoleucos,Vanuatu,0.004460258927293416,non-breeding
+Microcarbo melanoleucos,High seas (no EEZ),0.004375874907278916,resident
+Microcarbo melanoleucos,Solomon Islands,0.0038732770332830647,non-breeding; resident
+Microcarbo melanoleucos,Palau,1.4699721971435457e-4,resident
+Morus serrator,Australia,0.7528848688991465,breeding; non-breeding
+Morus serrator,High seas (no EEZ),0.2941770772596105,breeding; non-breeding
+Morus serrator,New Zealand,0.19453390107057458,breeding; non-breeding
+Numenius arquata,Russia,0.8090714827390483,breeding; passage
+Numenius arquata,China,0.615153411207431,breeding; non-breeding; passage
+Numenius arquata,Indonesia,0.16110210201958738,non-breeding
+Numenius arquata,Philippines,0.10152468790137228,non-breeding
+Numenius arquata,India,0.07701679334270911,non-breeding; passage
+Numenius arquata,Myanmar,0.06344333185528458,non-breeding; passage
+Numenius arquata,Vietnam,0.06223443455489139,non-breeding; passage
+Numenius arquata,Thailand,0.061555963668171,non-breeding; passage
+Numenius arquata,Malaysia,0.05950593735295188,non-breeding
+Numenius arquata,Laos,0.035048922420388845,non-breeding; passage
+Numenius arquata,Kazakhstan,0.03247091504723028,breeding; passage
+Numenius arquata,Japan,0.03236510682135423,non-breeding; passage
+Numenius arquata,Bangladesh,0.029780791532096337,non-breeding; passage
+Numenius arquata,Mongolia,0.02540273270859126,breeding; passage
+Numenius arquata,Cambodia,0.023823764958596148,non-breeding; passage
+Numenius arquata,Sri Lanka,0.022811494651298305,non-breeding
+Numenius arquata,North Korea,0.01950718889666694,passage
+Numenius arquata,Taiwan,0.013348126576754863,non-breeding; passage
+Numenius arquata,South Korea,0.012676570298639542,non-breeding; passage
+Numenius arquata,East Timor,0.0054104838281973855,non-breeding
+Numenius arquata,Bhutan,0.0038187981628404486,passage
+Numenius arquata,Brunei,0.002176231134697349,non-breeding
+Numenius arquata,Nepal,0.0018710873012267688,passage
+Numenius arquata,United States,2.5909885157562195e-4,non-breeding
+Numenius arquata,Singapore,2.2075779806823612e-4,non-breeding
+Numenius arquata,High seas (no EEZ),1.687391406262734e-8,non-breeding; passage
+Numenius madagascariensis,Russia,0.9015862382982058,breeding; passage
+Numenius madagascariensis,Indonesia,0.3818142670394412,non-breeding; passage
+Numenius madagascariensis,Australia,0.27098350660949294,non-breeding; passage
+Numenius madagascariensis,Philippines,0.13629407763144943,non-breeding; passage
+Numenius madagascariensis,China,0.11658494391540805,breeding; non-breeding; passage
+Numenius madagascariensis,Japan,0.07344789243598186,non-breeding; passage
+Numenius madagascariensis,High seas (no EEZ),0.07108887896201582,non-breeding; passage
+Numenius madagascariensis,Papua New Guinea,0.04880808160316796,non-breeding; passage
+Numenius madagascariensis,Malaysia,0.037849851218590115,non-breeding; passage
+Numenius madagascariensis,New Zealand,0.03319333643503784,non-breeding; passage
+Numenius madagascariensis,France,0.02440645628197658,passage
+Numenius madagascariensis,Vietnam,0.021382962790058028,passage
+Numenius madagascariensis,Solomon Islands,0.01891957541532428,passage
+Numenius madagascariensis,Mongolia,0.016491567478222086,passage
+Numenius madagascariensis,Thailand,0.013046797816437349,non-breeding; passage
+Numenius madagascariensis,Palau,0.012264244389317955,passage
+Numenius madagascariensis,South Korea,0.01074761336494036,passage
+Numenius madagascariensis,Taiwan,0.009389678235054214,non-breeding; passage
+Numenius madagascariensis,Vanuatu,0.008106890785040316,passage
+Numenius madagascariensis,Micronesia,0.004820403530437086,passage
+Numenius madagascariensis,East Timor,0.004790397911599578,non-breeding; passage
+Numenius madagascariensis,North Korea,0.004763003082418857,breeding; passage
+Numenius madagascariensis,Cambodia,0.004645457447412546,passage
+Numenius madagascariensis,Laos,0.0036229596990495017,passage
+Numenius madagascariensis,Myanmar,0.0017384132033630728,passage
+Numenius madagascariensis,Brunei,0.0011531540422766184,non-breeding; passage
+Numenius madagascariensis,Singapore,6.42166458240367e-4,non-breeding; passage
+Numenius minutus,Australia,1,non-breeding; passage
+Numenius minutus,Russia,1,breeding
+Numenius minutus,Indonesia,0.9782789228946831,passage
+Numenius minutus,Papua New Guinea,0.013967871329933492,passage
+Numenius minutus,United States,0.004235017977480178,passage
+Numenius minutus,Palau,0.003466408487050969,passage
+Numenius phaeopus,United States,1,breeding; non-breeding; passage
+Numenius phaeopus,Russia,0.359373878969243,breeding
+Numenius phaeopus,Indonesia,0.2749507351012758,non-breeding
+Numenius phaeopus,Australia,0.26894432845328337,non-breeding
+Numenius phaeopus,Papua New Guinea,0.06702280408428352,non-breeding
+Numenius phaeopus,Philippines,0.06682470263657576,non-breeding
+Numenius phaeopus,Malaysia,0.05142657514733514,non-breeding
+Numenius phaeopus,India,0.04690356434438279,non-breeding
+Numenius phaeopus,China,0.04576854856682863,non-breeding
+Numenius phaeopus,Vietnam,0.037898265886466755,non-breeding
+Numenius phaeopus,Myanmar,0.03741644497722747,non-breeding
+Numenius phaeopus,Thailand,0.028366797129370725,non-breeding
+Numenius phaeopus,Bangladesh,0.01813528577329485,non-breeding
+Numenius phaeopus,Sri Lanka,0.013891286505533451,non-breeding
+Numenius phaeopus,Canada,0.01272683354233399,breeding
+Numenius phaeopus,New Zealand,0.011937903152133018,non-breeding
+Numenius phaeopus,Taiwan,0.008128477181947308,non-breeding
+Numenius phaeopus,Cambodia,0.007129581093338753,non-breeding
+Numenius phaeopus,Solomon Islands,0.006491212659060383,non-breeding
+Numenius phaeopus,France,0.004282730320949568,non-breeding
+Numenius phaeopus,East Timor,0.003328111207087941,non-breeding
+Numenius phaeopus,Vanuatu,0.0027667957866447566,non-breeding
+Numenius phaeopus,High seas (no EEZ),0.0026734505786540695,non-breeding
+Numenius phaeopus,Laos,0.002186221851246218,non-breeding
+Numenius phaeopus,Brunei,0.0013251917746272108,non-breeding
+Numenius phaeopus,Palau,1.0340565938243142e-4,non-breeding
+Numenius phaeopus,Micronesia,2.3991485848835045e-5,non-breeding
+Numenius phaeopus,Singapore,1.3291065793380215e-7,non-breeding
+Oceanites oceanicus,Australia,0.3292992422606441,non-breeding
+Oceanites oceanicus,Indonesia,0.2132882757100905,non-breeding
+Oceanites oceanicus,High seas (no EEZ),0.1755960717503126,non-breeding
+Oceanites oceanicus,France,0.06287580662244921,non-breeding
+Oceanites oceanicus,New Zealand,0.05269235174237772,non-breeding
+Oceanites oceanicus,Solomon Islands,0.042053812419986875,non-breeding
+Oceanites oceanicus,Papua New Guinea,0.040598158742221745,non-breeding
+Oceanites oceanicus,India,0.03984092289583333,non-breeding
+Oceanites oceanicus,Vanuatu,0.021171982313872073,non-breeding
+Oceanites oceanicus,Sri Lanka,0.019220787092113455,non-breeding
+Oceanites oceanicus,East Timor,0.004096750996274798,non-breeding
+Onychoprion aleuticus,Indonesia,0.9881434059339234,non-breeding
+Onychoprion aleuticus,United States,0.595603398024493,breeding
+Onychoprion aleuticus,Russia,0.3978223776009261,breeding
+Onychoprion aleuticus,Malaysia,0.011856741679047472,non-breeding
+Onychoprion aleuticus,High seas (no EEZ),0.006574224374581184,breeding
+Onychoprion anaethetus,Indonesia,0.29840140208137483,breeding; non-breeding
+Onychoprion anaethetus,Australia,0.21526484855765682,breeding; non-breeding
+Onychoprion anaethetus,Papua New Guinea,0.12907741360101363,breeding; non-breeding
+Onychoprion anaethetus,Philippines,0.1019607957393628,breeding; non-breeding
+Onychoprion anaethetus,Solomon Islands,0.09879605100297757,breeding; non-breeding
+Onychoprion anaethetus,France,0.08080266751408025,breeding; non-breeding
+Onychoprion anaethetus,Vanuatu,0.05816357914921501,breeding; non-breeding
+Onychoprion anaethetus,Malaysia,0.05002617196378466,breeding; non-breeding
+Onychoprion anaethetus,Vietnam,0.038868804527054865,breeding; non-breeding
+Onychoprion anaethetus,High seas (no EEZ),0.03764687947839294,breeding; non-breeding
+Onychoprion anaethetus,China,0.03362066493650666,breeding; non-breeding
+Onychoprion anaethetus,Palau,0.030935958333684156,breeding; non-breeding
+Onychoprion anaethetus,India,0.024122555493085077,breeding; non-breeding
+Onychoprion anaethetus,Taiwan,0.021352853514188315,breeding; non-breeding
+Onychoprion anaethetus,Thailand,0.010178364392672558,breeding; non-breeding
+Onychoprion anaethetus,Sri Lanka,0.00917598462459581,breeding; non-breeding
+Onychoprion anaethetus,Japan,0.005805757530440471,breeding
+Onychoprion anaethetus,East Timor,0.004626448926720511,breeding; non-breeding
+Onychoprion anaethetus,Cambodia,0.003477943354084138,breeding; non-breeding
+Onychoprion anaethetus,Brunei,0.0023963531136586397,breeding; non-breeding
+Onychoprion anaethetus,Micronesia,0.0015772821948908159,non-breeding
+Onychoprion anaethetus,Myanmar,0.0010657808414216404,non-breeding
+Onychoprion anaethetus,Singapore,3.236377848587862e-4,breeding
+Onychoprion fuscatus,United States,0.8599068781223363,breeding; non-breeding; passage
+Onychoprion fuscatus,Philippines,0.5304338863663143,breeding; non-breeding
+Onychoprion fuscatus,Indonesia,0.2164052097000666,non-breeding
+Onychoprion fuscatus,Solomon Islands,0.21630416065487784,breeding; non-breeding
+Onychoprion fuscatus,Australia,0.1761595570164757,breeding; non-breeding
+Onychoprion fuscatus,France,0.1427199750478231,breeding; non-breeding
+Onychoprion fuscatus,Micronesia,0.14009312187766385,non-breeding; passage
+Onychoprion fuscatus,High seas (no EEZ),0.11319260057963508,non-breeding
+Onychoprion fuscatus,Vanuatu,0.09220059324233032,breeding; non-breeding
+Onychoprion fuscatus,Papua New Guinea,0.07546992770855569,breeding; non-breeding
+Onychoprion fuscatus,Japan,0.05175656519530884,breeding; non-breeding
+Onychoprion fuscatus,China,0.04425337643477368,non-breeding
+Onychoprion fuscatus,Vietnam,0.02786459320258947,non-breeding
+Onychoprion fuscatus,Palau,0.022828751998565103,breeding; non-breeding
+Onychoprion fuscatus,Malaysia,0.018202615909625117,non-breeding
+Onychoprion fuscatus,Taiwan,0.014129141002617123,non-breeding
+Onychoprion fuscatus,Thailand,0.006618370362371273,non-breeding
+Onychoprion fuscatus,Sri Lanka,0.006574377449258692,non-breeding
+Onychoprion fuscatus,India,0.003557414150407308,non-breeding
+Onychoprion fuscatus,East Timor,0.0028710426560237742,non-breeding
+Onychoprion fuscatus,New Zealand,0.0019328747530222728,non-breeding
+Onychoprion fuscatus,Cambodia,0.0018025010590165468,non-breeding
+Onychoprion fuscatus,Brunei,0.0015922208625022568,non-breeding
+Onychoprion fuscatus,Singapore,3.961122363519817e-5,non-breeding
+Onychoprion lunatus,United States,1,non-breeding; resident
+Onychoprion lunatus,Micronesia,0.34857750964674866,non-breeding
+Onychoprion lunatus,Solomon Islands,0.17432177586566608,non-breeding
+Onychoprion lunatus,Palau,0.15067336032733666,non-breeding
+Onychoprion lunatus,Papua New Guinea,0.05013857246402738,non-breeding
+Onychoprion lunatus,Indonesia,0.04435603979367887,non-breeding
+Onychoprion lunatus,High seas (no EEZ),0.019884602872829102,non-breeding
+Onychoprion lunatus,Vanuatu,1.6226570788999514e-4,non-breeding
+Pandion haliaetus,China,0.8872215441488921,breeding; non-breeding; passage; resident
+Pandion haliaetus,Russia,0.6779801063383918,breeding; resident
+Pandion haliaetus,Australia,0.3126827672190686,non-breeding; resident
+Pandion haliaetus,Indonesia,0.28700048041769777,non-breeding; resident
+Pandion haliaetus,India,0.18192692846965547,breeding; non-breeding; passage
+Pandion haliaetus,Myanmar,0.14680365114979707,breeding; non-breeding; passage
+Pandion haliaetus,Thailand,0.13252442017847907,non-breeding; passage
+Pandion haliaetus,Papua New Guinea,0.08305564186031195,resident
+Pandion haliaetus,Mongolia,0.0819205643846616,breeding; passage
+Pandion haliaetus,Japan,0.0808174810480295,resident
+Pandion haliaetus,United States,0.08001304455774005,breeding
+Pandion haliaetus,Philippines,0.07631881264033591,non-breeding
+Pandion haliaetus,Vietnam,0.06363716666662393,non-breeding
+Pandion haliaetus,Cambodia,0.04697536025568821,non-breeding
+Pandion haliaetus,Malaysia,0.04309909525627762,non-breeding; resident
+Pandion haliaetus,Laos,0.03807614065322735,non-breeding; passage
+Pandion haliaetus,Bangladesh,0.03548708192610457,non-breeding
+Pandion haliaetus,Kazakhstan,0.020370842094994998,breeding
+Pandion haliaetus,North Korea,0.0098440253645077,breeding; passage; resident
+Pandion haliaetus,Taiwan,0.007816813597590615,resident
+Pandion haliaetus,Sri Lanka,0.007364305218007355,non-breeding
+Pandion haliaetus,Solomon Islands,0.004259735240268627,resident
+Pandion haliaetus,France,0.0040574993695379055,resident
+Pandion haliaetus,East Timor,0.0031839258181264327,resident
+Pandion haliaetus,Brunei,0.0012687850707526753,resident
+Pandion haliaetus,Canada,7.766372242754441e-4,breeding
+Pandion haliaetus,Nepal,7.472108342419123e-4,non-breeding
+Pandion haliaetus,Bhutan,5.100412807397763e-4,non-breeding
+Pandion haliaetus,Singapore,1.5376777468187504e-4,non-breeding
+Pandion haliaetus,High seas (no EEZ),1.6732438639228914e-7,non-breeding; resident
+Papasula abbotti,Australia,1,breeding; resident
+Papasula abbotti,Indonesia,0.527721504349388,resident
+Papasula abbotti,High seas (no EEZ),0.1843428482032386,resident
+Pelagodroma marina,Australia,0.9965307080256376,breeding; resident
+Pelagodroma marina,High seas (no EEZ),0.3194918813644611,resident
+Pelagodroma marina,New Zealand,0.11669172760429578,breeding; resident
+Pelagodroma marina,France,0.07357616287993185,resident
+Pelagodroma marina,Indonesia,0.03800467662764439,resident
+Pelagodroma marina,Sri Lanka,0.010359554940805999,resident
+Pelagodroma marina,Vanuatu,0.009324548785347966,resident
+Pelagodroma marina,India,0.00413891921364756,resident
+Phaethon lepturus,Australia,1,breeding; non-breeding; passage
+Phaethon lepturus,France,0.5509298264474695,breeding; non-breeding
+Phaethon lepturus,Vanuatu,0.355878048539048,breeding; non-breeding
+Phaethon lepturus,Indonesia,0.2640668183053931,breeding; non-breeding
+Phaethon lepturus,High seas (no EEZ),0.11268995009400805,non-breeding
+Phaethon lepturus,Papua New Guinea,0.10952719174266083,breeding; non-breeding
+Phaethon lepturus,Micronesia,0.060351269648106505,breeding; non-breeding
+Phaethon lepturus,Solomon Islands,0.048816087128019894,non-breeding
+Phaethon lepturus,United States,0.03463425929830968,breeding; non-breeding
+Phaethon lepturus,Palau,0.033130022341993165,breeding; non-breeding
+Phaethon lepturus,Japan,0.02728439803622453,non-breeding
+Phaethon lepturus,Philippines,0.023606514204331474,non-breeding
+Phaethon lepturus,Sri Lanka,0.015668977886701668,non-breeding
+Phaethon lepturus,Malaysia,0.01010605115535337,non-breeding
+Phaethon lepturus,India,0.0047642668008979734,non-breeding
+Phaethon lepturus,East Timor,0.004166603863118995,non-breeding
+Phaethon lepturus,Brunei,0.0012389725873432956,non-breeding
+Phaethon rubricauda,Australia,0.5735204327576545,breeding; non-breeding
+Phaethon rubricauda,Indonesia,0.19536424196004865,breeding; non-breeding
+Phaethon rubricauda,France,0.13386713817034096,breeding; non-breeding
+Phaethon rubricauda,High seas (no EEZ),0.12958899240116972,non-breeding
+Phaethon rubricauda,Vanuatu,0.08647267517677987,breeding; non-breeding
+Phaethon rubricauda,Japan,0.0842931739293482,breeding; non-breeding
+Phaethon rubricauda,Papua New Guinea,0.08202655136042172,non-breeding
+Phaethon rubricauda,Philippines,0.07853023812935252,non-breeding
+Phaethon rubricauda,Micronesia,0.04519898741718159,non-breeding
+Phaethon rubricauda,Solomon Islands,0.036559138217475834,non-breeding
+Phaethon rubricauda,United States,0.02593868434781662,breeding; non-breeding
+Phaethon rubricauda,Palau,0.024812126402186267,breeding; non-breeding
+Phaethon rubricauda,China,0.02233966873257051,non-breeding
+Phaethon rubricauda,Taiwan,0.015110481322080234,non-breeding
+Phaethon rubricauda,Sri Lanka,0.014349314058905542,non-breeding
+Phaethon rubricauda,India,0.011610435372919097,non-breeding
+Phaethon rubricauda,New Zealand,0.006105168051188138,non-breeding
+Phaethon rubricauda,East Timor,0.003120429269186754,non-breeding
+Phaethon rubricauda,Malaysia,0.0030446290391521044,non-breeding
+Phalacrocorax capillatus,China,0.5693243874021559,breeding; non-breeding
+Phalacrocorax capillatus,Japan,0.5287863395326999,breeding; non-breeding
+Phalacrocorax capillatus,Russia,0.20090585217035623,breeding; non-breeding
+Phalacrocorax capillatus,North Korea,0.16926389210657083,breeding; non-breeding
+Phalacrocorax capillatus,South Korea,0.09738891132727198,breeding; non-breeding
+Phalacrocorax capillatus,Taiwan,0.015495870999522609,non-breeding
+Phalacrocorax carbo,Australia,0.7769487926577288,passage; resident
+Phalacrocorax carbo,Solomon Islands,0.7320392121991988,passage; resident
+Phalacrocorax carbo,China,0.6109824374659377,breeding; non-breeding; resident
+Phalacrocorax carbo,Papua New Guinea,0.2665323873809496,passage
+Phalacrocorax carbo,Russia,0.21007918555592747,breeding
+Phalacrocorax carbo,Myanmar,0.14612973938880863,non-breeding
+Phalacrocorax carbo,India,0.14561370120885436,non-breeding; resident
+Phalacrocorax carbo,Mongolia,0.1422237077821057,breeding
+Phalacrocorax carbo,Thailand,0.11372239634982262,non-breeding
+Phalacrocorax carbo,Vietnam,0.060752488251435956,non-breeding; resident
+Phalacrocorax carbo,Laos,0.05095100127909402,non-breeding
+Phalacrocorax carbo,Kazakhstan,0.03670533284003826,breeding
+Phalacrocorax carbo,New Zealand,0.03157567427143146,resident
+Phalacrocorax carbo,Malaysia,0.028974535930074746,non-breeding
+Phalacrocorax carbo,Bangladesh,0.02552011232911249,non-breeding; resident
+Phalacrocorax carbo,Cambodia,0.02179380563527091,non-breeding; resident
+Phalacrocorax carbo,Japan,0.014947344034514394,non-breeding; resident
+Phalacrocorax carbo,Sri Lanka,0.014681949377471058,non-breeding
+Phalacrocorax carbo,Bhutan,0.008874316928613067,non-breeding; resident
+Phalacrocorax carbo,South Korea,0.006929626033759047,resident
+Phalacrocorax carbo,Nepal,0.002611750514589073,non-breeding
+Phalacrocorax carbo,France,0.0021389212966728935,resident
+Phalacrocorax carbo,High seas (no EEZ),0.0020081601846473366,breeding; non-breeding; resident
+Phalacrocorax carbo,North Korea,2.7322826848411988e-5,breeding; resident
+Phalacrocorax carbo,Singapore,1.3168557757417898e-9,non-breeding
+Phalaropus lobatus,Indonesia,0.644443410913026,non-breeding
+Phalaropus lobatus,Russia,0.6260498040714679,breeding
+Phalaropus lobatus,United States,0.3698267828204339,breeding
+Phalaropus lobatus,Papua New Guinea,0.17795482456628084,non-breeding
+Phalaropus lobatus,Philippines,0.07641478640147269,non-breeding
+Phalaropus lobatus,Palau,0.058142258794189654,non-breeding
+Phalaropus lobatus,High seas (no EEZ),0.039219537623262864,breeding; non-breeding
+Phalaropus lobatus,Canada,0.004478190927264985,breeding
+Phalaropus lobatus,Malaysia,0.003823647783232208,non-breeding
+Phoebastria albatrus,Japan,1,breeding; resident
+Phoebastria albatrus,China,0.5205047627365594,breeding; resident
+Phoebastria albatrus,Taiwan,0.5205047627365594,breeding; resident
+Phoebastria albatrus,Russia,0.25118140415388207,resident
+Phoebastria albatrus,United States,0.2500852370516841,resident
+Phoebastria albatrus,High seas (no EEZ),0.1302269647913693,resident
+Phoebastria albatrus,South Korea,0.01996586625336423,resident
+Phoebastria albatrus,Philippines,0.016377093010095028,resident
+Phoebastria immutabilis,Japan,1,breeding; resident
+Phoebastria immutabilis,Russia,0.3284202702947691,resident
+Phoebastria immutabilis,United States,0.24943768552315013,resident
+Phoebastria immutabilis,High seas (no EEZ),0.06835568260887431,resident
+Phoebastria immutabilis,China,0.02453806422244934,resident
+Phoebastria immutabilis,Taiwan,0.011705830131499742,resident
+Phoebastria immutabilis,South Korea,0.009779441525809777,resident
+Phoebastria nigripes,Japan,0.9999999999999999,breeding; resident
+Phoebastria nigripes,Russia,0.25678742474374566,resident
+Phoebastria nigripes,China,0.25590095842852084,breeding; resident
+Phoebastria nigripes,Taiwan,0.25590095842852084,breeding; resident
+Phoebastria nigripes,United States,0.21996432047841516,resident
+Phoebastria nigripes,High seas (no EEZ),0.1263263218570782,resident
+Phoebastria nigripes,France,0.03828280112662646,resident
+Phoebastria nigripes,Vanuatu,0.033845080181870504,resident
+Phoebastria nigripes,New Zealand,0.013936933555167353,resident
+Phoebastria nigripes,Solomon Islands,0.01312664548181822,resident
+Phoebastria nigripes,South Korea,0.0067932464045404595,resident
+Phoebastria nigripes,Philippines,0.006375606911269057,resident
+Phoebastria nigripes,Micronesia,0.0011668174528901936,resident
+Phoebastria nigripes,Australia,1.1937581160121806e-4,resident
+Platalea minor,China,0.7944983577204742,breeding; non-breeding; passage
+Platalea minor,South Korea,0.7386256746039781,breeding; non-breeding; passage
+Platalea minor,Japan,0.2295667343108898,non-breeding; passage
+Platalea minor,North Korea,0.1906441533631947,breeding; passage
+Platalea minor,Philippines,0.10221457810736173,non-breeding; passage
+Platalea minor,Vietnam,0.10048047064917387,non-breeding; passage
+Platalea minor,Taiwan,0.06510376180889746,non-breeding; passage
+Platalea minor,Thailand,0.03426092647294169,non-breeding; passage
+Platalea minor,Cambodia,0.032916618195661766,passage
+Platalea minor,Russia,0.02295205165444774,breeding; passage
+Platalea minor,High seas (no EEZ),0.020950981752846685,passage
+Platalea minor,Laos,0.013961097554535994,passage
+Pluvialis fulva,United States,1,breeding; passage
+Pluvialis fulva,Russia,0.9496484623337237,breeding
+Pluvialis fulva,Indonesia,0.3765453266856854,non-breeding
+Pluvialis fulva,Australia,0.10415093417909423,non-breeding
+Pluvialis fulva,Malaysia,0.07337562794919807,non-breeding
+Pluvialis fulva,China,0.07174376363176176,non-breeding
+Pluvialis fulva,Philippines,0.06560434060778644,non-breeding
+Pluvialis fulva,Papua New Guinea,0.0589401996800355,non-breeding
+Pluvialis fulva,India,0.05304130981631834,non-breeding
+Pluvialis fulva,Vietnam,0.05180447244298316,non-breeding
+Pluvialis fulva,Myanmar,0.03387105572011231,non-breeding
+Pluvialis fulva,Thailand,0.03151684905669302,non-breeding
+Pluvialis fulva,Bangladesh,0.030311743385647832,non-breeding
+Pluvialis fulva,Sri Lanka,0.014744359797288215,non-breeding
+Pluvialis fulva,Cambodia,0.008318519228113304,non-breeding
+Pluvialis fulva,Taiwan,0.008005019357924838,non-breeding
+Pluvialis fulva,Laos,0.007159988629944283,non-breeding
+Pluvialis fulva,Solomon Islands,0.006353864830807219,non-breeding
+Pluvialis fulva,France,0.004193535949646066,non-breeding
+Pluvialis fulva,East Timor,0.0032759476469554506,non-breeding
+Pluvialis fulva,Vanuatu,0.0027089369073354016,non-breeding
+Pluvialis fulva,Brunei,0.0013154114837339295,non-breeding
+Pluvialis fulva,High seas (no EEZ),5.57051708727673e-4,breeding; non-breeding
+Pluvialis fulva,New Zealand,5.531375867316263e-4,non-breeding
+Pluvialis fulva,Nepal,2.621251158215918e-4,non-breeding
+Pluvialis fulva,Singapore,1.2889540711362733e-4,non-breeding
+Pluvialis fulva,Japan,5.367683216895553e-6,non-breeding
+Pluvialis fulva,Palau,3.12599240912889e-7,non-breeding
+Pluvialis squatarola,Russia,0.8856695984289121,breeding; passage
+Pluvialis squatarola,Indonesia,0.3182116137807589,non-breeding; passage
+Pluvialis squatarola,Australia,0.18154364672747614,non-breeding; passage
+Pluvialis squatarola,China,0.13066178096917824,non-breeding; passage
+Pluvialis squatarola,United States,0.11304703690479115,breeding; non-breeding; passage
+Pluvialis squatarola,Philippines,0.1039025318616199,non-breeding; passage
+Pluvialis squatarola,Papua New Guinea,0.07264588877212591,non-breeding; passage
+Pluvialis squatarola,High seas (no EEZ),0.0642479234031292,non-breeding; passage
+Pluvialis squatarola,Japan,0.05410751556242374,non-breeding; passage
+Pluvialis squatarola,Myanmar,0.03178701425651233,non-breeding; passage
+Pluvialis squatarola,Malaysia,0.030742089240998836,non-breeding; passage
+Pluvialis squatarola,India,0.02679388595287356,non-breeding; passage
+Pluvialis squatarola,Solomon Islands,0.024045785755658595,non-breeding; passage
+Pluvialis squatarola,Mongolia,0.021243995748248895,passage
+Pluvialis squatarola,Vietnam,0.021111367387144645,non-breeding; passage
+Pluvialis squatarola,Thailand,0.020444478217502213,non-breeding; passage
+Pluvialis squatarola,South Korea,0.018583226365375374,non-breeding; passage
+Pluvialis squatarola,France,0.01596840162962821,non-breeding; passage
+Pluvialis squatarola,Micronesia,0.015135749777522892,non-breeding; passage
+Pluvialis squatarola,Bangladesh,0.01088962078554848,non-breeding; passage
+Pluvialis squatarola,Palau,0.008302848862122663,non-breeding; passage
+Pluvialis squatarola,Sri Lanka,0.008080372463050553,non-breeding; passage
+Pluvialis squatarola,Taiwan,0.007129546188578821,non-breeding; passage
+Pluvialis squatarola,Vanuatu,0.0054508004400787985,passage
+Pluvialis squatarola,East Timor,0.003637330515215841,non-breeding; passage
+Pluvialis squatarola,Cambodia,0.0035929816364584635,non-breeding; passage
+Pluvialis squatarola,North Korea,0.0032107048898425347,non-breeding; passage
+Pluvialis squatarola,Laos,0.0031184762015045255,passage
+Pluvialis squatarola,Kazakhstan,0.0027508311950530046,passage
+Pluvialis squatarola,Canada,0.0012833654732336012,breeding; passage
+Pluvialis squatarola,Brunei,8.755853822833425e-4,non-breeding; passage
+Pluvialis squatarola,Bhutan,5.434706140828868e-4,passage
+Pluvialis squatarola,Singapore,4.875944958037569e-4,non-breeding; passage
+Pluvialis squatarola,Nepal,1.5985322406912364e-4,passage
+Podiceps auritus,Russia,0.8296922376137703,breeding; non-breeding
+Podiceps auritus,Japan,0.5833210957642864,non-breeding
+Podiceps auritus,United States,0.21364981202940417,breeding; non-breeding
+Podiceps auritus,China,0.12189957643936034,breeding; non-breeding
+Podiceps auritus,South Korea,0.08223586719266152,non-breeding
+Podiceps auritus,Mongolia,0.0430604058235584,breeding
+Podiceps auritus,Kazakhstan,0.021631109917425433,breeding
+Podiceps auritus,Canada,0.0017590199349577609,breeding
+Podiceps auritus,High seas (no EEZ),2.13639672796494e-5,non-breeding
+Podiceps cristatus,Australia,0.916578368727693,non-breeding; resident
+Podiceps cristatus,China,0.5592468832586556,breeding; non-breeding; passage; resident
+Podiceps cristatus,Russia,0.27476057363313955,breeding; passage; resident
+Podiceps cristatus,Mongolia,0.229434332635086,breeding
+Podiceps cristatus,South Korea,0.11856044479845056,passage
+Podiceps cristatus,Myanmar,0.10734468760763445,non-breeding; passage
+Podiceps cristatus,India,0.07020530457481204,non-breeding; passage
+Podiceps cristatus,North Korea,0.06867095209628027,breeding; passage
+Podiceps cristatus,Japan,0.04977991814257895,non-breeding; passage; resident
+Podiceps cristatus,Bangladesh,0.0403378373779438,non-breeding; passage
+Podiceps cristatus,Kazakhstan,0.033724779003816215,breeding
+Podiceps cristatus,New Zealand,0.03330795045476125,resident
+Podiceps cristatus,Taiwan,0.014434423555588608,non-breeding
+Podiceps cristatus,Bhutan,0.013909225212925529,passage
+Podiceps cristatus,Vietnam,0.002338464173122064,non-breeding
+Podiceps cristatus,Laos,6.518665033467722e-4,non-breeding
+Podiceps cristatus,Nepal,5.488949192574684e-4,non-breeding; passage
+Podiceps cristatus,Philippines,6.066828663412402e-5,non-breeding
+Podiceps cristatus,High seas (no EEZ),7.525858260628964e-8,non-breeding; passage
+Podiceps grisegena,Russia,0.8220398475376824,breeding; non-breeding
+Podiceps grisegena,United States,0.25717285464823414,breeding; non-breeding
+Podiceps grisegena,Japan,0.20237887854991657,breeding; non-breeding
+Podiceps grisegena,China,0.0530782186725172,breeding; non-breeding
+Podiceps grisegena,North Korea,0.017544983539619977,breeding; non-breeding
+Podiceps grisegena,Kazakhstan,0.007096898792179292,breeding
+Podiceps grisegena,High seas (no EEZ),0.006280712222161742,non-breeding
+Podiceps grisegena,Taiwan,0.0032892782962403657,non-breeding
+Podiceps grisegena,South Korea,0.002313402863635288,non-breeding
+Podiceps grisegena,Canada,7.782615968963683e-4,breeding
+Podiceps nigricollis,China,0.5314746768643696,breeding; non-breeding
+Podiceps nigricollis,Russia,0.47780097911731645,breeding; non-breeding
+Podiceps nigricollis,Japan,0.4209980665347115,non-breeding
+Podiceps nigricollis,Kazakhstan,0.10236931819340853,breeding
+Podiceps nigricollis,Mongolia,0.05959910672756055,breeding
+Podiceps nigricollis,South Korea,0.03382385937360241,non-breeding
+Podiceps nigricollis,Vietnam,0.01685376832023267,non-breeding
+Podiceps nigricollis,Taiwan,0.016340457124951257,non-breeding
+Podiceps nigricollis,North Korea,0.013683917227243755,breeding
+Polysticta stelleri,Russia,0.8846824922666723,breeding; non-breeding; resident
+Polysticta stelleri,United States,0.2856752020597142,breeding; non-breeding; resident
+Polysticta stelleri,Japan,0.2176027570356669,non-breeding
+Polysticta stelleri,High seas (no EEZ),6.687484781708833e-5,breeding; non-breeding; resident
+Pseudobulweria becki,Papua New Guinea,0.9981413969287863,breeding; resident
+Pseudobulweria becki,Vanuatu,0.013927466216663598,resident
+Pseudobulweria becki,Solomon Islands,0.0018586030712136952,breeding
+Pseudobulweria rostrata,France,1,breeding; resident
+Pseudobulweria rostrata,Papua New Guinea,0.25263392390019546,resident
+Pseudobulweria rostrata,Micronesia,0.14960895957025608,resident
+Pseudobulweria rostrata,Australia,0.14562421989384616,resident
+Pseudobulweria rostrata,Solomon Islands,0.12887910633372965,resident
+Pseudobulweria rostrata,High seas (no EEZ),0.06990621805954275,resident
+Pseudobulweria rostrata,Vanuatu,0.05515751519216951,resident
+Pseudobulweria rostrata,United States,0.03416758969429089,resident
+Pseudobulweria rostrata,Indonesia,0.00495940056550105,resident
+Pterodroma cervicalis,Vanuatu,0.5241902846630565,breeding; resident
+Pterodroma cervicalis,Australia,0.47580971533694355,breeding; resident
+Pterodroma cervicalis,France,0.2180610088739272,resident
+Pterodroma cervicalis,United States,0.10806755009068165,resident
+Pterodroma cervicalis,Japan,0.09955699786433772,resident
+Pterodroma cervicalis,High seas (no EEZ),0.08558760422270384,resident
+Pterodroma cervicalis,Solomon Islands,0.04777265184378123,resident
+Pterodroma cervicalis,New Zealand,0.021974814963070105,resident
+Pterodroma cervicalis,Micronesia,0.0023303078943874888,resident
+Pterodroma heraldica,France,1,breeding; resident
+Pterodroma heraldica,Australia,0.22638541204276477,resident
+Pterodroma heraldica,Solomon Islands,0.20708479276858935,resident
+Pterodroma heraldica,Papua New Guinea,0.13374230365829093,resident
+Pterodroma heraldica,Vanuatu,0.10268958307162518,resident
+Pterodroma heraldica,High seas (no EEZ),0.02123798993631439,resident
+Pterodroma hypoleuca,Japan,1,breeding; resident
+Pterodroma hypoleuca,High seas (no EEZ),0.20820939295097565,resident
+Pterodroma hypoleuca,Russia,0.15539249505094876,resident
+Pterodroma hypoleuca,United States,0.11490618755938324,resident
+Pterodroma hypoleuca,South Korea,0.028222994811913392,resident
+Pterodroma hypoleuca,Micronesia,0.011761971362246453,resident
+Pterodroma hypoleuca,China,0.008434184340821403,resident
+Pterodroma hypoleuca,Taiwan,0.004013447824811374,resident
+Pterodroma leucoptera,France,0.9992318307515137,breeding; resident
+Pterodroma leucoptera,Australia,0.4050999231261662,breeding; resident
+Pterodroma leucoptera,High seas (no EEZ),0.17005301176970672,resident
+Pterodroma leucoptera,Papua New Guinea,0.10347444657380152,resident
+Pterodroma leucoptera,New Zealand,0.09243786487890465,resident
+Pterodroma leucoptera,Solomon Islands,0.08389244114794527,resident
+Pterodroma leucoptera,Vanuatu,0.035926794511068984,resident
+Pterodroma neglecta,Australia,1,breeding; resident
+Pterodroma neglecta,France,0.17832219557485207,resident
+Pterodroma neglecta,Solomon Islands,0.13613599513311003,resident
+Pterodroma neglecta,United States,0.0933900665195171,resident
+Pterodroma neglecta,Japan,0.07469648708638157,resident
+Pterodroma neglecta,High seas (no EEZ),0.07205850563322588,resident
+Pterodroma neglecta,Papua New Guinea,0.0699251556275614,resident
+Pterodroma neglecta,Vanuatu,0.058342155895301125,resident
+Pterodroma neglecta,Micronesia,0.022137595554144365,resident
+Pterodroma neglecta,New Zealand,0.015903423372034792,resident
+Pterodroma nigripennis,Australia,0.40970181514093806,breeding; resident
+Pterodroma nigripennis,France,0.2890133888652962,breeding; resident
+Pterodroma nigripennis,High seas (no EEZ),0.27734544385712934,breeding; resident
+Pterodroma nigripennis,United States,0.21091094942396915,resident
+Pterodroma nigripennis,New Zealand,0.11898466061256775,breeding; resident
+Pterodroma nigripennis,Vanuatu,0.05084399774482974,resident
+Pterodroma nigripennis,Russia,0.033601068239892055,resident
+Pterodroma nigripennis,Solomon Islands,0.019617495545606777,resident
+Pterodroma nigripennis,Japan,9.115425782044647e-6,resident
+Pterodroma solandri,Australia,1,breeding; non-breeding
+Pterodroma solandri,Japan,0.1688761288499671,non-breeding
+Pterodroma solandri,High seas (no EEZ),0.1650598354091439,non-breeding
+Pterodroma solandri,Papua New Guinea,0.11018457296995035,non-breeding
+Pterodroma solandri,Russia,0.0962505968004137,non-breeding
+Pterodroma solandri,France,0.06523217899298747,non-breeding
+Pterodroma solandri,Micronesia,0.06160728380226491,non-breeding
+Pterodroma solandri,Solomon Islands,0.04976801710589492,non-breeding
+Pterodroma solandri,United States,0.03535438874253385,non-breeding
+Pterodroma solandri,New Zealand,0.02166461708591351,non-breeding
+Pterodroma solandri,Vanuatu,0.021295674278985276,non-breeding
+Pterodroma solandri,Indonesia,0.011518657575256702,non-breeding
+Pterodroma solandri,South Korea,0.007755840117389267,non-breeding
+Pterodroma solandri,Palau,0.007336035674024318,non-breeding
+Pterodroma solandri,North Korea,0.004896879246449515,non-breeding
+Puffinus bailloni,Vanuatu,0.9289942821616505,breeding; resident
+Puffinus bailloni,Papua New Guinea,0.18281740998771623,resident
+Puffinus bailloni,High seas (no EEZ),0.17715246832063586,resident
+Puffinus bailloni,Japan,0.16402466731701834,resident
+Puffinus bailloni,Micronesia,0.1491022847417558,resident
+Puffinus bailloni,Solomon Islands,0.09230018956179449,resident
+Puffinus bailloni,United States,0.08556660711706089,breeding; resident
+Puffinus bailloni,Palau,0.04923200944232098,breeding; resident
+Puffinus bailloni,France,0.04371969373276843,resident
+Puffinus bailloni,Indonesia,0.011616967329688706,resident
+Puffinus bailloni,India,0.0014872805558927954,resident
+Puffinus bailloni,Sri Lanka,0.001251348268266161,resident
+Puffinus bannermani,Japan,1,breeding; resident
+Puffinus bannermani,High seas (no EEZ),0.03153408723475175,resident
+Puffinus bannermani,United States,0.011742603959308508,resident
+Puffinus heinrothi,Papua New Guinea,0.9568986516509141,breeding; resident
+Puffinus heinrothi,Solomon Islands,0.09741304445291346,breeding; resident
+Puffinus heinrothi,High seas (no EEZ),5.016833356853315e-7,resident
+Puffinus huttoni,Australia,0.9618191261792485,passage; resident
+Puffinus huttoni,New Zealand,0.8744479917142756,breeding; passage
+Puffinus huttoni,High seas (no EEZ),0.6278558753071811,breeding; passage; resident
+Rissa tridactyla,United States,0.9881830346611881,breeding; non-breeding; passage; resident
+Rissa tridactyla,Russia,0.7357014722175478,breeding; non-breeding; passage
+Rissa tridactyla,Japan,0.5197040535533536,non-breeding
+Rissa tridactyla,South Korea,0.06383902117550955,non-breeding
+Rissa tridactyla,High seas (no EEZ),0.03872340612423077,breeding; non-breeding; passage; resident
+Rissa tridactyla,China,0.017757377897053936,non-breeding
+Rissa tridactyla,North Korea,0.01746853884134691,non-breeding
+Rissa tridactyla,Taiwan,0.005684886284867656,non-breeding
+Saundersilarus saundersi,China,0.9996338878533884,breeding; non-breeding; resident
+Saundersilarus saundersi,South Korea,0.4204527407981247,non-breeding; resident
+Saundersilarus saundersi,Japan,0.15718161398692676,non-breeding
+Saundersilarus saundersi,Vietnam,0.07037230617016066,non-breeding
+Saundersilarus saundersi,Taiwan,0.05518913358675891,non-breeding
+Saundersilarus saundersi,North Korea,3.6610669410594264e-4,breeding
+Saundersilarus saundersi,High seas (no EEZ),5.452225793540671e-9,breeding
+Somateria fischeri,United States,0.8539697753236611,breeding; non-breeding
+Somateria fischeri,Russia,0.3555907264543833,breeding; non-breeding
+Somateria mollissima,United States,0.7132113723909614,breeding; non-breeding
+Somateria mollissima,Russia,0.340400330437913,breeding; non-breeding
+Somateria mollissima,High seas (no EEZ),0.007651928889109763,breeding; non-breeding
+Somateria mollissima,Canada,0.0015419135732963939,breeding
+Somateria spectabilis,Russia,0.9443401508270256,breeding; non-breeding
+Somateria spectabilis,United States,0.5122837116875932,breeding; non-breeding
+Somateria spectabilis,High seas (no EEZ),0.02328036014320005,breeding; non-breeding
+Somateria spectabilis,Canada,8.324921000601208e-4,breeding
+Stercorarius longicaudus,Russia,0.7279025042669289,breeding
+Stercorarius longicaudus,United States,0.26726813925262494,breeding
+Stercorarius longicaudus,Canada,0.004542199055595107,breeding
+Stercorarius longicaudus,High seas (no EEZ),2.8777581563552146e-4,breeding
+Stercorarius parasiticus,Russia,0.8132156971897856,breeding
+Stercorarius parasiticus,Australia,0.5299552518871768,non-breeding
+Stercorarius parasiticus,Papua New Guinea,0.2328529320011764,non-breeding
+Stercorarius parasiticus,United States,0.18492230746743263,breeding
+Stercorarius parasiticus,New Zealand,0.15119690803223226,non-breeding
+Stercorarius parasiticus,France,0.04344589762272668,non-breeding
+Stercorarius parasiticus,Solomon Islands,0.029771934241292236,non-breeding
+Stercorarius parasiticus,High seas (no EEZ),0.012202814657455117,breeding; non-breeding
+Stercorarius parasiticus,Canada,0.001542380842379898,breeding
+Stercorarius parasiticus,Indonesia,4.3717656018934104e-4,non-breeding
+Stercorarius pomarinus,United States,0.9680426930894255,breeding; passage
+Stercorarius pomarinus,Russia,0.9124481839717059,breeding; passage
+Stercorarius pomarinus,Australia,0.2859454867723563,non-breeding
+Stercorarius pomarinus,Indonesia,0.14108509372169348,non-breeding
+Stercorarius pomarinus,High seas (no EEZ),0.13183437079592064,breeding; non-breeding; passage
+Stercorarius pomarinus,France,0.06372789072397858,non-breeding
+Stercorarius pomarinus,Papua New Guinea,0.06034362048067379,non-breeding
+Stercorarius pomarinus,Philippines,0.05802887726098819,non-breeding
+Stercorarius pomarinus,China,0.050619791200843485,non-breeding
+Stercorarius pomarinus,Solomon Islands,0.0486520093748309,non-breeding
+Stercorarius pomarinus,New Zealand,0.04635220700483083,non-breeding
+Stercorarius pomarinus,Vietnam,0.03884460996487095,non-breeding
+Stercorarius pomarinus,Vanuatu,0.02085003205930212,non-breeding
+Stercorarius pomarinus,Malaysia,0.019513449747899515,non-breeding
+Stercorarius pomarinus,Taiwan,0.009961334110532847,non-breeding
+Stercorarius pomarinus,India,0.007962699884377462,non-breeding
+Stercorarius pomarinus,Sri Lanka,0.007780528358493277,non-breeding
+Stercorarius pomarinus,Palau,0.007270168572820401,non-breeding
+Stercorarius pomarinus,Thailand,0.005385704480957841,non-breeding
+Stercorarius pomarinus,East Timor,0.003879456744116931,non-breeding
+Stercorarius pomarinus,Brunei,0.002302916842870366,non-breeding
+Stercorarius pomarinus,Canada,0.0019467066306319844,breeding
+Stercorarius pomarinus,Cambodia,3.21716680034662e-4,non-breeding
+Stercorarius pomarinus,Myanmar,1.6028786871676312e-6,non-breeding
+Sterna dougallii,China,0.315541778360394,breeding; non-breeding
+Sterna dougallii,Indonesia,0.29047149046078796,non-breeding; resident
+Sterna dougallii,Australia,0.2750112931162748,breeding; non-breeding; resident
+Sterna dougallii,Japan,0.2599128743458379,breeding
+Sterna dougallii,Sri Lanka,0.16045545304522402,breeding
+Sterna dougallii,Taiwan,0.13099060268886956,breeding; non-breeding
+Sterna dougallii,Papua New Guinea,0.11395729767143525,non-breeding; resident
+Sterna dougallii,Philippines,0.10872439954360906,breeding; non-breeding; resident
+Sterna dougallii,Solomon Islands,0.103624030749399,non-breeding; resident
+Sterna dougallii,France,0.08531138255647087,non-breeding; resident
+Sterna dougallii,Malaysia,0.08259482901709782,non-breeding; resident
+Sterna dougallii,Vanuatu,0.07542506099987666,non-breeding; resident
+Sterna dougallii,India,0.06975092908281924,breeding; non-breeding; resident
+Sterna dougallii,High seas (no EEZ),0.05333389927572831,breeding; non-breeding; resident
+Sterna dougallii,Micronesia,0.037085721439674084,non-breeding
+Sterna dougallii,Vietnam,0.037001763381737406,non-breeding
+Sterna dougallii,Palau,0.035680778239113635,non-breeding
+Sterna dougallii,Myanmar,0.033527184596085974,non-breeding; resident
+Sterna dougallii,Thailand,0.019547298205233325,non-breeding; resident
+Sterna dougallii,Brunei,0.005175151375822351,non-breeding; resident
+Sterna dougallii,East Timor,0.004487299492117494,non-breeding
+Sterna dougallii,Cambodia,0.002542678164030469,non-breeding
+Sterna dougallii,Singapore,3.3054441319344956e-4,resident
+Sterna hirundo,Indonesia,0.990781742889728,non-breeding; passage
+Sterna hirundo,Russia,0.6154506448948439,breeding
+Sterna hirundo,China,0.32379940670814955,breeding
+Sterna hirundo,Australia,0.23390014061094808,non-breeding; passage
+Sterna hirundo,Papua New Guinea,0.11599785288750239,non-breeding
+Sterna hirundo,France,0.07843276857754722,non-breeding
+Sterna hirundo,Philippines,0.06897766440181258,non-breeding
+Sterna hirundo,Solomon Islands,0.05806655076099533,non-breeding
+Sterna hirundo,Vanuatu,0.02860837115116197,non-breeding
+Sterna hirundo,Mongolia,0.02765905598044456,breeding
+Sterna hirundo,Malaysia,0.024028024386905048,non-breeding
+Sterna hirundo,Kazakhstan,0.015362021797333349,breeding
+Sterna hirundo,Thailand,0.013732151095607307,non-breeding
+Sterna hirundo,India,0.010608640237597047,breeding; non-breeding
+Sterna hirundo,High seas (no EEZ),0.010247932280097178,breeding; non-breeding
+Sterna hirundo,North Korea,0.009699473980203396,breeding
+Sterna hirundo,South Korea,0.007387902808144952,breeding
+Sterna hirundo,Sri Lanka,0.007000559720963582,non-breeding
+Sterna hirundo,East Timor,0.005866317255501028,non-breeding
+Sterna hirundo,Bangladesh,0.0032871740249291346,non-breeding
+Sterna hirundo,Vietnam,0.0012465472295877824,non-breeding
+Sterna hirundo,Brunei,0.0011939573007938838,non-breeding
+Sterna hirundo,Cambodia,0.0010135192661593143,non-breeding
+Sterna hirundo,Japan,3.7997391153632724e-4,breeding
+Sterna hirundo,Singapore,1.2590090967931795e-4,non-breeding
+Sterna hirundo,Palau,5.423991787921313e-5,non-breeding
+Sterna hirundo,Myanmar,8.200499411924856e-6,breeding
+Sterna paradisaea,Australia,0.9974064721911534,passage
+Sterna paradisaea,Russia,0.615818071042954,breeding
+Sterna paradisaea,United States,0.37992594186458,breeding
+Sterna paradisaea,Canada,0.0046004834596686615,breeding
+Sterna paradisaea,High seas (no EEZ),0.0015097255575610771,breeding; passage
+Sterna paradisaea,New Zealand,0.0010838022512852756,passage
+Sterna striata,Australia,1,non-breeding; passage; resident
+Sterna striata,New Zealand,0.8806485692848923,passage; resident
+Sterna striata,High seas (no EEZ),0.39994348293274573,passage; resident
+Sterna sumatrana,China,0.6990500523859957,breeding
+Sterna sumatrana,Japan,0.38158832959655825,breeding
+Sterna sumatrana,Indonesia,0.368431037184597,non-breeding; resident
+Sterna sumatrana,Taiwan,0.31000153664176505,breeding
+Sterna sumatrana,Papua New Guinea,0.19730126766115716,non-breeding; resident
+Sterna sumatrana,Australia,0.10671686414323751,non-breeding; resident
+Sterna sumatrana,France,0.10247809059041152,non-breeding; resident
+Sterna sumatrana,Solomon Islands,0.09739891274113498,non-breeding; resident
+Sterna sumatrana,Micronesia,0.08157241118978391,non-breeding; resident
+Sterna sumatrana,Philippines,0.08075225115455813,non-breeding; resident
+Sterna sumatrana,Vanuatu,0.07027622502692846,non-breeding; resident
+Sterna sumatrana,Thailand,0.06257352293552569,non-breeding; resident
+Sterna sumatrana,Malaysia,0.058144221535239966,non-breeding; resident
+Sterna sumatrana,Palau,0.04766463350695943,non-breeding
+Sterna sumatrana,High seas (no EEZ),0.04473775652176161,non-breeding; resident
+Sterna sumatrana,Myanmar,0.037555032428720464,non-breeding; resident
+Sterna sumatrana,India,0.031939875360785526,non-breeding; resident
+Sterna sumatrana,United States,0.01871314395892717,non-breeding
+Sterna sumatrana,Vietnam,0.016386868795258788,breeding; resident
+Sterna sumatrana,Cambodia,0.011133223181042328,resident
+Sterna sumatrana,Bangladesh,0.007868336338892864,non-breeding
+Sterna sumatrana,East Timor,0.0071309589491834495,non-breeding
+Sterna sumatrana,South Korea,0.006610084080042891,breeding
+Sterna sumatrana,Brunei,0.0027296225747565346,resident
+Sterna sumatrana,Singapore,3.804843902695583e-4,resident
+Sterna sumatrana,Sri Lanka,3.492681941927021e-4,non-breeding
+Sternula albifrons,United States,1,passage; resident
+Sternula albifrons,China,0.524184105102748,breeding
+Sternula albifrons,Indonesia,0.40747513383560907,non-breeding; resident
+Sternula albifrons,Philippines,0.3798419993835415,resident
+Sternula albifrons,Australia,0.2948106475528108,non-breeding; resident
+Sternula albifrons,Russia,0.20130677250598586,breeding
+Sternula albifrons,Papua New Guinea,0.152825338729895,non-breeding; resident
+Sternula albifrons,Japan,0.12681669977310284,breeding
+Sternula albifrons,Myanmar,0.07593954415063757,resident
+Sternula albifrons,Thailand,0.0695136341714399,non-breeding; resident
+Sternula albifrons,Solomon Islands,0.06782761854328062,non-breeding; resident
+Sternula albifrons,North Korea,0.052705831476074244,breeding
+Sternula albifrons,Kazakhstan,0.05233816236661245,breeding
+Sternula albifrons,South Korea,0.04268127171173602,breeding
+Sternula albifrons,Malaysia,0.04001312100775271,non-breeding; resident
+Sternula albifrons,Vietnam,0.03870515696635027,non-breeding; resident
+Sternula albifrons,Sri Lanka,0.019097263700122193,non-breeding; resident
+Sternula albifrons,France,0.018470316687613706,non-breeding
+Sternula albifrons,Bangladesh,0.012722270027336903,non-breeding; resident
+Sternula albifrons,Cambodia,0.008825501801833033,non-breeding; resident
+Sternula albifrons,East Timor,0.007009879572322905,non-breeding
+Sternula albifrons,India,0.003262574476968428,non-breeding
+Sternula albifrons,Palau,0.0015750318364886773,non-breeding
+Sternula albifrons,High seas (no EEZ),2.047597532812407e-4,breeding; non-breeding
+Sternula albifrons,Singapore,9.67319563811678e-5,non-breeding
+Sternula albifrons,Nepal,7.785909961569186e-5,non-breeding
+Sternula albifrons,Taiwan,2.783595411469932e-6,breeding
+Sternula nereis,Australia,1,breeding; non-breeding
+Sternula nereis,New Zealand,0.6710657309206501,breeding; resident
+Sternula nereis,France,0.3289342690793499,resident
+Sula dactylatra,Palau,0.40816878545496477,breeding; resident
+Sula dactylatra,United States,0.2979050447508866,breeding; resident
+Sula dactylatra,Australia,0.28569798581662975,breeding; resident
+Sula dactylatra,Indonesia,0.2106910436864283,breeding; resident
+Sula dactylatra,High seas (no EEZ),0.12891913107226438,resident
+Sula dactylatra,Japan,0.09755384144980404,resident
+Sula dactylatra,Papua New Guinea,0.09513180817061749,resident
+Sula dactylatra,France,0.05554489646942718,resident
+Sula dactylatra,Micronesia,0.05242537061908198,resident
+Sula dactylatra,Solomon Islands,0.04236701290055324,resident
+Sula dactylatra,Vanuatu,0.018172533489005493,resident
+Sula dactylatra,Philippines,0.013758150126071324,resident
+Sula dactylatra,Malaysia,0.007097378908205266,resident
+Sula dactylatra,China,0.005171062675817198,resident
+Sula dactylatra,Taiwan,0.0037451550017266085,resident
+Sula dactylatra,East Timor,0.0036193195424422168,resident
+Sula dactylatra,Vietnam,7.753827149184523e-4,resident
+Sula dactylatra,South Korea,3.091018137127608e-4,resident
+Sula dactylatra,Singapore,4.9908499352223156e-5,resident
+Sula leucogaster,Australia,0.9864015887244854,breeding; non-breeding; resident
+Sula leucogaster,Indonesia,0.23215214556097408,non-breeding
+Sula leucogaster,United States,0.13581959753207398,breeding; non-breeding; resident
+Sula leucogaster,Palau,0.1288720753921123,breeding; non-breeding; resident
+Sula leucogaster,High seas (no EEZ),0.1167822832389018,non-breeding; resident
+Sula leucogaster,Japan,0.1114557532384529,breeding; non-breeding; resident
+Sula leucogaster,Papua New Guinea,0.08008440211759249,non-breeding; resident
+Sula leucogaster,Philippines,0.07740093880353506,non-breeding
+Sula leucogaster,China,0.06620459826162897,breeding; non-breeding; resident
+Sula leucogaster,France,0.046873857585037086,non-breeding
+Sula leucogaster,Micronesia,0.042574103137714085,non-breeding; resident
+Sula leucogaster,Solomon Islands,0.035785075466433794,non-breeding
+Sula leucogaster,Vietnam,0.029813517471537647,breeding; non-breeding; resident
+Sula leucogaster,Malaysia,0.019852435210562003,non-breeding; resident
+Sula leucogaster,Taiwan,0.016190828834030595,breeding; non-breeding; resident
+Sula leucogaster,Vanuatu,0.015335849754986674,non-breeding
+Sula leucogaster,South Korea,0.011155162084814617,non-breeding; resident
+Sula leucogaster,Thailand,0.008873700550786354,non-breeding; resident
+Sula leucogaster,Cambodia,0.0061211417749474535,non-breeding; resident
+Sula leucogaster,India,0.00433391990804526,non-breeding
+Sula leucogaster,Sri Lanka,0.003180576097756295,non-breeding
+Sula leucogaster,East Timor,0.003054359876588321,non-breeding
+Sula leucogaster,Brunei,0.0017435272074661846,non-breeding
+Sula leucogaster,North Korea,9.947723840813274e-4,non-breeding
+Sula leucogaster,New Zealand,8.209737348293402e-5,non-breeding
+Sula leucogaster,Singapore,4.2148773628925045e-5,non-breeding
+Sula leucogaster,Laos,3.1314268306547415e-9,non-breeding
+Sula sula,United States,0.9999999999999997,breeding; passage; resident
+Sula sula,Palau,0.6405999551875021,breeding; resident
+Sula sula,Indonesia,0.2520553114498218,breeding; resident
+Sula sula,Australia,0.20846340598354388,breeding; resident
+Sula sula,High seas (no EEZ),0.12030141647241252,resident
+Sula sula,Papua New Guinea,0.10325677095866326,resident
+Sula sula,Philippines,0.09866958392971145,resident
+Sula sula,France,0.06069614755116787,resident
+Sula sula,Micronesia,0.05726823496723761,resident
+Sula sula,Solomon Islands,0.0463179294848275,resident
+Sula sula,Malaysia,0.02182967203998249,resident
+Sula sula,Japan,0.021016889727754607,resident
+Sula sula,Vietnam,0.020350788519829965,resident
+Sula sula,Vanuatu,0.019873179684295503,resident
+Sula sula,China,0.01631475967574836,resident
+Sula sula,East Timor,0.0033756338523401193,resident
+Sula sula,Brunei,0.00219243899980932,resident
+Sula sula,Taiwan,0.001081157640302435,resident
+Sula sula,Singapore,5.4553098322132063e-5,resident
+Synthliboramphus antiquus,United States,0.650533474487021,breeding; non-breeding; resident
+Synthliboramphus antiquus,Japan,0.42376755019247736,breeding; non-breeding; resident
+Synthliboramphus antiquus,Russia,0.3252739507257436,breeding; non-breeding; resident
+Synthliboramphus antiquus,China,0.27307585929153966,non-breeding; resident
+Synthliboramphus antiquus,South Korea,0.1468675017825584,non-breeding; resident
+Synthliboramphus antiquus,North Korea,0.041261890018913346,non-breeding
+Synthliboramphus antiquus,High seas (no EEZ),0.024192542002774778,breeding; non-breeding
+Synthliboramphus antiquus,Taiwan,0.016247405167158748,non-breeding
+Synthliboramphus wumizusume,Japan,0.978910768429358,breeding; non-breeding; resident
+Synthliboramphus wumizusume,Russia,0.4194785012429114,non-breeding
+Synthliboramphus wumizusume,South Korea,0.07912942211913217,breeding; resident
+Tadorna tadorna,China,0.7655509077872937,breeding; non-breeding
+Tadorna tadorna,Russia,0.45265801623369506,breeding
+Tadorna tadorna,Mongolia,0.40266595372600067,breeding
+Tadorna tadorna,South Korea,0.11327588339213317,non-breeding
+Tadorna tadorna,Bangladesh,0.09144785964676151,non-breeding
+Tadorna tadorna,Kazakhstan,0.0660755739971823,breeding
+Tadorna tadorna,India,0.022285950322803005,non-breeding
+Tadorna tadorna,Nepal,0.007238767197616433,non-breeding
+Tadorna tadorna,North Korea,2.2928284179645113e-4,non-breeding
+Thalasseus bengalensis,Indonesia,0.5880453888120322,non-breeding; resident
+Thalasseus bengalensis,Australia,0.36143481295704916,non-breeding; resident
+Thalasseus bengalensis,Papua New Guinea,0.1141578557590752,non-breeding; resident
+Thalasseus bengalensis,India,0.0953579338747259,non-breeding; resident
+Thalasseus bengalensis,High seas (no EEZ),0.06952141760609519,non-breeding
+Thalasseus bengalensis,Myanmar,0.04572981151243125,non-breeding
+Thalasseus bengalensis,Malaysia,0.03250391606558291,non-breeding
+Thalasseus bengalensis,Sri Lanka,0.027220333789850358,non-breeding
+Thalasseus bengalensis,Thailand,0.027021072831383726,non-breeding
+Thalasseus bengalensis,Vietnam,0.02664742771533852,non-breeding
+Thalasseus bengalensis,Bangladesh,0.010155181721870672,non-breeding; resident
+Thalasseus bengalensis,East Timor,0.0070472325309137804,non-breeding
+Thalasseus bengalensis,Solomon Islands,0.0057457391716990965,non-breeding
+Thalasseus bengalensis,Cambodia,0.004424581616999521,non-breeding
+Thalasseus bengalensis,Philippines,0.004308998617915551,non-breeding
+Thalasseus bengalensis,Brunei,0.0015512701727930936,non-breeding
+Thalasseus bengalensis,Singapore,1.512138445008064e-4,non-breeding
+Thalasseus bengalensis,China,1.3909340134015908e-5,non-breeding
+Thalasseus bergii,Indonesia,0.25240035134958466,resident
+Thalasseus bergii,Australia,0.23061132359624725,resident
+Thalasseus bergii,Papua New Guinea,0.09006620982539233,resident
+Thalasseus bergii,Philippines,0.0680987858667985,resident
+Thalasseus bergii,China,0.05578917960784321,resident
+Thalasseus bergii,Micronesia,0.04405177375547598,resident
+Thalasseus bergii,France,0.04337884782835545,resident
+Thalasseus bergii,High seas (no EEZ),0.04217851894791737,resident
+Thalasseus bergii,Solomon Islands,0.04014363335235488,resident
+Thalasseus bergii,Vietnam,0.0331676002010688,resident
+Thalasseus bergii,Malaysia,0.022832090685861076,resident
+Thalasseus bergii,Palau,0.020675529268715433,resident
+Thalasseus bergii,Taiwan,0.017394131503641858,resident
+Thalasseus bergii,Vanuatu,0.017265142458567587,resident
+Thalasseus bergii,Japan,0.011702732473531555,resident
+Thalasseus bergii,Thailand,0.010595602678103668,resident
+Thalasseus bergii,East Timor,0.003426270222320855,resident
+Thalasseus bergii,Myanmar,0.0033857902798731187,resident
+Thalasseus bergii,Sri Lanka,0.0033399288195522024,resident
+Thalasseus bergii,United States,0.0022783384127119037,resident
+Thalasseus bergii,Cambodia,0.00215108437153796,resident
+Thalasseus bergii,Brunei,0.0019001837348376679,resident
+Thalasseus bergii,India,0.001536568018256043,resident
+Thalasseus bergii,Bangladesh,8.069401780174562e-4,resident
+Thalasseus bergii,Singapore,4.727271488335519e-5,resident
+Thalasseus bernsteini,China,0.6119878208979463,breeding
+Thalasseus bernsteini,South Korea,0.38801217910205354,breeding
+Thalasseus bernsteini,Taiwan,0.0017990655909542158,breeding
+Tringa brevipes,Russia,1,breeding; passage
+Tringa brevipes,Indonesia,0.4106169857697656,non-breeding; passage
+Tringa brevipes,Australia,0.21981852735057886,non-breeding; passage
+Tringa brevipes,China,0.14811457364915998,non-breeding; passage
+Tringa brevipes,Philippines,0.13407475597883586,non-breeding; passage
+Tringa brevipes,Papua New Guinea,0.0937415059172793,non-breeding; passage
+Tringa brevipes,Japan,0.06311193258055926,passage
+Tringa brevipes,High seas (no EEZ),0.06127095807258108,non-breeding; passage
+Tringa brevipes,Malaysia,0.039669275016157086,non-breeding; passage
+Tringa brevipes,Solomon Islands,0.03331652663135556,non-breeding; passage
+Tringa brevipes,Mongolia,0.023899684969231203,passage
+Tringa brevipes,France,0.017964594463907774,non-breeding; passage
+Tringa brevipes,Micronesia,0.017027853693000573,non-breeding; passage
+Tringa brevipes,Vietnam,0.016479721467755372,passage
+Tringa brevipes,Myanmar,0.01639216726911858,passage
+Tringa brevipes,Vanuatu,0.016113593051559984,non-breeding; passage
+Tringa brevipes,Thailand,0.015714453424593006,non-breeding; passage
+Tringa brevipes,United States,0.013972761089569503,passage
+Tringa brevipes,Palau,0.009340779131356591,non-breeding; passage
+Tringa brevipes,Taiwan,0.008776122173497871,non-breeding; passage
+Tringa brevipes,South Korea,0.008129689622271697,passage
+Tringa brevipes,India,0.007818678679951072,passage
+Tringa brevipes,East Timor,0.004693573797200696,non-breeding; passage
+Tringa brevipes,North Korea,0.003616345626820544,passage
+Tringa brevipes,Cambodia,0.0035139082434925413,passage
+Tringa brevipes,Laos,0.0035083135810807316,passage
+Tringa brevipes,Kazakhstan,0.003094709664998863,passage
+Tringa brevipes,New Zealand,0.0015313945522673086,passage
+Tringa brevipes,Brunei,0.0011298463503125404,non-breeding; passage
+Tringa brevipes,Bangladesh,9.395112093079265e-4,passage
+Tringa brevipes,Singapore,6.291869104526491e-4,non-breeding; passage
+Tringa brevipes,Bhutan,2.827191124824147e-4,passage
+Tringa erythropus,Russia,0.9997919256024818,breeding
+Tringa erythropus,India,0.24495389430347575,non-breeding
+Tringa erythropus,China,0.1968779264743025,non-breeding
+Tringa erythropus,Thailand,0.15554596660762748,non-breeding
+Tringa erythropus,Vietnam,0.15314924747854758,non-breeding
+Tringa erythropus,Myanmar,0.10682704919248011,non-breeding
+Tringa erythropus,Malaysia,0.09903613062728768,non-breeding
+Tringa erythropus,Taiwan,0.03404341572537607,non-breeding
+Tringa erythropus,Sri Lanka,0.022781522064560886,non-breeding
+Tringa erythropus,Cambodia,0.020707768687072133,non-breeding
+Tringa erythropus,High seas (no EEZ),2.0807439751829214e-4,breeding; non-breeding
+Tringa erythropus,Laos,1.208614073391954e-4,non-breeding
+Tringa erythropus,Singapore,3.92682625242691e-9,non-breeding
+Tringa guttifer,Russia,1,breeding
+Tringa guttifer,China,0.5160042431736489,non-breeding; passage
+Tringa guttifer,South Korea,0.4375831650361465,passage
+Tringa guttifer,Myanmar,0.2482854254637423,non-breeding
+Tringa guttifer,Indonesia,0.15918436388080429,non-breeding
+Tringa guttifer,Malaysia,0.12149934067402522,non-breeding
+Tringa guttifer,Bangladesh,0.11638008318496261,non-breeding
+Tringa guttifer,Thailand,0.11450679890406151,non-breeding
+Tringa guttifer,Vietnam,0.08266558935020686,non-breeding
+Tringa guttifer,India,0.04195281931240265,non-breeding
+Tringa guttifer,North Korea,0.027644290229130307,passage
+Tringa guttifer,Japan,0.01876700562324451,passage
+Tringa guttifer,Cambodia,0.016632345389908966,non-breeding
+Tringa guttifer,Brunei,0.011565055022588214,non-breeding
+Tringa guttifer,Taiwan,0.008106129074025617,non-breeding
+Tringa guttifer,Philippines,0.003683519620284759,non-breeding
+Tringa incana,United States,1,breeding; non-breeding; passage
+Tringa incana,Australia,0.4627801427514184,non-breeding
+Tringa incana,Papua New Guinea,0.33262219362614537,non-breeding
+Tringa incana,Russia,0.19354249106434615,breeding
+Tringa incana,Solomon Islands,0.09538695088494373,non-breeding
+Tringa incana,France,0.06293931860782001,non-breeding
+Tringa incana,Vanuatu,0.040660412468655066,non-breeding
+Tringa incana,Canada,0.018109219114416736,breeding
+Tringa incana,Palau,0.0015194612874811857,non-breeding
+Tringa incana,High seas (no EEZ),0.0010812657993670342,breeding
+Tringa incana,New Zealand,7.738244376475005e-4,non-breeding
+Tringa incana,Micronesia,3.5242188523949483e-4,non-breeding
+Tringa nebularia,Papua New Guinea,1,non-breeding; passage
+Tringa nebularia,Russia,0.987700255494544,breeding
+Tringa nebularia,Australia,0.3181837244848645,non-breeding
+Tringa nebularia,China,0.17545365454593578,breeding; non-breeding
+Tringa nebularia,Indonesia,0.15326532067563697,non-breeding
+Tringa nebularia,India,0.0708932096975199,non-breeding
+Tringa nebularia,Myanmar,0.06396231505649347,non-breeding
+Tringa nebularia,Thailand,0.05089220897675108,non-breeding
+Tringa nebularia,Malaysia,0.0324803631112749,non-breeding
+Tringa nebularia,Vietnam,0.032451198895228,non-breeding
+Tringa nebularia,Philippines,0.028868124065439902,non-breeding
+Tringa nebularia,Laos,0.02269459002258657,non-breeding
+Tringa nebularia,Cambodia,0.01792140248370272,non-breeding
+Tringa nebularia,Bangladesh,0.013539313200669313,non-breeding
+Tringa nebularia,Taiwan,0.00356902134137344,non-breeding
+Tringa nebularia,Sri Lanka,0.0034784479775171137,non-breeding
+Tringa nebularia,New Zealand,0.003272574605366944,non-breeding
+Tringa nebularia,Solomon Islands,0.002751078810104375,non-breeding
+Tringa nebularia,Kazakhstan,0.00197792110989365,breeding
+Tringa nebularia,Brunei,4.537070990729668e-4,non-breeding
+Tringa nebularia,Nepal,3.2649067741218686e-4,non-breeding
+Tringa nebularia,United States,5.5121407631756505e-5,non-breeding
+Tringa nebularia,Palau,4.511693619862531e-5,non-breeding
+Tringa nebularia,Bhutan,2.9903795063343844e-5,non-breeding
+Tringa nebularia,Micronesia,1.0468763391566422e-5,non-breeding
+Tringa nebularia,Singapore,2.042832402719989e-7,non-breeding
+Tringa nebularia,High seas (no EEZ),6.381520107061459e-8,non-breeding
+Tringa stagnatilis,Russia,0.7445293335600672,breeding
+Tringa stagnatilis,Australia,0.6718244691381132,non-breeding; passage
+Tringa stagnatilis,Papua New Guinea,0.38649441910463345,non-breeding; passage
+Tringa stagnatilis,United States,0.3486428655800495,passage
+Tringa stagnatilis,Palau,0.19904618381352626,passage
+Tringa stagnatilis,China,0.19869794453901093,breeding; non-breeding
+Tringa stagnatilis,India,0.06598583275218223,non-breeding
+Tringa stagnatilis,Thailand,0.0526496892173139,non-breeding
+Tringa stagnatilis,Myanmar,0.04775574039025389,non-breeding
+Tringa stagnatilis,Micronesia,0.04612025505435683,passage
+Tringa stagnatilis,Indonesia,0.04251100331275045,non-breeding
+Tringa stagnatilis,Mongolia,0.03380758327324476,breeding
+Tringa stagnatilis,Kazakhstan,0.0231447888925739,breeding
+Tringa stagnatilis,Malaysia,0.02268827245262199,non-breeding
+Tringa stagnatilis,Philippines,0.021698226474957956,non-breeding
+Tringa stagnatilis,Cambodia,0.020488403743826978,non-breeding
+Tringa stagnatilis,Bangladesh,0.01705528177067264,non-breeding
+Tringa stagnatilis,Vietnam,0.015941644189191695,non-breeding
+Tringa stagnatilis,Taiwan,0.00783232444646655,non-breeding
+Tringa stagnatilis,Sri Lanka,0.0031818956849272865,non-breeding
+Tringa stagnatilis,Nepal,7.405588961794984e-4,non-breeding
+Tringa stagnatilis,Bhutan,9.370429289241333e-6,non-breeding
+Tringa stagnatilis,High seas (no EEZ),1.409637371472176e-7,non-breeding
+Tringa totanus,China,0.5750664368035421,breeding; non-breeding; passage
+Tringa totanus,Russia,0.2859418658885839,breeding; passage
+Tringa totanus,Indonesia,0.18906387091255594,non-breeding
+Tringa totanus,India,0.1558798288345827,breeding; non-breeding; passage
+Tringa totanus,Myanmar,0.13228216017551436,breeding; non-breeding; passage
+Tringa totanus,Thailand,0.10846302594212505,non-breeding; passage
+Tringa totanus,Mongolia,0.09023435789899593,breeding
+Tringa totanus,Philippines,0.07730975189689598,non-breeding
+Tringa totanus,Laos,0.05857310550096499,non-breeding; passage
+Tringa totanus,Japan,0.05279095038545887,breeding; non-breeding; passage
+Tringa totanus,Vietnam,0.05147197696543975,non-breeding; passage
+Tringa totanus,Cambodia,0.04086188268900791,non-breeding; passage
+Tringa totanus,Malaysia,0.03744550961947771,non-breeding; passage
+Tringa totanus,Bangladesh,0.03408519621362512,non-breeding; passage
+Tringa totanus,Kazakhstan,0.03195134456859994,breeding
+Tringa totanus,North Korea,0.03161019331822382,passage
+Tringa totanus,South Korea,0.02559828206154298,passage
+Tringa totanus,Australia,0.025291773267485263,non-breeding
+Tringa totanus,Sri Lanka,0.012358223622346103,non-breeding
+Tringa totanus,Taiwan,0.009436492644582304,non-breeding
+Tringa totanus,Bhutan,0.004317700662935589,breeding; passage
+Tringa totanus,East Timor,0.0038393165394287184,non-breeding
+Tringa totanus,Nepal,0.002303881600343759,breeding; non-breeding; passage
+Tringa totanus,Brunei,0.0010574776093322435,non-breeding
+Tringa totanus,Singapore,1.5509145054919864e-4,non-breeding
+Tringa totanus,High seas (no EEZ),1.8061146070497584e-7,non-breeding; passage
+Uria aalge,Russia,0.7236132784988298,breeding; non-breeding; resident
+Uria aalge,United States,0.694503509559949,breeding; non-breeding; resident
+Uria aalge,Japan,0.2822336934296067,non-breeding; resident
+Uria aalge,High seas (no EEZ),0.04644212523872956,non-breeding; resident
+Uria aalge,South Korea,0.02912922273649173,non-breeding
+Uria aalge,North Korea,0.022854733724786268,non-breeding
+Uria lomvia,Russia,0.8389197839136336,breeding; resident
+Uria lomvia,United States,0.7256741345012507,breeding; resident
+Uria lomvia,High seas (no EEZ),0.013794521216294342,breeding; resident
+Urile pelagicus,Russia,0.999748929120803,breeding; non-breeding; passage; resident
+Urile pelagicus,United States,0.6820009603414063,non-breeding; passage; resident
+Urile pelagicus,Japan,0.43398190201696896,breeding; non-breeding; passage; resident
+Urile pelagicus,China,0.21879186020287122,non-breeding; passage; resident
+Urile pelagicus,South Korea,0.13397614171902955,non-breeding; passage
+Urile pelagicus,North Korea,0.052218251631947835,non-breeding; passage
+Urile pelagicus,Taiwan,0.019624646694624673,non-breeding; passage
+Urile pelagicus,High seas (no EEZ),0.016052698285789934,breeding; non-breeding; passage; resident
+Xenus cinereus,Russia,0.9954037121824985,breeding
+Xenus cinereus,United States,0.5868061448553554,passage
+Xenus cinereus,Indonesia,0.42793175820608864,non-breeding
+Xenus cinereus,Palau,0.3353463980568923,passage
+Xenus cinereus,Australia,0.23891519109472995,non-breeding
+Xenus cinereus,Thailand,0.08353289129859517,non-breeding
+Xenus cinereus,Micronesia,0.07784745708775213,passage
+Xenus cinereus,Malaysia,0.07268726950040835,non-breeding
+Xenus cinereus,Vietnam,0.039114628888633145,non-breeding
+Xenus cinereus,Myanmar,0.03889911127817263,non-breeding
+Xenus cinereus,India,0.028239724066636978,non-breeding
+Xenus cinereus,Papua New Guinea,0.020044945979170163,non-breeding
+Xenus cinereus,Cambodia,0.01919156480154874,non-breeding
+Xenus cinereus,Sri Lanka,0.018472492558044135,non-breeding
+Xenus cinereus,Bangladesh,0.012156553978517599,non-breeding
+Xenus cinereus,Kazakhstan,0.004604284706847104,breeding
+Xenus cinereus,New Zealand,4.702117109119165e-4,non-breeding
+Xenus cinereus,Solomon Islands,3.107206328274389e-4,non-breeding
+Xenus cinereus,High seas (no EEZ),1.5493573883094023e-5,non-breeding
+Xenus cinereus,China,2.7458673158625954e-6,breeding
+Xenus cinereus,Singapore,3.1527275682327587e-9,non-breeding
