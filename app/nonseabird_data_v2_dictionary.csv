@@ -1,0 +1,39 @@
+column,group,description,source_column_in_sheet
+common_name,id,Common name,Common Name
+scientific_name,id,Scientific name as in the data sheet,Scientific Name
+iucn_category,status,"IUCN Red List category (CR, EN, VU, NT, LC, DD)",IUCNRedListCategory
+pop_size_text,status,Population size as written in the sheet,Population size
+pop_size_min,status,Lower bound parsed from pop_size_text,Population size
+pop_size_max,status,Upper bound parsed from pop_size_text,Population size
+population_trend,status,"IUCN population trend: Decreasing, Stable, Increasing, Unknown",Population trend
+renewable_energy_threat,status,TRUE if IUCN lists renewable energy as an ongoing threat; else FALSE,IUCN Red List Threats: Renewable Energy
+adult_survival,status,Annual adult survival (proportion),"Adult survival rate (Bird et al., 2020)"
+generation_length_yr,status,Generation length (years),"Generation length (Bird et al., 2020)"
+range_size,status,Range size (km2),Range size (km2)
+habitat_breadth,status,BirdBase habitat breadth (count),BIRDBASE Habitat Breadth (sum of different number of habitats used)
+migration,status,"Migratory status score, 1-3 (from the sheet)",Migratory
+seasons_mapped,exposure,Seasons with an included range polygon inside the EAAF,Seasons mapped (EAAF)
+seasons_mapped_global,exposure,Seasons with an included range polygon anywhere (not clipped to the EAAF); a measure of range-map completeness,Seasons mapped (global)
+overlap_overall,exposure,Overall overlap with wind areas (proportion of range),Overall overlap with wind areas
+overlap_breeding,exposure,Breeding-season overlap with wind areas,Breeding overlap
+overlap_nonbreeding,exposure,Non-breeding-season overlap with wind areas,Non-breeding overlap
+overlap_passage,exposure,Passage overlap with wind areas,Passage overlap
+overlap_resident,exposure,Resident overlap with wind areas,Resident overlap
+mass_g,morphology,Body mass (g); used for the optional size correction of flight initiation distance,Mass (g)
+kipps_distance,morphology,Kipp's distance (from the sheet),kipps distance
+thaxter_pred,collision,"Thaxter et al. 2017 predicted collision vulnerability (collisions per turbine per year, onshore data)",Thaxter 2017 Predicted
+thaxter_lower,collision,Thaxter et al. 2017 lower 95% interval,Thaxter 2017 Lower
+thaxter_upper,collision,Thaxter et al. 2017 upper 95% interval,Thaxter 2017 Upper
+pcrh,collision,"Proportion at collision risk height (Woodward et al. 2023 Table 6; 0.25/0.5/1, 1 = assumed where no data)",Proportion at Collision Risk Height from Woodward et al 2023
+avoidance_rate,collision,"Avoidance rate (Woodward et al. 2023 Table 6; group-level, from onshore data)",Avoidance rate from Woodward et al. 2023
+fid_m,disturbance,Flight initiation distance (m); many values are shared across species (proxy values),Flight initiation distance (m)
+coastal_habitat,disturbance,"1 = BirdBase lists Sea coast (C: coast, mangrove, estuary, bays, shores, coastal dune) among the species' habitats, 0 = not; binary",BirdBase v2025.1 column C (present/absent)
+coastal_rank,disturbance,BirdBase preference rank of coastal habitat among the species' habitats (1 = most preferred); blank if coastal habitat is not used,BirdBase v2025.1 column C
+habitats_used_birdbase,disturbance,BirdBase habitat breadth: number of major habitats the species uses,BirdBase v2025.1 column HB
+coastal_pref,disturbance,"Rank-weighted coastal preference, 0-1: (n - rank + 1) / n, where n = habitats used and rank = coastal rank; 0 if coastal habitat is not used",derived: coastal_rank and habitats_used_birdbase
+coastal_habitat_lit,disturbance,"Previous hand-compiled binary coastal habitat flag (literature review); kept for reference, no longer used by the app",Coastal  Habitat Used (earlier sheet)
+macro_avoidance,disturbance,Wind farm macro-avoidance (only 1 species has a value),Wind Farm Macro avoidance
+family,taxonomy,"Family, assigned by genus (not in the source sheet); used to group the boxplot",added
+tax_index,taxonomy,"Plotting order (family order, then scientific name)",added
+data_complete_thaxter,flag,"TRUE if exposure, IUCN, Thaxter prediction, FID and coastal habitat are all present (informational; the app works out data limitation itself)",added
+data_complete_pcrh,flag,"TRUE if exposure, IUCN, proportion at risk height, avoidance rate, FID and coastal habitat are all present (informational)",added

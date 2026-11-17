@@ -109,8 +109,14 @@ build_collision_ns <- function(data, option = c("thaxter", "pcrh"), D = 1) {
 #' b (floor_b) = 0 is a pure gate: species not known to use coastal habitat get 0. b > 0 softens that.
 #' size_correct = TRUE replaces log(FID) by its residual from log(FID) ~ log(body mass), because FID
 #' scales with body size (r about 0.7 in the sheet).
-build_displacement_ns <- function(data, size_correct = FALSE, floor_b = 0, D = 1) {
-  fid <- num(data, "fid_m"); h <- num(data, "coastal_habitat")
+#' habitat_weight picks H: "rank" (default) = coastal_pref, the BirdBase rank-weighted coastal preference
+#'   (n - rank + 1) / n, where n = number of habitats the species uses and rank = position of coastal habitat among them
+#'   (1 = most preferred; 0 if coastal habitat is not used), so a species that ranks coast first scores 1 and one that lists it
+#'   last scores 1/n; "binary" = coastal_habitat, 1 if coastal habitat is used at all, else 0 (the earlier version).
+build_displacement_ns <- function(data, size_correct = FALSE, floor_b = 0, D = 1, habitat_weight = "rank") {
+  if (!"coastal_pref" %in% names(data)) habitat_weight <- "binary"   # older data files have no rank information
+  fid <- num(data, "fid_m")
+  h <- if (identical(habitat_weight, "binary")) num(data, "coastal_habitat") else num(data, "coastal_pref")
   x <- log(fid)
   if (size_correct) {
     lm_ <- log(num(data, "mass_g")); ok <- is.finite(x) & is.finite(lm_)
@@ -126,7 +132,8 @@ build_inputs <- function(data, opts) {
     return(list(
       exposure = build_exposure(data, opts$exp_transform),
       collision = build_collision_ns(data, opts$coll_option),
-      displacement = build_displacement_ns(data, isTRUE(opts$fid_size_correct), opts$fid_floor),
+      displacement = build_displacement_ns(data, isTRUE(opts$fid_size_correct), opts$fid_floor,
+                                           habitat_weight = if (is.null(opts$coastal_weight)) "rank" else opts$coastal_weight),
       status = build_status(data)))
   list(
     exposure = build_exposure(data, opts$exp_transform),
@@ -180,8 +187,11 @@ missing_inputs <- function(data, opts) {
     if (need_cv) parts <- c(parts, if (opts$coll_option == "thaxter") list(flag(na_("thaxter_pred"), "thaxter_pred"))
                                    else list(flag(na_("pcrh"), "proportion at collision risk height"),
                                              flag(na_("avoidance_rate"), "avoidance_rate")))
+    # which coastal column is needed depends on the habitat weighting chosen (old data files only have the binary one)
+    use_binary <- identical(opts$coastal_weight, "binary") || !"coastal_pref" %in% names(data)
+    coast_col <- if (use_binary) "coastal_habitat" else "coastal_pref"
     if (need_dv) parts <- c(parts, list(flag(na_("fid_m"), "flight initiation distance"),
-                                        flag(na_("coastal_habitat"), "coastal_habitat")),
+                                        flag(na_(coast_col), if (use_binary) "coastal_habitat" else "coastal habitat preference (BirdBase)")),
                             if (isTRUE(opts$fid_size_correct)) list(flag(na_("mass_g"), "mass_g")))
     m <- do.call(cbind, parts)
     return(apply(m, 1, function(r) paste(r[!is.na(r)], collapse = "; ")))
@@ -243,6 +253,7 @@ run_priority <- function(data, opts) {
   res$fa <- colnum("fa"); res$rszt <- colnum("rszt"); res$ma <- colnum("ma")
   res$thaxter <- colnum("thaxter_pred"); res$pcrh <- colnum("pcrh"); res$avoid <- colnum("avoidance_rate")
   res$fid_m <- colnum("fid_m"); res$coastal <- colnum("coastal_habitat")
+  res$coastal_rank <- colnum("coastal_rank"); res$habitats_n <- colnum("habitats_used_birdbase"); res$coastal_pref <- colnum("coastal_pref")
   # one-line descriptions of the raw collision / displacement inputs, used in hover text
   sg <- function(x, n = 3) signif(x, n)
   if (identical(opts$group, "nonseabird")) {
@@ -250,8 +261,12 @@ run_priority <- function(data, opts) {
     res$coll_detail <- if (opts$coll_option == "thaxter")
       paste0("Thaxter predicted ", sg(res$thaxter), " (", sg(colnum("thaxter_lower")), " to ", sg(colnum("thaxter_upper")), ")")
       else paste0("proportion at risk height ", sg(res$pcrh), ", avoidance rate ", sg(res$avoid, 4))
-    res$disp_detail <- paste0("flight initiation distance ", sg(res$fid_m), " m, coastal habitat used: ",
-                              ifelse(is.na(res$coastal), "NA", ifelse(res$coastal == 1, "yes", "no")))
+    use_binary <- identical(opts$coastal_weight, "binary") || !"coastal_pref" %in% names(data)
+    coast_txt <- if (use_binary) paste0("coastal habitat used: ", ifelse(is.na(res$coastal), "NA", ifelse(res$coastal == 1, "yes", "no")))
+      else ifelse(is.na(res$coastal_pref), "coastal habitat: NA",
+           ifelse(res$coastal == 1, paste0("coastal habitat ranked ", res$coastal_rank, " of ", res$habitats_n, " (weight ", sg(res$coastal_pref), ")"),
+                  "coastal habitat: not used"))
+    res$disp_detail <- paste0("flight initiation distance ", sg(res$fid_m), " m, ", coast_txt)
   } else {
     res$disp_name <- "displacement"
     res$coll_detail <- paste0("FA ", sg(res$fa), ", RSZt ", sg(res$rszt), ", MA ", sg(res$ma))

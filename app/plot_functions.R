@@ -110,7 +110,29 @@ make_vuln_scatter_plotly <- function(d) {
 # With point estimates (D = 1) every box collapses to a line, so the median is also drawn as a point
 # (the point carries the hover text). interactive = TRUE: plotly, zoom on the x axis (drag a box, or use the
 # slider under the axis; double-click resets) and hover shows the same values as the scatter.
-make_boxplot_tax <- function(res, interactive = FALSE) {
+# ---- Family colours --------------------------------------------------------------------------------------
+# One fixed colour per family, shared by both datasets. Seabird families run along the original navy -> teal -> olive ->
+# gold -> peach -> pink -> lavender ramp (stretched to as many colours as there are seabird families, so none repeat).
+# The three families that are in both datasets (Anatidae, Laridae, Scolopacidae) therefore keep their seabird colour on the
+# non-seabird tab. Families that only occur in the non-seabird data get their own colours, chosen to be distinct from the
+# ramp and from each other and to sit with the sandstone theme (blues, greens, orange, red and warm greys).
+seabird_families <- c("Anatidae", "Podicipedidae", "Gaviidae", "Oceanitidae", "Hydrobatidae", "Diomedeidae", "Procellariidae",
+                      "Sulidae", "Phalacrocoracidae", "Laridae", "Stercorariidae", "Phaethontidae", "Fregatidae",
+                      "Scolopacidae", "Alcidae")
+seabird_ramp <- c("#001959", "#0E395E", "#165061", "#27635F", "#47704F", "#6C7B3B",
+                  "#97882C", "#C49138", "#EA995E", "#FBA894", "#FCB9C6", "#F9CCF9")
+nonseabird_only_pal <- c(Cuculidae = "#8E8C84", Apodidae = "#7B4FA3", Gruidae = "#29ABE0", Haematopodidae = "#D9534F",
+                         Recurvirostridae = "#F47C3C", Charadriidae = "#93C54B", Ardeidae = "#8B5A2B",
+                         Threskiornithidae = "#C2185B", Pandionidae = "#1FA187", Accipitridae = "#3E3F3A",
+                         Psittaculidae = "#4C6EF5")
+family_palette <- c(setNames(grDevices::colorRampPalette(seabird_ramp)(length(seabird_families)), seabird_families),
+                    nonseabird_only_pal)
+
+# x_axis: "species" labels every point with its common name (old behaviour); "family" labels the x axis once per family,
+# centred under that family's run of points, for spotting broad taxonomic patterns. Works for both the static and the
+# interactive plot; the interactive one still shows the species and its metrics on hover.
+make_boxplot_tax <- function(res, interactive = FALSE, x_axis = c("species", "family")) {
+  x_axis <- match.arg(x_axis)
   dr <- attr(res, "priority_draws")
   q <- function(p) apply(dr, 1, stats::quantile, p, na.rm = TRUE, names = FALSE)
   stats_df <- data.frame(scientific_name = rownames(dr), ymin = q(.025), lower = q(.25),
@@ -121,40 +143,52 @@ make_boxplot_tax <- function(res, interactive = FALSE) {
     arrange(tax_index) %>%
     mutate(hover = hover_text(.), x_pos = row_number())
 
-  fam_order <- unique(d$family)
-  pal <- c("#001959", "#0E395E", "#165061", "#27635F", "#47704F", "#6C7B3B",
-           "#97882C", "#C49138", "#EA995E", "#FBA894", "#FCB9C6", "#F9CCF9")
-  pal <- setNames(pal[round(seq(1, length(pal), length.out = length(fam_order)))], fam_order)
-  if (interactive) return(make_boxplot_plotly(d, fam_order, pal))
+  fam_order <- unique(d$family)   # families with at least one ranked species, in taxonomic order (used for axis and legend)
+  # Colours are assigned across ALL families in the dataset (ranked or data limited), not just the ones plotted, so a family
+  # keeps the same colour when a setting moves whole families onto the Data limited tab.
+  # was: pal built from fam_order only, so colours shifted whenever a family dropped out.
+  fam_all <- unique(as.character(res$family[order(res$tax_index)]))
+  fam_all <- fam_all[!is.na(fam_all)]
+  # was: the 12-colour ramp thinned with pal[round(seq(1, 12, length.out = n_families))], which repeats colours once
+  # there are more than 12 families (15 seabird, 14 non-seabird families). Now one fixed colour per family (family_palette).
+  pal <- setNames(family_palette[fam_all], fam_all)
+  if (anyNA(pal)) pal[is.na(pal)] <- grDevices::hcl.colors(sum(is.na(pal)), "Dark 3")   # a family not in family_palette
+  if (interactive) return(make_boxplot_plotly(d, fam_order, pal, x_axis))
 
-  d <- d %>% mutate(common_name = factor(common_name, levels = common_name))
+  # was: d <- d %>% mutate(common_name = factor(common_name, levels = common_name)) with x = common_name (discrete axis).
+  # Now x is numeric (x_pos) in both modes so the axis can carry either species names or family names.
   d$family <- factor(d$family, levels = fam_order)
+  fam_centre <- tapply(d$x_pos, as.character(d$family), mean)[fam_order]
+  x_scale <- if (x_axis == "family") scale_x_continuous(breaks = unname(fam_centre), labels = fam_order, expand = c(0.01, 0.01))
+             else scale_x_continuous(breaks = d$x_pos, labels = as.character(d$common_name), expand = c(0.01, 0.01))
   rects <- d %>% mutate(x_start = x_pos - 0.5, x_end = x_pos + 0.5,
                         ymin_r = min(ymin, na.rm = TRUE) / 1.2, ymax_r = max(ymax, na.rm = TRUE) * 1.2)
 
-  ggplot(d, aes(x = common_name)) +
+  ggplot(d, aes(x = x_pos, group = x_pos)) +
     geom_rect(data = rects, aes(xmin = x_start, xmax = x_end, ymin = ymin_r, ymax = ymax_r, fill = family),
               inherit.aes = FALSE, alpha = 0.4, color = NA) +
     geom_boxplot(aes(ymin = ymin, lower = lower, middle = middle, upper = upper, ymax = ymax, fill = family),
                  stat = "identity", show.legend = FALSE) +
     geom_point(aes(y = middle), size = 1.5) +
     scale_y_log10() +
-    scale_x_discrete() +
+    x_scale +
     scale_fill_manual(values = pal, limits = fam_order) +
     guides(fill = guide_legend(ncol = 3)) +
-    labs(x = "Species", y = "Priority score", fill = "Family") +
+    labs(x = if (x_axis == "family") "Family" else "Species", y = "Priority score", fill = "Family") +
     theme_classic() +
     theme(axis.title = element_text(size = 15), axis.text = element_text(size = 12),
           axis.title.x = element_text(face = "bold", margin = margin(t = 15)),
           axis.title.y = element_text(face = "bold"),
           # was size 12 (default from axis.text), labels overlapped; smaller now
-          axis.text.x = element_text(angle = 90, hjust = 1, vjust = 0.5, size = 7),
-          legend.position = "bottom", legend.title = element_text(size = 15),
+          axis.text.x = if (x_axis == "family") element_text(angle = 45, hjust = 1, size = 11)
+                        else element_text(angle = 90, hjust = 1, vjust = 0.5, size = 7),
+          legend.position = if (x_axis == "family") "none" else "bottom", legend.title = element_text(size = 15),
           legend.text = element_text(size = 12))
 }
 
-make_boxplot_plotly <- function(d, fam_order, pal) {
+make_boxplot_plotly <- function(d, fam_order, pal, x_axis = "species") {
   p <- plotly::plot_ly()
+  fam_centre <- tapply(d$x_pos, as.character(d$family), mean)[fam_order]   # middle of each family's run of points
   for (f in fam_order) {
     df <- d[d$family == f, ]; col <- pal[[f]]
     # was: a plotly box trace from the precomputed quantiles. plotly R guessed horizontal boxes (x given, no y) and
@@ -186,15 +220,20 @@ make_boxplot_plotly <- function(d, fam_order, pal) {
   })
   p %>% plotly::layout(
     shapes = bands,
-    xaxis = list(title = "", tickmode = "array", tickvals = d$x_pos, ticktext = as.character(d$common_name),
-                 tickangle = -90, tickfont = list(size = 8), automargin = TRUE, showgrid = FALSE,
+    # was always one tick per species: tickvals = d$x_pos, ticktext = common names, tickangle = -90, tick font size 8
+    xaxis = list(title = "", tickmode = "array",
+                 tickvals = if (x_axis == "family") unname(fam_centre) else d$x_pos,
+                 ticktext = if (x_axis == "family") fam_order else as.character(d$common_name),
+                 tickangle = if (x_axis == "family") -45 else -90,
+                 tickfont = list(size = if (x_axis == "family") 11 else 8), automargin = TRUE, showgrid = FALSE,
                  range = c(0.5, max(d$x_pos) + 0.5),
                  rangeslider = list(visible = TRUE, thickness = 0.05)),   # drag the slider to zoom to a chunk
     yaxis = list(type = "log", title = list(text = "<b>Priority score</b>", font = list(size = 13)),
                  tickvals = c(0.05, 0.1, 0.2, 0.5, 1, 2, 5, 10, 20), ticktext = c("0.05", "0.1", "0.2", "0.5", "1", "2", "5", "10", "20"),
                  showline = TRUE, showgrid = FALSE, automargin = TRUE),
-    # legend moved to the right (it was below the plot and ran into the slider)
-    legend = list(title = list(text = "Family"), orientation = "v", x = 1.02, y = 1, yanchor = "top"),
-    margin = list(r = 140),
+    # legend removed: families are labelled on the x axis and in the hover text
+    # legend = list(title = list(text = "Family"), orientation = "v", x = 1.02, y = 1, yanchor = "top"),
+    showlegend = FALSE,
+    margin = list(r = 20),   # was r = 140 to leave room for the legend
     plot_bgcolor = "white", paper_bgcolor = "white")
 }
