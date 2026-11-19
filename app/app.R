@@ -12,7 +12,7 @@
 # =============================================================================
 library(shiny); library(DT); library(dplyr); library(leaflet); library(sf)
 library(shinythemes)   # for the sandstone theme (install.packages("shinythemes"))
-source("core_functions.R"); source("plot_functions.R"); source("exposure_explorer.R", local = TRUE); source("country_filter.R", local = TRUE)
+source("core_functions.R"); source("plot_functions.R"); source("exposure_explorer.R", local = TRUE); source("expert_explorer.R", local = TRUE); source("country_filter.R", local = TRUE)
 
 # (methods_url and the link to the GitHub notes were removed: the Instructions and Definitions pages cover it now)
 
@@ -264,6 +264,7 @@ ui <- navbarPage(
       tabPanel("Vulnerability scatter", br(), plotly::plotlyOutput("scatter", height = "650px")),
       tabPanel("Priority by family", br(), plotly::plotlyOutput("boxplot", height = "750px"))))),
   tabPanel("Exposure explorer", exposure_explorer_ui()),
+  tabPanel("Expert range explorer", expert_explorer_ui()),
   # ---- Instructions / Definitions ----
   tabPanel("Instructions", page_shell(body = instructions_ui)),
   tabPanel("Definitions", page_shell(body = definitions_ui)),
@@ -276,6 +277,7 @@ ui <- navbarPage(
 # ---- Server -------------------------------------------------------------------------------------------------
 server <- function(input, output, session) {
   exposure_explorer_server(input, output, session)
+  expert_explorer_server(input, output, session)
   output$country_note     <- renderUI(cf_note(input$country_filter, nrow(table_df()),   sum(res()$included)))
   output$country_note_lim <- renderUI(cf_note(input$country_filter, nrow(limited_df()), sum(!res()$included)))
   # ================= Tool page =================

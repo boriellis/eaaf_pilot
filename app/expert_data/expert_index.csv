@@ -1,0 +1,4 @@
+sci_name,common_name,n_respondents,overlap_lo,overlap_mean,overlap_hi,file,overlap_sd,overlap_ci_lo,overlap_ci_hi,seasons_present,months_covered,birdlife_overlap,consensus_overlap
+Thalasseus bernsteini,Chinese Crested Tern,6,0.0037906798605898545,0.012172756305625889,0.024378312697332,ranges/thalasseus_bernsteini.rds,0.00860339626184671,0.0063261919553408,0.018626573473261986,"resident, breeding, non-breeding, passage",10,0.2462886334120767,0
+Stercorarius pomarinus,Pomarine Jaeger,6,4.7249475858474255e-4,0.0018063729798165863,0.0049443469144704365,ranges/stercorarius_pomarinus.rds,0.001627448792277647,8.675599198651616e-4,0.003136354262252274,"resident, breeding, non-breeding, passage",8.666666666666666,5.11441421571966e-4,8.623500229514685e-4
+Papasula abbotti,Abbott's Booby,6,0,2.3440113592487145e-4,0.0014064068155492286,ranges/papasula_abbotti.rds,5.741631781446983e-4,0,7.032034077746143e-4,"resident, breeding, non-breeding, passage",10,0,NA

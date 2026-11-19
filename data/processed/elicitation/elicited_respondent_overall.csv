@@ -1,0 +1,19 @@
+sci_name,resp_code,seasons_present,months_covered,overlap_overall
+Papasula abbotti,R01,resident,12,0.0014064068155492286
+Papasula abbotti,R02,"breeding, non-breeding",8,0
+Papasula abbotti,R03,passage,4,0
+Papasula abbotti,R04,"resident, non-breeding",16,0
+Papasula abbotti,R05,"resident, non-breeding",16,0
+Papasula abbotti,R06,non-breeding,4,0
+Stercorarius pomarinus,R01,resident,12,0.0049443469144704365
+Stercorarius pomarinus,R02,"breeding, non-breeding, passage",12,0.0012843400535112277
+Stercorarius pomarinus,R03,passage,4,0.001093324197657269
+Stercorarius pomarinus,R04,"breeding, non-breeding",8,4.7249475858474255e-4
+Stercorarius pomarinus,R05,"breeding, non-breeding, passage",12,9.413528754264939e-4
+Stercorarius pomarinus,R06,non-breeding,4,0.002102379079249348
+Thalasseus bernsteini,R01,resident,12,0.016926033604777777
+Thalasseus bernsteini,R02,"breeding, non-breeding, passage",12,0.004156000909552272
+Thalasseus bernsteini,R03,passage,4,0.006243042528257572
+Thalasseus bernsteini,R04,"breeding, non-breeding",8,0.01754246823324586
+Thalasseus bernsteini,R05,"resident, breeding, non-breeding",20,0.0037906798605898545
+Thalasseus bernsteini,R06,non-breeding,4,0.024378312697332

@@ -1,0 +1,13 @@
+sci_name,season,range_area_km2,overlap_area_km2,pct_overlap
+Thalasseus bernsteini,resident,NA,NA,NA
+Thalasseus bernsteini,breeding,100,0,0
+Thalasseus bernsteini,non-breeding,9300.000000000153,0,0
+Thalasseus bernsteini,passage,NA,NA,NA
+Stercorarius pomarinus,resident,NA,NA,NA
+Stercorarius pomarinus,breeding,671758.4280313251,0,0
+Stercorarius pomarinus,non-breeding,1980197.872345336,3953.3763058283157,0.001996455183110543
+Stercorarius pomarinus,passage,879300.0000000006,519.3100830345788,5.905948857438628e-4
+Papasula abbotti,resident,NA,NA,NA
+Papasula abbotti,breeding,NA,NA,NA
+Papasula abbotti,non-breeding,NA,NA,NA
+Papasula abbotti,passage,NA,NA,NA

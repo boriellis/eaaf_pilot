@@ -1,0 +1,9 @@
+resp_code,id,name,created_local,status
+R01,20142,Aonghais Cook,2026-11-18 07:58:51.655,kept
+R02,20173,1234,2026-11-18 16:35:57.889,kept
+R03,20174,EmiliaLai,2026-11-18 16:39:55.021,kept
+R04,20175,233,2026-11-18 16:44:31.606,kept
+R05,20176,181126_001,2026-11-18 16:45:19.36,kept
+R06,20177,Ravindi Menikrama,2026-11-18 16:53:59.847,kept
+NA,20145,aaellis@ucsc.edu,2026-11-18 09:37:08.035,dropped: no consent
+NA,20147,test_entry2,2026-11-18 09:43:55.988,dropped: test entry
